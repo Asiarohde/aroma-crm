@@ -1,4 +1,159 @@
 {
-  "updatedAt": null,
-  "items": []
+ "updatedAt": "2026-10-17T20:32:02.944Z",
+ "items": [
+  {
+   "id": "pm:42887251",
+   "source": "pubmed",
+   "title": "Comparative antifungal activity of three essential oils against mycotoxigenic Fusarium graminearum and multi-omics analysis",
+   "journal": "Food Chem",
+   "date": "2026-10-12",
+   "authors": "Cheng Y, Yu H, Wang L i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42887251/",
+   "topic": "eo",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Badanie szukało ekologicznych olejków eterycznych hamujących grzyba Fusarium graminearum, groźnego patogenu zbóż, który wytwarza toksynę DON. Testowano siedem olejków w warunkach laboratoryjnych, a także na siewkach pszenicy. Najskuteczniejsze okazały się karwakrol, cynamonaldehyd i cytral, które silnie hamowały wzrost grzybni, kiełkowanie zarodników i produkcję DON, a w doświadczeniach na siewkach karwakrol i cynamonaldehyd ograniczyły zgorzel podstawy źdźbła. Analizy multi-omiczne wskazały uszkodzenie ściany i błony komórkowej grzyba oraz zaburzenia jego metabolizmu.",
+   "titlePl": "Porównawcza aktywność przeciwgrzybowa trzech olejków eterycznych wobec mikotoksycznego Fusarium graminearum i analiza multi-omiczna",
+   "takeaway": "To badanie laboratoryjne i rolnicze, prowadzone na grzybach i roślinach, a nie na ludziach, więc jego wyników nie wolno przenosić na działanie olejków w zdrowiu człowieka. Może być ciekawym kierunkiem dla rolnictwa, ale nie daje podstaw do wniosków dotyczących stosowania w praktyce aromaterapeutycznej."
+  },
+  {
+   "id": "pm:42859231",
+   "source": "pubmed",
+   "title": "Bridging evidence gaps in opioid-sparing postoperative pain control for percutaneous nephrolithotomy: a network meta-analysis identifying optimal strategies",
+   "journal": "Urolithiasis",
+   "date": "2026-10-10",
+   "authors": "Li P, Tao K, Jian Z i in.",
+   "types": [
+    "przegląd systematyczny",
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42859231/",
+   "topic": "aroma",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł dotyczy sposobów łagodzenia bólu po perkutanowej nefrolitotomii, czyli zabiegu usuwania dużych kamieni nerkowych. Autorzy przeprowadzili przegląd systematyczny i metaanalizę sieciową 45 badań z udziałem RCT, obejmujących 2626 dorosłych pacjentów, i porównali różne strategie przeciwbólowe, w tym znieczulenia miejscowe, leki dożylne, podania miejscowe, znieczulenie podpajęczynówkowe oraz aromaterapię. Główny wynik to przewaga levobupiwakainy nad bupiwakainą i ropiwakainą w zmniejszaniu bólu oraz lepsza skuteczność leków niebędących opioidami, takich jak NLPZ i paracetamol. Najwyżej w analizie wielokryterialnej uplasował się dożylny paracetamol z miejscowo podawaną levobupiwakainą, jednak dane o bezpieczeństwie były nieliczne i mało precyzyjne.",
+   "titlePl": "Wypełnianie luk w dowodach dotyczących kontroli bólu pooperacyjnego z ograniczeniem opioidów po perkutanowej nefrolitotomii: metaanaliza sieciowa wskazująca optymalne strategie",
+   "takeaway": "Badanie dotyczy bólu pooperacyjnego po zabiegu w szpitalu i nie zawiera wyniku dla aromaterapii, więc nie daje podstaw do wskazywania olejków eterycznych jako sposobu łagodzenia bólu po zabiegach. Ograniczeniem jest słabe udokumentowanie bezpieczeństwa oraz brak danych dla grup wysokiego ryzyka."
+  },
+  {
+   "id": "pm:42883678",
+   "source": "pubmed",
+   "title": "Considering Culinary Use of Lavender: Sensory and Cultural Factors",
+   "journal": "Foods",
+   "date": "2026-10-08",
+   "authors": "Uçuk C, Spence C",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42883678/",
+   "topic": "sleep",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł to narracyjny przegląd historyczny, który pyta, dlaczego lawenda jest w kuchni rzadziej używana niż inne zioła śródziemnomorskie. Autorzy omawiają i krytycznie oceniają kilka hipotez: historyczne, chemiczne, percepcyjne, psychologiczne, fizjologiczne i przeciwdrobnoustrojowe. Według nich główną przeszkodą może być silne skojarzenie lawendy z zapachem, relaksem i snem, a różnice w aktywności przeciwdrobnoustrojowej, dostępności czy konserwowaniu nie wystarczają, by to wyjaśnić. Autorzy zauważają jednocześnie, że rosnące użycie lawendy w nowoczesnej kuchni pokazuje, iż ten związek nie jest stały, a akceptacja zależy od kontekstu, przyzwyczajenia, odmiany, stężenia i sposobu dodania do potrawy.",
+   "titlePl": "Rozważania nad kulinarnym zastosowaniem lawendy: czynniki sensoryczne i kulturowe",
+   "takeaway": "To przegląd hipotez, a nie badanie potwierdzające konkretne zależności, więc wniosków nie należy traktować jako pewnych. Streszczenie nie zawiera danych o bezpieczeństwie spożywania lawendy, dlatego przy doradzaniu w kwestii kuchni warto ograniczać się do ogólnych informacji o smaku i zapachu."
+  },
+  {
+   "id": "pm:42865382",
+   "source": "pubmed",
+   "title": "Topical herbal medicine as treatment for chemotherapy-induced peripheral neuropathy: a systematic review of randomized controlled trials",
+   "journal": "Front Oncol",
+   "date": "2026-09-28",
+   "authors": "Shao C, Shao C, Haggarty A i in.",
+   "types": [
+    "przegląd systematyczny"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42865382/",
+   "topic": "skin",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Przegląd systematyczny sprawdzał, czy miejscowo stosowane preparaty ziołowe, w tym olejki, poprawiają objawy neuropatii obwodowej wywołanej chemioterapią u pacjentów onkologicznych. Autorzy przeszukali bazy danych i uwzględnili pięć badań z udziałem 201 osób, oceniając m.in. ból, nasilenie objawów i działania niepożądane. Henna w porównaniu ze standardową opieką istotnie zmniejszyła nasilenie neuropatii u pacjentek z rakiem piersi, a olejek Costus sp. zmniejszył natężenie bólu w porównaniu z placebo w mieszanej grupie pacjentów. Inne preparaty nie wykazały istotnej poprawy, a wszystkie były dobrze tolerowane, z łagodnymi miejscowymi reakcjami skórnymi.",
+   "titlePl": "Miejscowe zioła w leczeniu neuropatii obwodowej wywołanej chemioterapią: przegląd systematyczny badań randomizowanych",
+   "takeaway": "Ograniczeniem jest mała liczba badań i uczestników oraz umiarkowane ryzyko błędu, dlatego wyniki są wstępne i nie dają podstaw do polecania olejków jako sposobu leczenia neuropatii. Osobom w trakcie chemioterapii z takimi objawami należy zalecić kontakt z lekarzem prowadzącym przed użyciem jakichkolwiek preparatów."
+  },
+  {
+   "id": "pm:42884781",
+   "source": "pubmed",
+   "title": "Chemical Profiling and Authentication of Boswellia Species and Frankincense Products: Advances in Metabolomics and Quality Markers",
+   "journal": "Plants (Basel)",
+   "date": "2026-09-23",
+   "authors": "Nastić N, Pastor K",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42884781/",
+   "topic": "eo",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Przegląd dotyczy kadzidła, czyli żywicy pozyskiwanej z gatunków Boswellia, używanej w medycynie tradycyjnej, kosmetyce, perfumerii i produktach kadzidlanych. Autorzy omówili metody profilowania chemicznego i uwierzytelniania, oparte na terpenach lotnych, diterpenoidach, kwasach bswelowych i wieloczynnikowych modelach jakości, oraz zwrócili uwagę na ryzyko zamiany gatunków, błędnego oznaczenia pochodzenia i domieszek. Wynik pokazuje, że pojedyncze markery i ogólne oznaczenia kwasów są niewystarczające, natomiast połączenie kilku uzupełniających się metod daje znacznie większą pewność. Autorzy podkreślają też potrzebę standardów, certyfikowanych materiałów referencyjnych i identyfikowalności łańcucha dostaw.",
+   "titlePl": "Profilowanie chemiczne i uwierzytelnianie gatunków Boswellia oraz produktów z kadzidła: postępy w metabolomice i markery jakości",
+   "takeaway": "Przy zakupie żywicy lub produktów z Boswellia warto sprawdzać dokumentację pochodzenia i jakości, bo jeden wskaźnik nie potwierdza autentyczności. Artykuł jest przeglądem literatury, a nie badaniem praktycznym, i nie odnosi się do skutków zdrowotnych."
+  },
+  {
+   "id": "ia:wieczorne-rytualy-jak-olejki-eteryczne-na-sen-pomagaja-dzieciom-wrocic-do-rytmu-szkolnego",
+   "source": "instytut",
+   "title": "Wieczorne rytuały: jak olejki eteryczne na sen pomagają dzieciom wrócić do rytmu szkolnego",
+   "link": "https://www.instytutaroma.pl/wieczorne-rytualy-jak-olejki-eteryczne-na-sen-pomagaja-dzieciom-wrocic-do-rytmu-szkolnego/",
+   "date": "2026-09-01",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł dotyczy trudności ze snem u dzieci po wakacjach, gdy wracają do szkolnego rytmu. Według streszczenia takie przystosowanie trwa około dwóch tygodni, a pomóc może prosty wieczorny rytuał. Opisano typowy pierwszy tydzień września, w którym dziecko późno zasypia i wcześnie wstaje. Streszczenie jest urwane i nie opisuje metody ani wyników, więc nie wiadomo z niego, jaką rolę mają w tym olejki eteryczne.",
+   "titlePl": "Wieczorne rytuały: jak olejki eteryczne na sen pomagają dzieciom wrócić do rytmu szkolnego",
+   "takeaway": "Z podanego fragmentu nie wynika, jak olejki eteryczne wpływają na sen dziecka, dlatego nie obiecuj poprawy snu. Przy długotrwałych problemach ze snem u dziecka warto skonsultować się z pediatrą."
+  },
+  {
+   "id": "ia:powrot-do-szkoly-z-aromaterapia-zapach-ktory-moze-wspierac-dobry-nastroj-i-nauke",
+   "source": "instytut",
+   "title": "Powrót do szkoły z aromaterapią – zapach, który może wspierać dobry nastrój i naukę",
+   "link": "https://www.instytutaroma.pl/powrot-do-szkoly-z-aromaterapia-zapach-ktory-moze-wspierac-dobry-nastroj-i-nauke/",
+   "date": "2026-08-27",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Tekst dotyczy powrotu dzieci do szkoły, który wiąże się ze zmianą rytmu dnia, nowymi obowiązkami i emocjami. Autor pyta, czy w domu można w prosty sposób stworzyć atmosferę sprzyjającą dobremu nastrojowi i nauce. Streszczenie nie opisuje żadnego badania ani metody, a jego zakończenie jest urwane, więc nie podaje konkretnych wyników.",
+   "titlePl": "Powrót do szkoły z aromaterapią – zapach, który może wspierać dobry nastrój i naukę",
+   "takeaway": "Zapach może być elementem przyjemnej atmosfery, ale z tego fragmentu nie wynika, że wspiera nastrój lub naukę. Nie obiecuj klientom poprawy koncentracji ani nastroju, a zapach przedstaw jako kwestię osobistego wyboru."
+  },
+  {
+   "id": "ia:dlaczego-pomarancza-krwista-jest-czerwona-sekret-sycylii-etny-i-antocyjanow",
+   "source": "instytut",
+   "title": "Dlaczego pomarańcza krwista jest czerwona? Sekret Sycylii, Etny i antocyjanów",
+   "link": "https://www.instytutaroma.pl/dlaczego-pomarancza-krwista-jest-czerwona-sekret-sycylii-etny-i-antocyjanow/",
+   "date": "2026-08-25",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł wyjaśnia, dlaczego pomarańcze krwiste mają intensywnie czerwony kolor. Według streszczenia za barwę odpowiadają naturalne związki roślinne, antocyjany, a ich powstawanie silnie zależy od warunków, w jakich dojrzewa owoc. Wymienione są znane odmiany Tarocco, Moro i Sanguinello, kojarzone z Sycylią, zwłaszcza z okolicami wulkanu Etna. Streszczenie nie opisuje badań, więc nie podaje wyników pomiarów.",
+   "titlePl": "Dlaczego pomarańcza krwista jest czerwona? Sekret Sycylii, Etny i antocyjanów",
+   "takeaway": "Tekst dotyczy owocu, a nie olejku eterycznego, dlatego nie przenoś z niego wniosków na działanie olejków. Dla praktyki jest to raczej ciekawostka o pochodzeniu barwy owoców."
+  },
+  {
+   "id": "pm:42858981",
+   "source": "pubmed",
+   "title": "Bilayer TPU films integrating pH-responsive bromocresol purple-fluorescein indicators and carvacrol/tea tree oil-loaded HKUST-1@alkaline lignin: Visualization, controlled release, and meat preservation",
+   "journal": "Food Res Int",
+   "date": "2026-08-22",
+   "authors": "Du L, Zhai X, Han X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42858981/",
+   "topic": "tea",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Autorzy opracowali dwuwarstwową folię opakowaniową, która pokazuje zmianę koloru pod wpływem amin wydzielanych przez psujące się produkty i jednocześnie uwalnia substancje o działaniu przeciwbakteryjnym. Badania laboratoryjne wykazały odwracalną reakcję wskaźnika na aminy, działanie wobec czterech szczepów bakterii i brak wykrywalnej cytotoksyczności wyciągów w testowanych warunkach. W schłodzonej wołowinie wybrana wersja folii opóźniła pogorszenie jakości o około 4 dni i zmieniała barwę z żółtej na pomarańczowoczerwoną, a zmiana koloru dobrze korelowała ze wskaźnikami zepsucia mięsa.",
+   "titlePl": "Dwuwarstwowe folie TPU łączące wskaźniki pH z bromokrezolem purpurowym i fluoresceiną oraz nośniki HKUST-1 z ligniną zawierające karwakrol i olejek z drzewa herbacianego: wizualizacja, kontrolowane uwalnianie i konserwacja mięsa",
+   "takeaway": "To badanie laboratoryjne dotyczące opakowań do żywności i nie dotyczy stosowania olejków eterycznych na skórę ani do wdychania. Ograniczeniem jest to, że przetestowano tylko jeden rodzaj produktu (wołowinę) i jedną formułę folii, więc wyników nie należy przenosić na inne zastosowania."
+  },
+  {
+   "id": "ia:woda-krolowej-wegierskiej-legenda-ktora-pachnie-rozmarynem-i-odrobina-marketingu",
+   "source": "instytut",
+   "title": "Woda Królowej Węgierskiej: legenda, która pachnie rozmarynem (i odrobiną marketingu)",
+   "link": "https://www.instytutaroma.pl/woda-krolowej-wegierskiej-legenda-ktora-pachnie-rozmarynem-i-odrobina-marketingu/",
+   "date": "2026-08-06",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł dotyczy wody Królowej Węgierskiej, zwanej też larendogrą, którą od wieków uważa się za eliksir młodości. Autor sprawdza, ile prawdy jest w popularnej historii o schorowanej królowej, która dostaje ten specyfik od tajemniczego pustelnika. Tekst ma charakter popularnego omówienia legendy, a nie relacji z badań.",
+   "titlePl": "Woda Królowej Węgierskiej: legenda, która pachnie rozmarynem (i odrobiną marketingu)",
+   "takeaway": "Źródło opisuje przede wszystkim historię i legendę, dlatego nie traktuj tej wody jako sprawdzonego środka odmładzającego. Przekazując klientom takie opowieści, zaznaczaj, że to tradycja, a nie potwierdzony efekt."
+  },
+  {
+   "id": "ia:olejki-eteryczne-na-urlop-5-niezbednych-olejkow-do-wakacyjnej-apteczki",
+   "source": "instytut",
+   "title": "Olejki eteryczne na urlop — 5 niezbędnych olejków do wakacyjnej apteczki",
+   "link": "https://www.instytutaroma.pl/olejki-eteryczne-na-urlop-5-niezbednych-olejkow-do-wakacyjnej-apteczki/",
+   "date": "2026-08-04",
+   "addedAt": "2026-10-17",
+   "summaryPl": "Artykuł przedstawia pomysł na małą wakacyjną apteczkę z olejkami eterycznymi, którą można zabrać w kosmetyczce. Autor twierdzi, że pięć dobranych olejków może pomóc w typowych drobnych sytuacjach, takich jak oparzenia słoneczne czy komary wieczorem. Tekst zawiera też wskazówki, jak bezpiecznie używać tych olejków.",
+   "titlePl": "Olejki eteryczne na urlop — 5 niezbędnych olejków do wakacyjnej apteczki",
+   "takeaway": "Przy doradzaniu na wyjazd podkreślaj zasady bezpieczeństwa i sprawdzanie przeciwwskazań, szczególnie u dzieci, kobiet w ciąży i osób z wrażliwą skórą. Olejki nie zastępują lekarza ani apteki w przypadku poważniejszych oparzeń, reakcji alergicznych czy ukąszeń."
+  }
+ ]
 }
