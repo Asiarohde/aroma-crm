@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-17T19:54:41.643Z",
+ "updatedAt": "2026-10-17T20:02:28.380Z",
  "items": [
+  {
+   "id": "pm:42887156",
+   "source": "pubmed",
+   "title": "Phytotoxic effects and environmental safety of nanoparticles incorporating a eucalyptus essential oil",
+   "journal": "Plant Physiol Biochem",
+   "date": "2026-10-15",
+   "authors": "Pinto M, Soares C, Ribeiro A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42887156/",
+   "topic": "eo",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "pm:42885100",
+   "source": "pubmed",
+   "title": "Unveiling chemical composition of peppermint oil and its bioactivities compared with (R)-(+)-limonene: antimicrobial, antibiofilm, and insecticidal perspectives",
+   "journal": "J Sci Food Agric",
+   "date": "2026-10-15",
+   "authors": "Kačániová M, Garzoli S, Qiao M i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42885100/",
+   "topic": "eo",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "pm:42887155",
+   "source": "pubmed",
+   "title": "Functional characterization and evolutionary diversification of sesquiterpene synthases in Cunninghamia konishii",
+   "journal": "Plant Physiol Biochem",
+   "date": "2026-10-14",
+   "authors": "Lin TW, Chung JD, Wang SY i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42887155/",
+   "topic": "eo",
+   "addedAt": "2026-10-17"
+  },
   {
    "id": "pm:42887251",
    "source": "pubmed",
@@ -11,6 +47,18 @@
    "types": [],
    "link": "https://pubmed.ncbi.nlm.nih.gov/42887251/",
    "topic": "eo",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "pm:42858151",
+   "source": "pubmed",
+   "title": "Inhaled β-myrcene alleviates insomnia in mice by modulating 5-HT1A/PKA signaling and the gut microbiota",
+   "journal": "Nutr Neurosci",
+   "date": "2026-10-10",
+   "authors": "Xu D, Chen L, Chen X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42858151/",
+   "topic": "sleep",
    "addedAt": "2026-10-17"
   },
   {
@@ -71,6 +119,18 @@
    "addedAt": "2026-10-17"
   },
   {
+   "id": "pm:42856830",
+   "source": "pubmed",
+   "title": "Therapeutic efficacy and dermal safety of topical clove essential oil spray against bacterial, yeast, and fungal skin infections in rat models: A pilot non-inferiority study",
+   "journal": "Vet World",
+   "date": "2026-09-14",
+   "authors": "Thongkham E, Borlace GN, Singh R i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42856830/",
+   "topic": "skin",
+   "addedAt": "2026-10-17"
+  },
+  {
    "id": "ia:wieczorne-rytualy-jak-olejki-eteryczne-na-sen-pomagaja-dzieciom-wrocic-do-rytmu-szkolnego",
    "source": "instytut",
    "title": "Wieczorne rytuały: jak olejki eteryczne na sen pomagają dzieciom wrócić do rytmu szkolnego",
@@ -107,6 +167,18 @@
    "addedAt": "2026-10-17"
   },
   {
+   "id": "pm:42859438",
+   "source": "pubmed",
+   "title": "Mechanistic insights into the antimicrobial activity of a novel essential oil blend against Bacillus subtilis using RNA sequencing",
+   "journal": "AIMS Microbiol",
+   "date": "2026-08-12",
+   "authors": "Robinson BN, Ike KA, Padilla-Arroyo A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42859438/",
+   "topic": "sleep",
+   "addedAt": "2026-10-17"
+  },
+  {
    "id": "ia:woda-krolowej-wegierskiej-legenda-ktora-pachnie-rozmarynem-i-odrobina-marketingu",
    "source": "instytut",
    "title": "Woda Królowej Węgierskiej: legenda, która pachnie rozmarynem (i odrobiną marketingu)",
@@ -120,6 +192,22 @@
    "title": "Olejki eteryczne na urlop — 5 niezbędnych olejków do wakacyjnej apteczki",
    "link": "https://www.instytutaroma.pl/olejki-eteryczne-na-urlop-5-niezbednych-olejkow-do-wakacyjnej-apteczki/",
    "date": "2026-08-04",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "ia:zapach-ktory-towarzyszy-ci-w-drodze-aromaterapia-samochodowa-z-aroma-car",
+   "source": "instytut",
+   "title": "Zapach, który towarzyszy Ci w drodze – aromaterapia samochodowa z Aroma CAR",
+   "link": "https://www.instytutaroma.pl/zapach-ktory-towarzyszy-ci-w-drodze-aromaterapia-samochodowa-z-aroma-car/",
+   "date": "2026-07-09",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "ia:wloska-cytryna-dlaczego-kosztuje-wiecej-i-dlaczego-perfumiarze-ja-uwielbiaja",
+   "source": "instytut",
+   "title": "Włoska cytryna – dlaczego kosztuje więcej i dlaczego perfumiarze ją uwielbiają?",
+   "link": "https://www.instytutaroma.pl/wloska-cytryna-dlaczego-kosztuje-wiecej-i-dlaczego-perfumiarze-ja-uwielbiaja/",
+   "date": "2026-06-12",
    "addedAt": "2026-10-17"
   }
  ]
