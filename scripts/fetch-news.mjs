@@ -215,7 +215,7 @@ async function claude(prompt) {
     const r = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-api-key': KEY, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({ model, max_tokens: 6000, messages: [{ role: 'user', content: prompt }] }),
+      body: JSON.stringify({ model, max_tokens: 4000, messages: [{ role: 'user', content: prompt }] }),
       signal: AbortSignal.timeout(120000),
     });
     const body = await r.text();
@@ -276,10 +276,18 @@ export async function main() {
   const fresh = [...pubmed, ...inst].map(a => ({ ...a, addedAt: today }));
   console.log(`Nowe: PubMed ${pubmed.length}, Instytut ${inst.length}.`);
   if (KEY && fresh.length) {
-    try {
-      const n = applySummaries(fresh, parseJsonArray(await claude(buildPrompt(fresh))));
-      console.log(`Streszczenia po polsku: ${n} z ${fresh.length}.`);
-    } catch (e) { console.error('Streszczenia po polsku nie powstały:', e.message); }
+    let n = 0;
+    for (let i = 0; i < fresh.length; i += 3) {
+      const batch = fresh.slice(i, i + 3);
+      let txt = '';
+      try {
+        txt = await claude(buildPrompt(batch));
+        n += applySummaries(batch, parseJsonArray(txt));
+      } catch (e) {
+        console.error(`Streszczenia po polsku (porcja ${i / 3 + 1}) nie powstały:`, e.message, '| początek odpowiedzi:', JSON.stringify(txt.slice(0, 200)));
+      }
+    }
+    console.log(`Streszczenia po polsku: ${n} z ${fresh.length}.`);
   } else if (!KEY) {
     console.log('Brak ANTHROPIC_API_KEY: zapisuję bez streszczeń po polsku.');
   }
