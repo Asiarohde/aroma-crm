@@ -1,0 +1,6 @@
+# Dane klientów NIGDY nie trafiają do repozytorium
+aroma-crm-kopia-*.json
+aroma-crm-kontakty*.csv
+*.csv
+node_modules/
+.DS_Store
