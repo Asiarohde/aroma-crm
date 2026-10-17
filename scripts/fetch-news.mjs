@@ -16,7 +16,7 @@ import { fileURLToPath } from 'node:url';
 const OUT = new URL('../news.json', import.meta.url);
 const EU = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/';
 const FEED = 'https://www.instytutaroma.pl/feed/';
-const UA = 'aroma-crm-news/1.0 (prywatne narzędzie do nauki)';
+const UA = 'aroma-crm-news/1.0 (private learning tool)';
 const KEY = process.env.ANTHROPIC_API_KEY || '';
 const MODEL = process.env.ANTHROPIC_MODEL || 'claude-haiku-5-5';
 const KEEP_DAYS = 90;
