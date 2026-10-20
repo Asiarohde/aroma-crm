@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-10-19T05:26:48.090Z",
+ "updatedAt": "2026-10-20T05:24:39.093Z",
  "items": [
+  {
+   "id": "pm:42896717",
+   "source": "pubmed",
+   "title": "Effects of Aromatherapy on The pain-anxiety-Sleep disturbance Symptom Cluster in Breast Cancer Patients A Systematic Review",
+   "journal": "Complement Ther Med",
+   "date": "2026-10-19",
+   "authors": "Yuan Y, Hu D, Tu J",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42896717/",
+   "topic": "aroma",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Przegląd systematyczny sprawdzał, czy aromaterapia może łagodzić jednocześnie ból, lęk i zaburzenia snu u pacjentek z rakiem piersi. Autorzy uwzględnili 10 badań z randomizacją, ocenili ryzyko błędu narzędziem ROB 2 i zestawili wyniki w formie opisowej. Według nich skuteczniejsze były interwencje trwające do 4 tygodni, stosowane wieczorem i trwające 20–30 minut. Autorzy piszą, że aromaterapia może być potencjalnym wsparciem, ale potrzebne są lepsze badania.",
+   "titlePl": "Wpływ aromaterapii na zespół objawów: ból, lęk i zaburzenia snu u pacjentek z rakiem piersi. Przegląd systematyczny",
+   "takeaway": "Wyniki mają charakter wstępny, a autorzy wskazują na potrzebę badań o wyższej jakości. Rozmawiając z osobami po leczeniu onkologicznym, przekazuj, że dowody są ograniczone, a pytania o objawy kieruj do lekarza prowadzącego."
+  },
+  {
+   "id": "pm:42896843",
+   "source": "pubmed",
+   "title": "MBWCT-Net: Multiscale Transient Learning for Early Discrimination of Wood-Extracted VOC Mixtures via an Electronic Nose",
+   "journal": "ACS Sens",
+   "date": "2026-10-19",
+   "authors": "Zhang Q, Liu J, Zou X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42896843/",
+   "topic": "eo",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Badanie techniczne dotyczyło rozpoznawania mieszanin lotnych związków pochodzących z drewna, z użyciem olejków eukaliptusowego, różanego i sandałowego jako wzorców. Analiza składu chemicznego pokazała różnice między tymi olejkami, a autorzy opracowali sieć neuronową MBWCT-Net do przetwarzania sygnałów z elektronicznego nosa. Model osiągnął około 95% dokładności w pięciokrotnej walidacji i zachował wysoki wynik także przy użyciu pierwszych 45 sekund odpowiedzi czujnika. Pomiary czasu obliczeń i zużycia pamięci dotyczyły wyłącznie wykonalności technicznej.",
+   "titlePl": "MBWCT-Net: wieloskalowe uczenie przejściowych sygnałów do wczesnego rozróżniania mieszanin lotnych związków organicznych z drewna za pomocą elektronicznego nosa",
+   "takeaway": "Jest to badanie laboratoryjne na trzech olejkach i urządzeniach pomiarowych, bez oceny działania na ludzi, więc nie mówi nic o skuteczności olejków ani o bezpieczeństwie ich stosowania. W doradztwie traktuj je jako przykład technologii analizy zapachów, a nie jako dowód dla klientów."
+  },
+  {
+   "id": "pm:42896722",
+   "source": "pubmed",
+   "title": "Acyloxyneryl esters in Doronicum austriacum subsp. giganteum essential oil: structure elucidation, synthesis, and GC-MS/RI library development",
+   "journal": "Phytochemistry",
+   "date": "2026-10-19",
+   "authors": "Dimitrijević MŽ, Raca IL, Radulović NS",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42896722/",
+   "topic": "eo",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Badanie dotyczyło składu olejku eterycznego z podziemnych części Doronicum austriacum subsp. giganteum, który opisano po raz pierwszy. Metodami chromatografii gazowej sprzężonej ze spektrometrią mas oraz rezonansem magnetycznym jądrowym (NMR) zidentyfikowano dziewięć wcześniej nieopisanych związków, a dwoma najliczniejszymi składnikami były izomaślan neryla (44,2%) i 2-metylomaślan neryla (28,8%). Autorzy opracowali też referencyjne dane do rozpoznawania podobnych związków. Wynik ma charakter chemiczny i analityczny, a nie dotyczy działania olejku.",
+   "titlePl": "Estry acyloksyneryl w olejku eterycznym z Doronicum austriacum subsp. giganteum: ustalenie struktury, synteza i biblioteka GC-MS/RI",
+   "takeaway": "Źródło opisuje wyłącznie skład chemiczny olejku, bez danych o jego działaniu czy bezpieczeństwie stosowania. Jest to ograniczenie: nie można na tej podstawie wnioskować o zastosowaniu tego olejku w praktyce doradczej."
+  },
+  {
+   "id": "pm:42896623",
+   "source": "pubmed",
+   "title": "Essential Oils From the Fruit of Amomum villosum Lour. Alleviate LPS-Induced Neuroinflammation by Repressing PI3K-Akt and MAPK Signaling Pathways",
+   "journal": "Phytother Res",
+   "date": "2026-10-19",
+   "authors": "Wang H, Li X, Huang Z i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42896623/",
+   "topic": "eo",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Badanie sprawdzało, czy olejek eteryczny z owoców Amomum villosum Lour. może osłabiać neurozapalenie u myszy, u których wywołano je lipopolisacharydem (LPS). Myszy otrzymywały olejek, a następnie oceniano ich funkcje poznawcze i zachowanie w testach, poziom cytokin zapalnych w mózgu oraz szlaki sygnałowe w komórkach mikrogleju i neuronach hodowanych razem. Autorzy zauważyli poprawę wyników w testach, zmniejszenie markerów zapalnych i ograniczenie nadmiernej aktywacji szlaków PI3K-Akt i MAPK. Wyniki wskazują na możliwy mechanizm działania, ale były uzyskane w warunkach doświadczalnych.",
+   "titlePl": "Olejki eteryczne z owoców Amomum villosum Lour. łagodzą zapalenie układu nerwowego wywołane LPS poprzez hamowanie szlaków PI3K-Akt i MAPK",
+   "takeaway": "Badanie zostało przeprowadzone na myszach i w hodowli komórkowej, więc jego wyniki nie przekładają się automatycznie na człowieka. Nie można z niego wyciągać obietnic dotyczących zdrowia ani wskazówek leczniczych."
+  },
+  {
+   "id": "pm:42896611",
+   "source": "pubmed",
+   "title": "Combining essential oils and kaolin clay increased repellency against Bemisia tabaci (Hemiptera: Aleyrodidae): implications for management",
+   "journal": "J Econ Entomol",
+   "date": "2026-10-19",
+   "authors": "Gonsiorek JP, Martini X, Liburd OE",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42896611/",
+   "topic": "eo",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Badanie dotyczyło szkodnika warzyw, mątwika ziemniaczanego Bemisia tabaci, czyli białoskrzydłka, i tego, czy olejki eteryczne mogą go odstraszać jako alternatywa dla insektycydów. Najpierw przebadano 12 olejków w olfaktometrze typu Y, a pięć z nich, w tym limonen, cytral i geraniol, wykazało istotne działanie odstraszające. Następnie sprawdzono te substancje na roślinach dyni, z dodatkiem glinki kaolinowej lub bez niej. Połączenie każdego olejku z kaolinem wyraźnie zwiększało odstraszanie w porównaniu z samym olejkiem lub samym kaolinem, a E-cynamaldehyd powodował objawy fitotoksyczności.",
+   "titlePl": "Połączenie olejków eterycznych i glinki kaolinowej zwiększyło odstraszanie Bemisia tabaci (Hemiptera: Aleyrodidae): wnioski dla zwalczania szkodników",
+   "takeaway": "Wyniki pochodzą z badań laboratoryjnych i z jednego układu roślinnego (dynia), więc nie mówią o skuteczności w innych warunkach. Ograniczeniem jest też fitotoksyczność E-cynamaldehydu, dlatego nie należy przenosić tych wniosków na ochronę roślin bez dodatkowej wiedzy specjalistycznej."
+  },
+  {
+   "id": "pm:42895001",
+   "source": "pubmed",
+   "title": "A comprehensive review of the taxonomy, pathogenesis, and therapeutic challenges of Malassezia pachydermatis in companion animals",
+   "journal": "Pol J Vet Sci",
+   "date": "2026-09-17",
+   "authors": "Mroczyńska-Szeląg M, Szczepański P, Brillowska-Dąbrowska A",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42895001/",
+   "topic": "eo",
+   "addedAt": "2026-10-20",
+   "summaryPl": "Przegląd opisuje drożdżaka Malassezia pachydermatis, który występuje na skórze psów i kotów i może wywoływać zakażenia, gdy równowaga mikrobiologiczna zostaje zaburzona. Najczęściej wiąże się go z zapaleniem uszu i skóry u psów, a coraz częściej także u kotów. Autorzy zwracają uwagę na brak ujednoliconych metod badania wrażliwości na leki przeciwgrzybicze oraz na rosnącą oporność na azole. Wspominają, że olejki eteryczne, np. oregano i tymianek, wykazywały znaczącą aktywność wobec drożdży z tego rodzaju, co uznano za obiecujący kierunek badań.",
+   "titlePl": "Kompleksowy przegląd taksonomii, patogenezy i wyzwań terapeutycznych Malassezia pachydermatis u zwierząt towarzyszących",
+   "takeaway": "To przegląd wskazujący kierunek badań, a nie sprawdzoną metodę postępowania u zwierząt. Olejków nie należy traktować jako zamiennika diagnostyki i leczenia weterynaryjnego, a problemy zdrowotne psów i kotów warto konsultować z lekarzem weterynarii."
+  },
   {
    "id": "pm:42892342",
    "source": "pubmed",
