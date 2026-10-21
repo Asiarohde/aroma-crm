@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-10-20T05:24:39.093Z",
+ "updatedAt": "2026-10-21T05:24:50.611Z",
  "items": [
+  {
+   "id": "pm:42900684",
+   "source": "pubmed",
+   "title": "Chemometric analysis and evaluation of antioxidant and antidiabetic activities of Cinnamomum keralaense Kosterm. leaf essential oil nanoemulsions",
+   "journal": "Nat Prod Res",
+   "date": "2026-10-20",
+   "authors": "Sriramavaratharajan V, Bellermin B, M-Thirusenthilarasan I i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42900684/",
+   "topic": "eo",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Badanie porównywało skład olejków eterycznych z liści kilku populacji Cinnamomum keralaense, używając analizy wielowymiarowej, oraz oceniało aktywność antyoksydacyjną i przeciwcukrzycową ich nanoemulsji. Nanoemulsja w stosunku 1:2 miała mniejsze cząstki i umiarkowaną stabilność przez 60 dni. Populacja CK1 wykazała najsilniejszą aktywność antyoksydacyjną w testach DPPH i ABTS, a w teście tolerancji glukozy u szczurów Wistar obniżała poziom glukozy we krwi. Autorzy sami zaznaczają, że wyniki wymagają dalszych badań in vivo.",
+   "titlePl": "Analiza chemometryczna oraz ocena aktywności antyoksydacyjnej i przeciwcukrzycowej nanoemulsji olejku eterycznego z liści Cinnamomum keralaense Kosterm.",
+   "takeaway": "To badanie wstępne, prowadzone w warunkach laboratoryjnych i na szczurach, więc nie pozwala wnioskować o działaniu olejku u ludzi. Nie należy przenosić tych wyników na zalecenia dotyczące cukrzycy ani innych schorzeń."
+  },
+  {
+   "id": "pm:42900682",
+   "source": "pubmed",
+   "title": "GC-MS and 1 H-NMR chemical analyses of unexplored Dhofarense Launaea essential oil (Oman): Launaea almahrahensis N.Kilian",
+   "journal": "Nat Prod Res",
+   "date": "2026-10-20",
+   "authors": "Titone GM, Ilardi V, Sottile F i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42900682/",
+   "topic": "eo",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Badanie opisało skład chemiczny olejku eterycznego z omańskich próbek Launaea almahrahensis, gatunku wcześniej niezbadanego, przy użyciu GC-MS i 1H-NMR. Główne składniki to węglowodory monoterpenowe (ok. 78,7%), przede wszystkim limonen (ok. 41,3%) i β-mircen (ok. 35,6%), a także dillapiol (ok. 3%). Autorzy uzupełnili pracę przeglądem literatury o innych gatunkach rodzaju Launaea.",
+   "titlePl": "Analiza GC-MS i 1H-NMR olejku eterycznego z nieopisanego dotąd Launaea (Dhofarense) z Omanu: Launaea almahrahensis N.Kilian",
+   "takeaway": "Opis dotyczy składu olejku z jednego regionu i konkretnych próbek, a nie gotowego produktu o określonych właściwościach. Skład chemiczny nie przesądza o działaniu olejku, dlatego nie należy na jego podstawie przypisywać mu efektów zdrowotnych."
+  },
+  {
+   "id": "pm:42900275",
+   "source": "pubmed",
+   "title": "In vitro assessment of the free radical scavenging and cytotoxic activities of Piper betle leaf essential oil",
+   "journal": "Med Oncol",
+   "date": "2026-10-20",
+   "authors": "Janani P, Anju A, Anjana A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42900275/",
+   "topic": "eo",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Badanie oceniało w warunkach in vitro właściwości antyoksydacyjne i przeciwnowotworowe olejku eterycznego z liści Piper betle. Aktywność antyoksydacyjną sprawdzano kilkoma testami (DPPH, nadtlenek wodoru, dysmutaza ponadtlenkowa, ABTS), a działanie cytotoksyczne na komórkach linii KB (rak jamy ustnej). Olejek wykazywał silne, zależne od stężenia działanie przeciwproliferacyjne, z wartością IC50 wynoszącą 22,8 µg/mL, oraz wyraźną aktywność antyoksydacyjną we wszystkich testach.",
+   "titlePl": "Ocena in vitro aktywności wymiatania wolnych rodników i cytotoksycznej olejku eterycznego z liści Piper betle",
+   "takeaway": "Wyniki pochodzą z badań na hodowlach komórkowych, więc nie przekładają się bezpośrednio na skuteczność ani bezpieczeństwo u ludzi. Nie należy przedstawiać tego olejku jako środka przeciwnowotworowego ani zastępować nim leczenia."
+  },
+  {
+   "id": "pm:42901677",
+   "source": "pubmed",
+   "title": "Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor",
+   "journal": "Food Microbiol",
+   "date": "2026-10-09",
+   "authors": "Lin Z, Chen M, Miao Y i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42901677/",
+   "topic": "eo",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Badanie sprawdzało, jak mikroflora towarzysząca sałacie i kiełkom fasoli mung wpływa na przeżywalność Salmonelli w temperaturze 7 °C, z parą olejku eterycznego z oregano lub bez niej. Porównano warunki z zachowaną mikroflorą i z jej ograniczeniem. Wyniki zależały od warunków: liczba Salmonelli była wyższa przy ograniczonej mikroflorze, a para olejku dała większy spadek liczby bakterii w kiełkach z ograniczoną mikroflorą (2,6 log wobec 0,9 log).",
+   "titlePl": "Wpływ naturalnej mikroflory warzyw i owoców na przeżywalność Salmonelli oraz jej inaktywację parą z olejku eterycznego z oregano",
+   "takeaway": "Jest to badanie laboratoryjne na produktach spożywczych, a nie na ludziach, dlatego jego wyników nie można przenosić na stosowanie olejków u klientów. Nie stanowi ono podstawy do zaleceń dotyczących bezpieczeństwa żywności ani do praktyki doradczej."
+  },
+  {
+   "id": "pm:42898778",
+   "source": "pubmed",
+   "title": "Integrative options for the management of anxiety and depression in people with cancer",
+   "journal": "Front Oncol",
+   "date": "2026-10-05",
+   "authors": "Carlson LE, Deleemans JM, Savard C i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42898778/",
+   "topic": "aroma",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Przegląd opisuje definicję, rozpoznawanie i częstość objawów lęku oraz depresji u osób chorujących na nowotwór. Omawia terapie integracyjne, które są zalecane w wytycznych, m.in. aromaterapię z lawendą, muzykę, jogę, akupunkturę i hipnozę. Wymienia też metody o wstępnych dowodach skuteczności, do których zalicza inne formy aromaterapii, a których nie ma jeszcze w zaleceniach.",
+   "titlePl": "Integracyjne metody łagodzenia lęku i depresji u osób z chorobą nowotworową",
+   "takeaway": "Aromaterapia z lawendą jest wymieniona wśród metod zalecanych w wytycznych, ale inne formy aromaterapii mają według przeglądu jedynie wstępne dowody. Osoby z nowotworem powinny konsultować wszelkie stosowanie olejków z zespołem leczącym, a doradztwo nie może zastępować leczenia."
+  },
+  {
+   "id": "pm:42898392",
+   "source": "pubmed",
+   "title": "The Effect of Pharmacological and Non-Pharmacological Interventions on Headaches Induced by Intravenous Nitroglycerin Infusion: A Systematic Review",
+   "journal": "J Cardiovasc Thorac Res",
+   "date": "2026-06-30",
+   "authors": "Ahmadi F, Bagheri Nesami M, Abedinpour M",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42898392/",
+   "topic": "aroma",
+   "addedAt": "2026-10-21",
+   "summaryPl": "Przegląd systematyczny zebrał 13 badań obejmujących łącznie 566 dorosłych pacjentów, u których nitrogliceryna podawana dożylnie wywoływała bóle głowy. Autorzy porównali interwencje farmakologiczne i niefarmakologiczne, w tym aromaterapię olejkiem lawendowym. Według streszczenia zimne okłady na czoło, aromaterapia lawendą, refleksoterapia stóp oraz wybrane leki zmniejszały ból głowy, a autorzy zarekomendowali je w podanej kolejności.",
+   "titlePl": "Wpływ interwencji farmakologicznych i niefarmakologicznych na bóle głowy wywołane wlewem dożylnej nitrogliceryny: przegląd systematyczny",
+   "takeaway": "Wnioski opierają się na 13 badaniach o zróżnicowanej jakości, a każde z nich miało zwykle niewielką liczbę uczestników, co ogranicza pewność wyników. Bóle głowy podczas wlewu nitrogliceryny to stan medyczny, dlatego takie objawy należy zgłaszać personelowi, a nie leczyć olejkami."
+  },
   {
    "id": "pm:42896717",
    "source": "pubmed",
