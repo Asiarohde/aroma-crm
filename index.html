@@ -866,8 +866,8 @@ function evRow(e){
   const c=e.contactId?byId(e.contactId):null,name=evWho(e);
   return `<div class="ev ${e.done?'done':''}"><div class="ev-t">${e.time?esc(e.time):'cały dzień'}</div>
    <div class="ev-b"><div class="ev-w">${c?`<button class="lnk" data-act="open" data-id="${c.id}">${esc(name)}</button>`:esc(name||'Bez przypisanej osoby')}${e.done?' <span class="chip">odbyte</span>':''}</div>
-   <div class="ev-s">${esc(e.type||'Spotkanie')}${e.topic?': '+esc(e.topic):''}</div>${e.notes?`<div class="tl-note">${esc(e.notes)}</div>`:''}</div>
-   <div class="ev-tools">${c&&!e.done?`<button class="btn btn-ghost sm" data-act="ev-log" data-id="${e.id}">Zapisz w historii</button>`:''}
+   <div class="ev-s">${esc(e.type||'Spotkanie')}${e.topic?': '+esc(e.topic):''}</div>${safeUrl(e.link)?`<div class="ev-s"><a href="${esc(safeUrl(e.link))}" target="_blank" rel="noopener noreferrer">Otwórz link do spotkania</a></div>`:''}${e.notes?`<div class="tl-note">${esc(e.notes)}</div>`:''}${e.outcome?`<div class="tl-note"><b>Po spotkaniu:</b> ${esc(e.outcome)}</div>`:''}</div>
+   <div class="ev-tools">${!e.outcome?`<button class="btn btn-ghost sm" data-act="ev-edit" data-id="${e.id}">Dodaj notatki po spotkaniu</button>`:''}${c&&!e.done?`<button class="btn btn-ghost sm" data-act="ev-log" data-id="${e.id}">Zapisz w historii</button>`:''}
    <button class="icon-btn xs" data-act="ev-edit" data-id="${e.id}" aria-label="Edytuj spotkanie">${ic('edit',14)}</button><button class="icon-btn xs danger" data-act="ev-del" data-id="${e.id}" aria-label="Usuń spotkanie">${ic('trash',14)}</button></div></div>`;
 }
 function calendarHtml(){
@@ -891,7 +891,7 @@ function calendarHtml(){
    </div></div>`;
 }
 function eventForm(ev,pre){
-  const isNew=!ev;ev=ev||Object.assign({date:ui.cal.sel||todayStr(),time:'',who:'',type:'Spotkanie',topic:'',notes:''},pre||{});
+  const isNew=!ev;ev=ev||Object.assign({date:ui.cal.sel||todayStr(),time:'',who:'',type:'Spotkanie',topic:'',notes:'',link:'',outcome:'',done:false},pre||{});
   const c=ev.contactId?byId(ev.contactId):null,whoVal=c?fullName(c):(ev.who||'');
   openModal(`<div class="modal-head"><h3>${isNew?'Nowe spotkanie':'Edycja spotkania'}</h3><button class="icon-btn" data-act="close-modal" aria-label="Zamknij">${ic('x',18)}</button></div>
   <form data-form="event" data-id="${isNew?'':ev.id}" class="form">
@@ -900,7 +900,10 @@ function eventForm(ev,pre){
    <div class="fld full"><label for="e3">Z kim</label><input id="e3" name="who" list="cnames" value="${esc(whoVal)}" placeholder="Zacznij pisać imię lub nazwisko" autocomplete="off"><datalist id="cnames">${state.contacts.map(x=>`<option value="${esc(fullName(x))}"></option>`).join('')}</datalist><span class="hint">Jeśli osoba jest w CRM, spotkanie połączy się z jej kartą. Możesz też wpisać kogoś spoza listy.</span></div>
    <div class="fld"><label for="e4">Rodzaj</label><select id="e4" name="type">${opt(CHANNELS,ev.type)}</select></div>
    <div class="fld"><label for="e5">Temat lub cel</label><input id="e5" name="topic" value="${esc(ev.topic)}"></div>
-   <div class="fld full"><label for="e6">Notatki</label><textarea id="e6" name="notes">${esc(ev.notes)}</textarea></div>
+   <div class="fld full"><label for="e7">Link do spotkania (Zoom, Meet, Teams, Messenger)</label><input id="e7" name="link" type="url" inputmode="url" value="${esc(ev.link||'')}" placeholder="Wklej tutaj adres spotkania"></div>
+   <div class="fld full"><label for="e6">Notatki przed spotkaniem</label><textarea id="e6" name="notes">${esc(ev.notes)}</textarea></div>
+   <div class="fld full"><label for="e8">Notatki po spotkaniu (czego dotyczyło, ustalenia)</label><textarea id="e8" name="outcome" placeholder="Uzupełnisz po spotkaniu: o czym rozmawiałyście, co ustalono, co dalej">${esc(ev.outcome||'')}</textarea></div>
+   <label class="check full"><input type="checkbox" name="done" ${ev.done?'checked':''}><span>Spotkanie się odbyło</span></label>
    <div class="modal-foot" style="grid-column:1/-1"><button type="button" class="btn btn-ghost" data-act="close-modal">Anuluj</button><button class="btn btn-primary" type="submit">Zapisz spotkanie</button></div>
   </form>`);
 }
@@ -1130,7 +1133,7 @@ document.addEventListener('submit',e=>{
     let ev=form.dataset.id?state.events.find(x=>x.id===form.dataset.id):null;
     if(!ev){ev={id:uid(),done:false};state.events.push(ev);}
     const who=(fd.who||'').trim(),k=state.contacts.find(x=>norm(fullName(x))===norm(who));
-    Object.assign(ev,{date:fd.date,time:fd.time||'',who:k?'':who,contactId:k?k.id:'',type:fd.type,topic:(fd.topic||'').trim(),notes:(fd.notes||'').trim()});
+    Object.assign(ev,{date:fd.date,time:fd.time||'',who:k?'':who,contactId:k?k.id:'',type:fd.type,topic:(fd.topic||'').trim(),notes:(fd.notes||'').trim(),outcome:(fd.outcome||'').trim(),link:((l)=>l&&!/^https?:\/\//i.test(l)?'https://'+l:l)((fd.link||'').trim()),done:!!fd.done});
     const d=parseD(fd.date);ui.cal={y:d.getFullYear(),m:d.getMonth(),sel:fd.date};
     save();closeModal(true);toast('Spotkanie zapisane');renderAll();return;
   }
@@ -1198,7 +1201,7 @@ document.addEventListener('click',async e=>{
     case'ev-for':if(c)eventForm(null,{who:fullName(c),date:todayStr()});break;
     case'ev-edit':{const e=state.events.find(x=>x.id===el.dataset.id);if(e)eventForm(e);break;}
     case'ev-del':if(await askConfirm('Usunąć spotkanie?','Spotkanie zniknie z kalendarza.')){state.events=state.events.filter(x=>x.id!==el.dataset.id);save();renderAll();}break;
-    case'ev-log':{const e=state.events.find(x=>x.id===el.dataset.id),k=e&&byId(e.contactId);if(k){k.interactions.push({id:uid(),date:e.date,channel:e.type||'Spotkanie',topic:e.topic||'Spotkanie',notes:e.notes||'',createdAt:Date.now()});e.done=true;save();toast('Zapisano w historii kontaktu');renderAll();}break;}
+    case'ev-log':{const e=state.events.find(x=>x.id===el.dataset.id),k=e&&byId(e.contactId);if(k){k.interactions.push({id:uid(),date:e.date,channel:e.type||'Spotkanie',topic:e.topic||'Spotkanie',notes:[e.outcome,e.notes].filter(Boolean).join('\n\n'),createdAt:Date.now()});e.done=true;save();toast('Zapisano w historii kontaktu');renderAll();}break;}
     case'news-tab':ui.newsTab=el.dataset.t;renderView();break;
     case'news-topic':ui.newsTopic=el.dataset.k;renderView();break;
     case'news-refresh':delete newsCache.topics[ui.newsTopic];saveNewsCache();ui.newsErr=null;renderView();break;
