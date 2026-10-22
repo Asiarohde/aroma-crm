@@ -81,6 +81,7 @@ nav{display:flex;flex-direction:column;gap:4px}
 .b-client{background:var(--gold-3);color:var(--gold-deep)}
 .b-partner{background:var(--rose-3);color:var(--rose-deep)}
 .b-lead{background:#fff;color:var(--ink-2);border:1px solid var(--line)}
+.b-interested{background:#fff;color:var(--rose-deep);border:1px solid var(--rose-3)}
 .b-status{background:var(--rose-4);color:var(--ink-2);border:1px solid var(--rose-3)}
 .chip{display:inline-flex;align-items:center;gap:6px;padding:3px 11px;border-radius:99px;font-size:12.5px;background:#fff;border:1px solid var(--line);color:var(--gold-deep)}
 
@@ -334,7 +335,7 @@ nav{display:flex;flex-direction:column;gap:4px}
 'use strict';
 /* ============ Stałe i dane ============ */
 const LS_KEY='aromaCRM.v1';
-const TYPES={client:'Klient',partner:'Partner biznesowy',lead:'Kontakt z Facebooka'};
+const TYPES={client:'Klient',interested:'Osoba zainteresowana',partner:'Partner biznesowy',lead:'Kontakt z Facebooka'};
 const CHANNELS=['Messenger','Telefon','WhatsApp','SMS','E-mail','Spotkanie','Wideorozmowa','Prezentacja online','Inne'];
 const STATUSES=['Nowy','W rozmowie','Aktywny','Wstrzymany'];
 let state={contacts:[],groups:[],events:[],saved:[],sources:[]};
@@ -620,7 +621,7 @@ function renderList(){
   const host=$('#listScroll');if(!host)return;
   const all=state.contacts;
   const cnt=t=>all.filter(c=>c.type===t).length;
-  $('#filters').innerHTML=[['all','Wszyscy',all.length],['client','Klienci',cnt('client')],['partner','Partnerzy',cnt('partner')],['lead','Z Facebooka',cnt('lead')]].map(([k,l,n])=>`<button class="fchip ${ui.filter===k?'on':''}" data-act="filter" data-f="${k}">${l} ${n}</button>`).join('');
+  $('#filters').innerHTML=[['all','Wszyscy',all.length],['client','Klienci',cnt('client')],['interested','Zainteresowani',cnt('interested')],['partner','Partnerzy',cnt('partner')],['lead','Z Facebooka',cnt('lead')]].map(([k,l,n])=>`<button class="fchip ${ui.filter===k?'on':''}" data-act="filter" data-f="${k}">${l} ${n}</button>`).join('');
   if(ui.group!=='all'&&!state.groups.includes(ui.group))ui.group='all';
   $('#grpSel').innerHTML=state.groups.length?`<select id="grpFilter" class="grp-sel" aria-label="Filtr grupy na Facebooku"><option value="all">Wszystkie moje grupy</option>${state.groups.map(g=>`<option value="${esc(g)}" ${g===ui.group?'selected':''}>${esc(g)}</option>`).join('')}</select>`:'';
   document.querySelectorAll('.seg button').forEach(b=>b.classList.toggle('on',b.dataset.s===ui.sort));
@@ -659,7 +660,7 @@ function renderDetail(){
      <div class="av av-lg ${avCls(c)}">${esc(initials(c))}</div>
      <div class="d-id"><h2>${esc(fullName(c))}</h2>
        <div class="d-meta"><span class="badge b-${c.type}">${TYPES[c.type]}</span><span class="badge b-status">${esc(c.status||'Nowy')}</span>${c.melaleucaId?`<span class="chip">Nr Melaleuca ${esc(c.melaleucaId)}</span>`:''}</div></div>
-     <div class="d-actions"><button class="btn btn-ghost sm" data-act="edit-contact">${ic('edit',16)}Edytuj</button><button class="icon-btn danger" data-act="del-contact" aria-label="Usuń kontakt">${ic('trash',17)}</button></div>
+     <div class="d-actions">${c.type!=='client'?`<button class="btn btn-primary sm" data-act="set-type" data-t="client">Oznacz: klient</button>`:''}${c.type!=='interested'?`<button class="btn btn-ghost sm" data-act="set-type" data-t="interested">Oznacz: zainteresowana</button>`:''}<button class="btn btn-ghost sm" data-act="edit-contact">${ic('edit',16)}Edytuj</button><button class="icon-btn danger" data-act="del-contact" aria-label="Usuń kontakt">${ic('trash',17)}</button></div>
    </div>
    <div class="last-card">
      <div class="lc-main">
@@ -1185,6 +1186,7 @@ document.addEventListener('click',async e=>{
     case'grp-del':if(await askConfirm('Usunąć grupę?',`Grupa „${el.dataset.g}” zniknie z listy i z kart wszystkich osób. Same kontakty zostaną.`)){const g=el.dataset.g;state.groups=state.groups.filter(x=>x!==g);state.contacts.forEach(c=>{c.groups=(c.groups||[]).filter(x=>x!==g);});save();renderAll();}break;
     case'new-contact':contactForm(null);break;
     case'edit-contact':if(c)contactForm(c);break;
+    case'set-type':if(c&&TYPES[el.dataset.t]){c.type=el.dataset.t;save();toast('Oznaczono: '+TYPES[c.type]);renderAll();}break;
     case'del-contact':if(c&&await askConfirm('Usunąć kontakt?',`${fullName(c)} i cała historia rozmów zostaną usunięte. Tej operacji nie da się cofnąć.`)){state.contacts=state.contacts.filter(x=>x.id!==c.id);ui.selectedId=null;save();toast('Kontakt usunięty');renderAll();}break;
     case'select':ui.selectedId=el.dataset.id;renderList();renderDetail();$('#split').classList.add('has-detail');break;
     case'open':ui.view='contacts';ui.selectedId=el.dataset.id;ui.q='';$('#q').value='';renderAll();break;
