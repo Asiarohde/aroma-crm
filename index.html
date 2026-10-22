@@ -412,12 +412,15 @@ function fixFb(s){
   for(let i=0;i<s.length;i++)if(s.charCodeAt(i)>255)return s;
   try{return new TextDecoder('utf-8',{fatal:true}).decode(Uint8Array.from(s,ch=>ch.charCodeAt(0)));}catch(e){return s;}
 }
-function extractFb(entries){
-  const friends=new Map(),threads=new Map();let self='';
-  for(const{path,text}of entries){
-    let obj;try{obj=JSON.parse(text);}catch(e){continue;}
-    if(!obj||typeof obj!=='object'||Array.isArray(obj))continue;
-    if(obj.profile_v2&&obj.profile_v2.name&&obj.profile_v2.name.full_name)self=fixFb(obj.profile_v2.name.full_name);
+function newFbAcc(){return{friends:new Map(),threads:new Map(),self:''};}
+function extractFb(entries){const a=newFbAcc();for(const e of entries)addFbEntry(a,e);return finishFb(a);}
+function finishFb(a){return{friends:a.friends,threads:[...a.threads.values()],self:a.self};}
+function addFbEntry(acc,{path,text}){
+  const friends=acc.friends,threads=acc.threads;
+  {
+    let obj;try{obj=JSON.parse(text);}catch(e){return;}
+    if(!obj||typeof obj!=='object'||Array.isArray(obj))return;
+    if(obj.profile_v2&&obj.profile_v2.name&&obj.profile_v2.name.full_name)acc.self=fixFb(obj.profile_v2.name.full_name);
     for(const key of Object.keys(obj)){
       const arr=obj[key];
       if(/^friends(_v\d+)?$/.test(key)&&Array.isArray(arr)){
@@ -447,7 +450,6 @@ function extractFb(entries){
       }
     }
   }
-  return{friends,threads:[...threads.values()],self};
 }
 function detectSelf(threads){
   const cnt=new Map();
@@ -740,29 +742,86 @@ function importHtml(){
   </div>`;
 }
 const relevantPath=p=>/friend|znajom|message|wiadomo|inbox|archived_threads|filtered_threads|message_\d+|profile_information/i.test(p);
-async function collectEntries(files){
-  const out=[];
-  for(const f of files){
-    const path=f.webkitRelativePath||f.name;
-    if(/\.zip$/i.test(f.name)){
-      if(!window.JSZip)throw new Error('Nie udało się wczytać modułu do plików ZIP (brak internetu). Rozpakuj paczkę i użyj przycisku „Wybierz rozpakowany folder”.');
-      const zip=await JSZip.loadAsync(f);
-      for(const n of Object.keys(zip.files)){
-        if(zip.files[n].dir||!/\.json$/i.test(n)||!relevantPath(n))continue;
-        out.push({path:n,text:await zip.files[n].async('string')});
+/* Czytnik ZIP dla dużych paczek: czyta spis treści i tylko potrzebne pliki JSON (bez ładowania całego archiwum do pamięci) */
+async function zipList(file){
+  const size=file.size,tailLen=Math.min(size,65557);
+  const tail=new DataView(await file.slice(size-tailLen,size).arrayBuffer());
+  let eocd=-1;
+  for(let i=tailLen-22;i>=0;i--)if(tail.getUint32(i,true)===0x06054b50){eocd=i;break;}
+  if(eocd<0)throw new Error('To nie wygląda na poprawny plik ZIP: '+file.name);
+  let total=tail.getUint16(eocd+10,true),cdSize=tail.getUint32(eocd+12,true),cdOff=tail.getUint32(eocd+16,true);
+  if(total===0xFFFF||cdSize===0xFFFFFFFF||cdOff===0xFFFFFFFF){
+    const locAt=eocd-20;
+    if(locAt<0||tail.getUint32(locAt,true)!==0x07064b50)throw new Error('Nieobsługiwany format ZIP64: '+file.name);
+    const z64Off=Number(tail.getBigUint64(locAt+8,true));
+    const z=new DataView(await file.slice(z64Off,z64Off+56).arrayBuffer());
+    if(z.getUint32(0,true)!==0x06064b50)throw new Error('Uszkodzony nagłówek ZIP64: '+file.name);
+    total=Number(z.getBigUint64(32,true));cdSize=Number(z.getBigUint64(40,true));cdOff=Number(z.getBigUint64(48,true));
+  }
+  const cd=new DataView(await file.slice(cdOff,cdOff+cdSize).arrayBuffer());
+  const dec=new TextDecoder('utf-8'),out=[];let p=0;
+  while(p+46<=cd.byteLength&&cd.getUint32(p,true)===0x02014b50){
+    const method=cd.getUint16(p+10,true);
+    let comp=cd.getUint32(p+20,true),unc=cd.getUint32(p+24,true);
+    const nl=cd.getUint16(p+28,true),el=cd.getUint16(p+30,true),cl=cd.getUint16(p+32,true);
+    let off=cd.getUint32(p+42,true);
+    const name=dec.decode(new Uint8Array(cd.buffer,cd.byteOffset+p+46,nl));
+    if(comp===0xFFFFFFFF||unc===0xFFFFFFFF||off===0xFFFFFFFF){
+      let q=p+46+nl;const end=q+el;
+      while(q+4<=end){
+        const id=cd.getUint16(q,true),len=cd.getUint16(q+2,true);
+        if(id===1){
+          let r=q+4;
+          if(unc===0xFFFFFFFF){unc=Number(cd.getBigUint64(r,true));r+=8;}
+          if(comp===0xFFFFFFFF){comp=Number(cd.getBigUint64(r,true));r+=8;}
+          if(off===0xFFFFFFFF){off=Number(cd.getBigUint64(r,true));r+=8;}
+        }
+        q+=4+len;
       }
-    }else if(/\.json$/i.test(f.name)&&relevantPath(path)){
-      out.push({path,text:await f.text()});
     }
+    out.push({name,method,comp,unc,off,dir:name.endsWith('/')});
+    p+=46+nl+el+cl;
   }
   return out;
+}
+async function zipReadText(file,e){
+  const h=new DataView(await file.slice(e.off,e.off+30).arrayBuffer());
+  if(h.getUint32(0,true)!==0x04034b50)throw new Error('Uszkodzony wpis w ZIP: '+e.name);
+  const start=e.off+30+h.getUint16(26,true)+h.getUint16(28,true);
+  const blob=file.slice(start,start+e.comp);
+  if(e.method===0)return await blob.text();
+  if(e.method!==8)throw new Error('Nieobsługiwana kompresja w ZIP: '+e.name);
+  if(typeof DecompressionStream==='undefined')throw new Error('Ta przeglądarka nie obsługuje dużych plików ZIP. Użyj Chrome, Edge lub Safari w nowszej wersji albo rozpakuj paczkę i wybierz folder.');
+  return await new Response(blob.stream().pipeThrough(new DecompressionStream('deflate-raw'))).text();
+}
+const tick=()=>new Promise(r=>setTimeout(r,0));
+async function collectEntries(files,onEntry,onProgress){
+  let k=0;
+  for(const f of files){
+    k++;
+    const path=f.webkitRelativePath||f.name;
+    if(/\.zip$/i.test(f.name)){
+      if(onProgress)onProgress(`Czytam plik ${k} z ${files.length}: ${f.name}…`);
+      await tick();
+      const list=await zipList(f);
+      let n=0;
+      for(const e of list){
+        if(e.dir||!/\.json$/i.test(e.name)||!relevantPath(e.name))continue;
+        onEntry({path:e.name,text:await zipReadText(f,e)});
+        if(++n%25===0){if(onProgress)onProgress(`Czytam plik ${k} z ${files.length}: ${f.name} (przeczytano ${n} plików z danymi)…`);await tick();}
+      }
+    }else if(/\.json$/i.test(f.name)&&relevantPath(path)){
+      onEntry({path,text:await f.text()});
+    }
+  }
 }
 async function handleImport(files){
   ui.impMsg={ok:true,text:'Czytam pliki, to może chwilę potrwać…'};renderView();
   try{
-    const entries=await collectEntries([...files]);
-    if(!entries.length)throw new Error('Nie znalazłam w wybranych plikach listy znajomych ani wiadomości. Upewnij się, że wybrałaś format JSON oraz sekcje „Znajomi i obserwowani” i „Wiadomości”.');
-    const parsed=extractFb(entries);
+    const acc=newFbAcc();let got=0;
+    await collectEntries([...files],e=>{got++;addFbEntry(acc,e);},t=>{ui.impMsg={ok:true,text:t};renderView();});
+    if(!got)throw new Error('Nie znalazłam w wybranych plikach listy znajomych ani wiadomości. Upewnij się, że wybrałaś format JSON oraz sekcje „Znajomi i obserwowani” i „Wiadomości”.');
+    const parsed=finishFb(acc);
     if(!parsed.friends.size&&!parsed.threads.length)throw new Error('Pliki zostały wczytane, ale nie zawierają znajomych ani rozmów. Sprawdź, czy eksport jest w formacie JSON.');
     ui.imp={parsed,self:parsed.self||detectSelf(parsed.threads),addMessenger:true};
     ui.impMsg=null;
