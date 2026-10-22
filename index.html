@@ -412,15 +412,26 @@ function fixFb(s){
   for(let i=0;i<s.length;i++)if(s.charCodeAt(i)>255)return s;
   try{return new TextDecoder('utf-8',{fatal:true}).decode(Uint8Array.from(s,ch=>ch.charCodeAt(0)));}catch(e){return s;}
 }
-function newFbAcc(){return{friends:new Map(),threads:new Map(),self:''};}
+function newFbAcc(){return{friends:new Map(),threads:new Map(),groups:new Map(),self:''};}
+const isGroupFile=p=>/(^|\/)groups?\/[^/]*\.json$/i.test(p)&&!/post|comment|poll|search|reaction|event|insight|photo|video/i.test(p);
 function extractFb(entries){const a=newFbAcc();for(const e of entries)addFbEntry(a,e);return finishFb(a);}
-function finishFb(a){return{friends:a.friends,threads:[...a.threads.values()],self:a.self};}
+function finishFb(a){return{friends:a.friends,threads:[...a.threads.values()],groups:[...a.groups.values()],self:a.self};}
 function addFbEntry(acc,{path,text}){
   const friends=acc.friends,threads=acc.threads;
   {
     let obj;try{obj=JSON.parse(text);}catch(e){return;}
     if(!obj||typeof obj!=='object'||Array.isArray(obj))return;
     if(obj.profile_v2&&obj.profile_v2.name&&obj.profile_v2.name.full_name)acc.self=fixFb(obj.profile_v2.name.full_name);
+    if(isGroupFile(path)){
+      for(const key of Object.keys(obj)){
+        if(!Array.isArray(obj[key]))continue;
+        for(const it of obj[key]){
+          if(!it||typeof it!=='object')continue;
+          const nm=typeof it.name==='string'?it.name:(Array.isArray(it.data)&&it.data[0]&&typeof it.data[0].name==='string'?it.data[0].name:'');
+          const t=fixFb(nm).trim();if(t&&!acc.groups.has(norm(t)))acc.groups.set(norm(t),t);
+        }
+      }
+    }
     for(const key of Object.keys(obj)){
       const arr=obj[key];
       if(/^friends(_v\d+)?$/.test(key)&&Array.isArray(arr)){
@@ -483,6 +494,7 @@ function applyImport(){
   const imp=ui.imp;if(!imp)return;
   const plan=buildPlan(imp.parsed,imp.self,{addMessenger:imp.addMessenger});
   const idx=new Map(state.contacts.map(c=>[norm(fullName(c)),c]));
+  const grpBefore=state.groups.length;addGroups(imp.parsed.groups||[]);const grpAdded=state.groups.length-grpBefore;
   let added=0,touched=0;
   for(const p of plan.people){
     let c=idx.get(p.key);
@@ -502,7 +514,7 @@ function applyImport(){
     }
   }
   save();
-  ui.imp=null;ui.impMsg={ok:true,text:`Gotowe. Nowych kontaktów: ${added}, rozmów z Messengera dopisanych lub odświeżonych: ${touched}.`};
+  ui.imp=null;ui.impMsg={ok:true,text:`Gotowe. Nowych kontaktów: ${added}, rozmów z Messengera dopisanych lub odświeżonych: ${touched}, nowych grup: ${grpAdded}.`};
   toast('Import zakończony');renderAll();
 }
 
@@ -720,6 +732,7 @@ function importHtml(){
       <div class="fld"><label for="impSelf">Twoje imię i nazwisko na Facebooku</label><input id="impSelf" value="${esc(imp.self)}" placeholder="np. Anna Kowalska"><span class="hint">Potrzebne, żeby rozpoznać drugą osobę w każdej rozmowie na Messengerze.</span></div>
       ${imp.self?'':'<div class="status err">Wpisz swoje imię i nazwisko. Bez tego nie przypiszę rozmów z Messengera do osób.</div>'}
       <div class="pv-grid"><div class="pv"><b>${plan.friends}</b>znajomych na liście</div><div class="pv"><b>${plan.oneToOne}</b>rozmów jeden na jeden</div><div class="pv"><b>${plan.fresh}</b>nowych kontaktów do dodania</div></div>
+      ${(imp.parsed.groups||[]).length?`<p class="hint">Znalazłam ${(imp.parsed.groups||[]).length} Twoich grup na Facebooku. Zostaną dodane do zakładki „Moje grupy” (osoby do nich przypiszesz w kartach kontaktów).</p>`:'<p class="hint">Nie znalazłam w paczce listy Twoich grup. Możesz je dodać ręcznie w zakładce „Moje grupy”.</p>'}
       <p class="hint">Pominięto ${plan.groups} rozmów grupowych. Kontakty już istniejące w CRM (${plan.known}) zostaną uzupełnione o rozmowy, bez duplikatów.</p>
       <label class="check"><input type="checkbox" id="impAddM" ${imp.addMessenger?'checked':''}><span>Dodaj też osoby z Messengera, których nie ma na liście znajomych</span></label>
       <div class="modal-foot" style="margin-top:12px"><button class="btn btn-ghost" data-act="import-reset">Anuluj</button><button class="btn btn-primary" data-act="import-apply" ${imp.self?'':'disabled style="opacity:.5;pointer-events:none"'}>Importuj do CRM</button></div></section>`;
@@ -729,7 +742,7 @@ function importHtml(){
      <p class="muted" style="color:var(--ink-2)">Facebook nie pozwala programom pobierać listy znajomych i wiadomości przez logowanie. Oficjalną drogą jest pobranie własnych danych, które robisz sama, bez podawania komukolwiek hasła.</p>
      <ol class="steps" style="margin-top:14px">
       <li>Zaloguj się na Facebooka i wejdź w Ustawienia, potem Centrum kont, potem Twoje informacje i uprawnienia, potem Pobierz swoje informacje.</li>
-      <li>Wybierz „Pobierz lub przenieś informacje” i zaznacz „Znajomi i obserwowani” oraz „Wiadomości”.</li>
+      <li>Wybierz „Pobierz lub przenieś informacje” i zaznacz „Znajomi i obserwowani”, „Wiadomości” oraz „Grupy”.</li>
       <li>Ustaw format <b>JSON</b>, zakres „Cały czas” i wyślij prośbę. Facebook przygotuje paczkę (od kilku minut do kilku godzin) i powiadomi Cię, że można pobrać.</li>
       <li>Pobierz plik ZIP (albo kilka, jeśli jest podzielony) i wskaż go poniżej. Nie musisz go rozpakowywać.</li>
      </ol></section>
@@ -741,7 +754,7 @@ function importHtml(){
    <section class="card"><h4>Import z pliku CSV</h4><p class="muted" style="color:var(--ink-2);margin-bottom:12px">Masz kontakty w Excelu albo Google Kontaktach? Wyeksportuj je do CSV i wczytaj tutaj. Rozpoznaję kolumny: imię, nazwisko, telefon, e-mail, miasto, notatki.</p><button class="btn btn-ghost" data-act="pick-csv">Wybierz plik CSV</button><input type="file" id="fileCsv" accept=".csv,text/csv" hidden></section>
   </div>`;
 }
-const relevantPath=p=>/friend|znajom|message|wiadomo|inbox|archived_threads|filtered_threads|message_\d+|profile_information/i.test(p);
+const relevantPath=p=>isGroupFile(p)||/friend|znajom|message|wiadomo|inbox|archived_threads|filtered_threads|message_\d+|profile_information/i.test(p);
 /* Czytnik ZIP dla dużych paczek: czyta spis treści i tylko potrzebne pliki JSON (bez ładowania całego archiwum do pamięci) */
 async function zipList(file){
   const size=file.size,tailLen=Math.min(size,65557);
