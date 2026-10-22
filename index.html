@@ -681,7 +681,7 @@ function renderDetail(){
        ${row('phone','Telefon',c.phone,c.phone?`<a href="tel:${esc(c.phone.replace(/\s/g,''))}">${esc(c.phone)}</a>`:'')}
        ${row('mail','E-mail',c.email,c.email?`<a href="mailto:${esc(c.email)}">${esc(c.email)}</a>`:'')}
        ${row('pin','Miasto',c.city)}
-       ${row('link','Profil na Facebooku',url,url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Otwórz profil</a>`:'')}
+       <div class="row">${ic('link',18)}<div><div class="k">Profil na Facebooku</div><div class="v">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Otwórz profil</a>`:'<span class="muted">nie wklejono linku</span>'} &nbsp;·&nbsp; <a href="https://www.facebook.com/search/people/?q=${encodeURIComponent(fullName(c))}" target="_blank" rel="noopener noreferrer">Znajdź na Facebooku</a>${url?'':' &nbsp;·&nbsp; <a href="#" data-act="edit-contact">Wklej link</a>'}</div></div></div>
      </section>
      <section class="card"><h4>Profil i zainteresowania</h4>
        ${row('drop','Zainteresowania i produkty',c.interests)}
@@ -1174,6 +1174,7 @@ function loadDemo(){
 /* ============ Zdarzenia ============ */
 document.addEventListener('click',async e=>{
   const el=e.target.closest('[data-act]');if(!el)return;
+  if(el.tagName==='A')e.preventDefault();
   const act=el.dataset.act,c=byId(ui.selectedId);
   switch(act){
     case'nav':ui.view=el.dataset.view;if(ui.view!=='import')ui.impMsg=null;if(ui.view==='contacts')ui.group='all';renderAll();break;
