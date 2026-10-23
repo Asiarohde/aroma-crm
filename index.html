@@ -834,6 +834,14 @@ async function handleImport(files){
   try{
     const acc=newFbAcc();let got=0;
     await collectEntries([...files],e=>{got++;addFbEntry(acc,e);},t=>{ui.impMsg={ok:true,text:t};renderView();});
+    if(!got){
+      for(const f of [...files]){
+        if(/\.json$/i.test(f.name)){
+          try{const j=JSON.parse(await f.text());if(j&&Array.isArray(j.contacts))throw new Error('To jest kopia zapasowa Aroma CRM, a nie paczka z Facebooka. Wczytaj ją w zakładce „Kopia i eksport”, przyciskiem „Wczytaj kopię”.');}
+          catch(er){if(/kopia zapasowa/.test(er.message))throw er;}
+        }
+      }
+    }
     if(!got)throw new Error('Nie znalazłam w wybranych plikach listy znajomych ani wiadomości. Upewnij się, że wybrałaś format JSON oraz sekcje „Znajomi i obserwowani” i „Wiadomości”.');
     const parsed=finishFb(acc);
     if(!parsed.friends.size&&!parsed.threads.length)throw new Error('Pliki zostały wczytane, ale nie zawierają znajomych ani rozmów. Sprawdź, czy eksport jest w formacie JSON.');
