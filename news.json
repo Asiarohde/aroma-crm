@@ -1,6 +1,98 @@
 {
- "updatedAt": "2026-10-22T05:25:28.252Z",
+ "updatedAt": "2026-10-23T05:24:21.300Z",
  "items": [
+  {
+   "id": "ia:zapach-ktory-przywoluje-lato-jak-wech-laczy-wspomnienia-z-emocjami",
+   "source": "instytut",
+   "title": "Zapach, który przywołuje lato. Jak węch łączy wspomnienia z emocjami?",
+   "link": "https://www.instytutaroma.pl/zapach-ktory-przywoluje-lato-jak-wech-laczy-wspomnienia-z-emocjami/",
+   "date": "2026-10-22",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Tekst popularnonaukowy z Instytutu Aromaterapii opisuje, jak zapach może przywoływać wakacyjne wspomnienia i związane z nimi emocje. Jako przykład podano zapach kremu z filtrem, który po otwarciu szafki w łazience przypomina urlop. Podany fragment jest urwany, więc nie zawiera opisu metody ani wyników żadnych badań.",
+   "titlePl": "Zapach, który przywołuje lato. Jak węch łączy wspomnienia z emocjami?",
+   "takeaway": "To artykuł popularyzatorski, a nie badanie naukowe, dlatego opisuje indywidualne skojarzenia, a nie udowodniony efekt. Warto podkreślać, że reakcje na zapachy są osobiste, i unikać obietnic wpływu olejków na nastrój czy pamięć."
+  },
+  {
+   "id": "pm:42904900",
+   "source": "pubmed",
+   "title": "Physicochemical characterization of a bioactive Minthostachys verticillata nanoemulsion with enhanced antibacterial efficacy against veterinary pathogens",
+   "journal": "Drug Dev Ind Pharm",
+   "date": "2026-10-21",
+   "authors": "Cecchini ME, Montironi ID, Arsaute S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42904900/",
+   "topic": "eo",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Badano nanoemulsję typu olej w wodzie z olejkiem eterycznym Minthostachys verticillata, pozyskanym przez destylację z parą wodną i opisanym metodą GC-MS. Wybraną formulację (NE2-S) oceniano pod kątem wielkości kropelek, stabilności, toksyczności wobec fibroblastów mysich oraz działania na bakterie Escherichia coli (ETEC) i Staphylococcus aureus. Nanoemulsja była skuteczniejsza niż sam olejek wobec bakterii planktonowych (dwukrotnie niższe stężenia MIC i MBC), a w przypadku biofilmu wyniki były zróżnicowane: lepsza wobec biofilmu ETEC, słabsza wobec S. aureus.",
+   "titlePl": "Fizykochemiczna charakterystyka bioaktywnej nanoemulsji Minthostachys verticillata o zwiększonej skuteczności antybakteryjnej wobec patogenów weterynaryjnych",
+   "takeaway": "To badanie laboratoryjne, wykonane in vitro i na komórkach hodowlanych, a nie na zwierzętach czy ludziach, więc nie potwierdza skuteczności w leczeniu zakażeń. Nie należy przenosić jego wyników na praktykę zdrowotną ani weterynaryjną; w razie problemów zdrowotnych zwierząt potrzebna jest konsultacja z lekarzem weterynarii."
+  },
+  {
+   "id": "pm:42903431",
+   "source": "pubmed",
+   "title": "Bioactive and Functional Properties of Ferulago angulata Essential Oil for Sustainable Food Packaging Systems",
+   "journal": "Food Sci Nutr",
+   "date": "2026-10-19",
+   "authors": "Bahraminejad M, Mirhesari DM, Sadeghi E i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42903431/",
+   "topic": "eo",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Przegląd dotyczy olejku eterycznego z rośliny Ferulago angulata (FAEO) jako naturalnego składnika opakowań do żywności. Olejek wykazuje w badaniach działanie przeciwdrobnoustrojowe i przeciwutleniające, a jego główne składniki to m.in. α-pinen, limonen, sabinen i (Z)-β-ocimen. Autorzy opisują, jak dodatek olejku wpływa na właściwości folii, takie jak struktura, wytrzymałość i barierowość, oraz jak zmienia się jego uwalnianie w zależności od materiału i metody enkapsulacji. Wskazują, że olejek ma łagodniejszy zapach niż olejki z tymianku czy oregano, ale nadal istnieją wyzwania: lotność, hydrofobowość, wpływ na zmysły, przepisy i skalowanie produkcji.",
+   "titlePl": "Właściwości bioaktywne i funkcjonalne olejku eterycznego Ferulago angulata w zrównoważonych systemach opakowań do żywności",
+   "takeaway": "Dane pochodzą z badań laboratoryjnych nad opakowaniami, a nie z badań na ludziach, więc nie należy z nich wyciągać wniosków o działaniu olejku na organizm. Ograniczeniem są też brak badań w czasie rzeczywistym dotyczących trwałości oraz trudności z lotnością i skalowaniem."
+  },
+  {
+   "id": "pm:42904166",
+   "source": "pubmed",
+   "title": "Food-related nanoemulsions: Fabrication approaches, characterization methods, and emerging applications",
+   "journal": "Curr Res Food Sci",
+   "date": "2026-10-10",
+   "authors": "Zhang ZH, Zhang K, Li X i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42904166/",
+   "topic": "eo",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Przegląd opisuje nanoemulsje, czyli bardzo drobne układy koloidalne, które mogą zawierać słabo rozpuszczalne w wodzie substancje, np. olejki eteryczne i polifenole. Autorzy porównują dwie główne metody wytwarzania: emulgowanie wysokoenergetyczne i niskoenergetyczne, pod względem kosztów, skali produkcji i ograniczeń. Omawiają też techniki badania wielkości kropelek, ładunku powierzchni, mikrostruktury i właściwości reologicznych oraz opisują zastosowania w ochronie jakości żywności, opakowaniach aktywnych i żywności funkcjonalnej. Autorzy wskazują główną lukę: brakuje systematycznych danych o bezpieczeństwie w badaniach in vivo oraz walidacji w skali przemysłowej.",
+   "titlePl": "Nanoemulsje stosowane w żywności: metody wytwarzania, metody charakteryzacji i nowe zastosowania",
+   "takeaway": "Źródło dotyczy głównie technologii żywności, a nie stosowania olejków w aromaterapii; nie przenoś z niego wniosków o bezpieczeństwie czy działaniu olejków u ludzi. Ograniczeniem jest brak wystarczających danych o bezpieczeństwie in vivo dla tych układów."
+  },
+  {
+   "id": "pm:42907038",
+   "source": "pubmed",
+   "title": "Octenyl succinic anhydride starch-lemon essential oil coatings with superior preservative effects on fresh foods",
+   "journal": "Carbohydr Polym",
+   "date": "2026-10-02",
+   "authors": "Sun X, Ren F, Wu S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42907038/",
+   "topic": "eo",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Badanie dotyczyło powłok ze skrobi kukurydzianej lub grochowej, modyfikowanej bezwodnikiem oktenylobursztynowym (OSA) i zawierających olejek z cytryny (LEO). Powłoki z modyfikowaną skrobią lepiej stabilizowały olejek w emulsji i miały lepsze właściwości niż powłoki z niemodyfikowanej skrobi. Najlepsze działanie konserwujące wykazały powłoki z OSA-skrobi grochowej i olejku, testowane na świeżych morelach i wieprzowinie pod kątem jakości i trwałości.",
+   "titlePl": "Powłoki ze skrobi modyfikowanej bezwodnikiem oktenylobursztynowym (OSA) z olejkiem eterycznym z cytryny o lepszym działaniu konserwującym na świeże produkty",
+   "takeaway": "To badanie dotyczy powłok do żywności, a nie zastosowań zdrowotnych, więc nie przenosi się ono na bezpośrednie stosowanie olejku na ciele. Wyniki pochodzą z prac nad produktami spożywczymi i nie dowodzą, jak powłoka działa w warunkach domowych lub sklepowych innych niż opisane w badaniu."
+  },
+  {
+   "id": "pm:42902935",
+   "source": "pubmed",
+   "title": "A Comprehensive Review on Ferula oopoda (Boiss. and Buhse) Boiss.: Bioactive Compounds and Pharmacological Significance",
+   "journal": "Chem Biodivers",
+   "date": "2026-10",
+   "authors": "Ali M, Permanasari SWA, Niaz SI i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42902935/",
+   "topic": "eo",
+   "addedAt": "2026-10-23",
+   "summaryPl": "Przegląd analizuje literaturę dotyczącą rośliny Ferula oopoda, używanej tradycyjnie w Azji Środkowej i Południowej m.in. przy dolegliwościach przewodu pokarmowego i oddechowego. Autorzy zebrali informacje o botanice, składzie chemicznym i aktywności biologicznej, w tym o 33 wyizolowanych metabolitach wtórnych. Wyekstrahowane związki i ekstrakty wykazywały w badaniach działanie m.in. antybakteryjne, przeciwzapalne i przeciwutleniające. Autorzy podkreślają, że szczegółowe badania mechanizmów działania, farmakokinetyki i walidacji in vivo są nadal ograniczone.",
+   "titlePl": "Kompleksowy przegląd Ferula oopoda (Boiss. and Buhse) Boiss.: związki bioaktywne i znaczenie farmakologiczne",
+   "takeaway": "Większość danych pochodzi z badań ekstraktów i związków w warunkach laboratoryjnych, dlatego nie można na ich podstawie zalecać rośliny do leczenia opisanych w tradycji dolegliwości. Ograniczeniem jest też mała liczba badań in vivo i brak pełnych danych farmakokinetycznych."
+  },
   {
    "id": "pm:42902604",
    "source": "pubmed",
