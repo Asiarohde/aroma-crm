@@ -1,6 +1,93 @@
 {
- "updatedAt": "2026-10-25T05:23:27.350Z",
+ "updatedAt": "2026-10-26T05:27:01.240Z",
  "items": [
+  {
+   "id": "pm:42927623",
+   "source": "pubmed",
+   "title": "Metabolic Screening and In Silico Investigation of Eucalyptus globulus Essential Oil Bioactives Against DENV-2 Envelope Protein",
+   "journal": "ChemistryOpen",
+   "date": "2026-11",
+   "authors": "Afzal A, Ahmad I, Mahadullah i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42927623/",
+   "topic": "eo",
+   "addedAt": "2026-10-26",
+   "summaryPl": "Autorzy sprawdzili, czy główne składniki olejku z Eucalyptus globulus mogą oddziaływać z białkiem otoczki wirusa dengi typu 2 (DENV-2). Zastosowano analizy komputerowe: wyszukiwano wspólne cele dla związków i wirusa, analizowano sieci oddziaływań oraz wykonano dokowanie molekularne. Najlepsze wyniki wiązania uzyskały globulol i eukaliptol, a analizy toksyczności nie wykazały zagrożeń dla dalszego rozwoju leku. Autorzy podkreślili, że konieczne są dalsze badania na modelach zwierzęcych, aby potwierdzić skuteczność.",
+   "titlePl": "Screening metaboliczny i badanie in silico bioaktywnych składników olejku z Eucalyptus globulus wobec białka otoczki DENV-2",
+   "takeaway": "To badanie komputerowe, które nie zostało potwierdzone w warunkach laboratoryjnych, na zwierzętach ani u ludzi, więc nie wykazuje działania przeciwko dengi. Nie należy przedstawiać olejku z eukaliptusa jako środka na tę chorobę; wyniki mogą być jedynie hipotezą do dalszych badań."
+  },
+  {
+   "id": "pm:42927714",
+   "source": "pubmed",
+   "title": "Ultrasound-assisted cloud point extraction of phenolamide from rose residues: optimization, characterization and molecular interactions",
+   "journal": "Ultrason Sonochem",
+   "date": "2026-10-22",
+   "authors": "Chen H, Qian J, Zhang S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42927714/",
+   "topic": "eo",
+   "addedAt": "2026-10-26",
+   "summaryPl": "Badanie dotyczyło odzyskiwania związku ETCS, należącego do fenoloamidów, z odpadów powstających przy produkcji olejku różanego. Opracowano metodę ekstrakcji wspomaganej ultradźwiękami w punkcie zmętnienia, a jej parametry zoptymalizowano w warunkach laboratoryjnych. Metoda dała wydajność około 80% wyższą niż ekstrakcja etanolem wspomagana ultradźwiękami oraz pozwoliła na 7,1-krotne zagęszczenie związku z 98% odzyskiem. Autorzy ocenili, że metoda jest korzystna pod względem zielonej chemii i praktyczności w skali laboratoryjnej.",
+   "titlePl": "Ultradźwiękowo wspomagana ekstrakcja w punkcie zmętnienia fenoloamidu z odpadów różanych: optymalizacja, charakterystyka i interakcje molekularne",
+   "takeaway": "Jest to praca z zakresu technologii laboratoryjnej, dotycząca odzysku związku z odpadów, a nie badanie działania olejku na organizm. Wynik nie uzasadnia żadnych wniosków o zastosowaniu terapeutycznym ani kosmetycznym; może być najwyżej punktem wyjścia do dalszych analiz."
+  },
+  {
+   "id": "pm:42923310",
+   "source": "pubmed",
+   "title": "Combined aromatherapy and music or sound for emotional distress: a systematic review of controlled studies published between 2019 and 2026",
+   "journal": "Front Psychol",
+   "date": "2026-10-08",
+   "authors": "Zhai H, Chen X, Lv D i in.",
+   "types": [
+    "przegląd systematyczny"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42923310/",
+   "topic": "aroma",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "pm:42922098",
+   "source": "pubmed",
+   "title": "Prophylactic Inhalation of Bergamot Essential Oil Ameliorates Hormone-Simulated Pseudopregnancy Withdrawal-Induced Postpartum Depression by Modulating Hippocampal Synaptic Plasticity",
+   "journal": "J Cell Mol Med",
+   "date": "2026-10",
+   "authors": "Xu H, Zhang S, He H i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42922098/",
+   "topic": "aroma",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "pm:42923013",
+   "source": "pubmed",
+   "title": "Integrative and complementary practices in diabetes management: a rapid review of clinical guidelines",
+   "journal": "Epidemiol Serv Saude",
+   "date": "2026-03-04",
+   "authors": "Silva MT, Amado DM, Rocha PRS i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42923013/",
+   "topic": "eo",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "pm:42922240",
+   "source": "pubmed",
+   "title": "Medicinal plants vs metronidazole in bacterial vaginosis: a narrative review of evidence from randomized clinical trials",
+   "journal": "Clin Ter",
+   "date": "2026",
+   "authors": "Bhat S, Kiran A, Narasimhaswamy N",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42922240/",
+   "topic": "eo",
+   "addedAt": "2026-10-26",
+   "summaryPl": "Autorzy porównali skuteczność roślin leczniczych z metronidazolem w leczeniu bakteryjnej waginozy, opierając się na randomizowanych badaniach klinicznych. Przeanalizowano 24 opublikowane prace dotyczące ziół podawanych doustnie lub dopochwowo, samodzielnie lub razem z metronidazolem. Według streszczenia zioła działały porównywalnie lub lepiej niż metronidazol, z mniejszą liczbą działań niepożądanych i niższym odsetkiem nawrotów. Autorzy zaznaczyli, że różnorodność badań i krótkie okresy obserwacji nie pozwalają na jednoznaczne wnioski.",
+   "titlePl": "Rośliny lecznicze a metronidazol w bakteryjnej waginozie: przegląd narracyjny badań z randomizowanych badań klinicznych",
+   "takeaway": "To przegląd z ograniczeniami: różnorodne metody badań i krótki czas obserwacji nie pozwalają uznać ziół za zamiennik leczenia. Wyniki nie są podstawą do stosowania olejków eterycznych w leczeniu tej infekcji; w tej sprawie potrzebne są dalsze, dobrze zaprojektowane badania."
+  },
   {
    "id": "pm:42920305",
    "source": "pubmed",
