@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-10-26T05:27:01.240Z",
+ "updatedAt": "2026-10-27T05:26:53.653Z",
  "items": [
+  {
+   "id": "pm:42931528",
+   "source": "pubmed",
+   "title": "From Laboratory Screening to Field Application: A Comprehensive Review of Biocontrol Strategies Against Aflatoxin Contamination",
+   "journal": "Toxins (Basel)",
+   "date": "2026-10-11",
+   "authors": "Hernandez C, Merlhiot V, Snini SP i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931528/",
+   "topic": "eo",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Przegląd dotyczy aflatoksyn, rakotwórczych toksyn grzybowych, które mogą zanieczyszczać wiele upraw, a ich występowanie rośnie wraz ze zmianami klimatu. Autorzy opisali strategie biokontroli, oparte na mikroorganizmach lub naturalnych związkach roślinnych, które ograniczają rozwój grzybów wytwarzających aflatoksyny lub hamują ich produkcję. Główny wniosek jest taki, że między wynikami badań w warunkach laboratoryjnych a skutecznym stosowaniem tych metod w polu istnieje wyraźna luka, a poziom gotowości technologicznej jest bardzo zróżnicowany.",
+   "titlePl": "Od badań laboratoryjnych do zastosowania w terenie: przegląd strategii biokontroli przeciw zanieczyszczeniu aflatoksynami",
+   "takeaway": "Artykuł dotyczy ochrony żywności i pasz przed grzybami, a nie stosowania olejków w praktyce doradczej. Większość opisanych strategii znajduje się na etapie badań laboratoryjnych, dlatego ich wyników nie należy przenosić na zalecenia dla klientów."
+  },
+  {
+   "id": "pm:42930068",
+   "source": "pubmed",
+   "title": "Biomaterials, Composites, and Nanotechnology: The Amazonian Potentialities",
+   "journal": "BioTech (Basel)",
+   "date": "2026-10-11",
+   "authors": "Lemos E, Bürck M, Assis M i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42930068/",
+   "topic": "eo",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Przegląd dotyczy wykorzystania bioróżnorodności Amazonii, w tym odpadów roślinnych, do tworzenia materiałów o wartości użytkowej w ramach gospodarki o obiegu zamkniętym. Z biomasy można pozyskać biopolimery, włókna oraz związki bioaktywne, w tym olejki eteryczne, które mają właściwości antyoksydacyjne, przeciwdrobnoustrojowe i przeciwzapalne. Autorzy krytycznie omówili podejścia, trendy i luki wiedzy dotyczące przetwarzania tych surowców w materiały mikro- i nanostrukturalne. Główny wniosek to to, że ograniczeniem zastosowań są niestabilność chemiczna i niska biodostępność związków, a kompozyty mikro- i nanomateriałów mogą pomóc w ich rozwiązaniu.",
+   "titlePl": "Biomateriały, kompozyty i nanotechnologia: potencjał Amazonii",
+   "takeaway": "To przegląd dotyczący materiałów i przemysłu, a nie badanie kliniczne, więc opisanych właściwości bioaktywnych nie należy przenosić na konkretne efekty zdrowotne olejków. Przy doradztwie warto pamiętać, że stabilność i sposób przechowywania olejków mają duże znaczenie dla ich jakości."
+  },
+  {
+   "id": "pm:42933283",
+   "source": "pubmed",
+   "title": "Reduced regulatory testing of biochemical plant protection products: an evaluation using three case studies",
+   "journal": "Environ Int",
+   "date": "2026-10-08",
+   "authors": "Ellis S, Bothe H, Courtenay J i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42933283/",
+   "topic": "tea",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Biochemiczne środki ochrony roślin są coraz częściej stosowane, ale w Europie podlegają tym samym rozbudowanym wymaganiom co syntetyczne substancje chemiczne. Autorzy porównali uproszczony schemat BiochemPPP-STAS z tradycyjnym zakresem badań na trzech substancjach: kwasie giberelinowym, lizacie Willaertia magna oraz olejku z drzewa herbacianego. Metoda polegała na retrospektywnej ocenie wcześniejszych dokumentacji regulacyjnych. Schemat pozwolił zidentyfikować podobne zagrożenia i wartości referencyjne, przy znacznie mniejszym nakładzie pracy i mniejszej liczbie badań na zwierzętach, a w przypadku olejku z drzewa herbacianego wykrył sygnały toksyczności dla rozrodczości, które wymagały dalszych badań.",
+   "titlePl": "Ograniczone wymogi rejestracyjne dla biochemicznych środków ochrony roślin: ocena na podstawie trzech studiów przypadku",
+   "takeaway": "W tym badaniu olejek z drzewa herbacianego wykazał sygnały toksyczności dla rozrodczości, dlatego warto zachować w doradztwie szczególną ostrożność i kierować się kartą charakterystyki produktu. Ograniczeniem jest mała liczba analizowanych przypadków, a autorzy sami podkreślają, że potrzebne są kolejne oceny."
+  },
+  {
+   "id": "pm:42931517",
+   "source": "pubmed",
+   "title": "Antifungal Potential of Artemisia Essential Oils and Extracts Against Mycotoxigenic Fungi",
+   "journal": "Toxins (Basel)",
+   "date": "2026-10-01",
+   "authors": "Ghorbal I, Redouane-Salah S, Smail S i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42931517/",
+   "topic": "eo",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Przegląd dotyczy olejków eterycznych i ekstraktów z czterech gatunków bylicy: Artemisia absinthium, A. campestris, A. herba-alba i A. judaica, badanych pod kątem działania na grzyby wytwarzające mikotoksyny, np. z rodzajów Aspergillus, Fusarium i Penicillium. Autorzy analizowali dostępne badania pod kątem składu chemicznego, skuteczności, możliwych mechanizmów działania i bezpieczeństwa. Preparaty z bylicy często hamowały wzrost grzybów, ale ich skuteczność silnie zależała od gatunku, pochodzenia, sposobu ekstrakcji i warunków badania, a dowody na hamowanie produkcji mikotoksyn były znacznie słabsze.",
+   "titlePl": "Potencjał przeciwgrzybiczy olejków eterycznych i ekstraktów z Artemisia wobec grzybów wytwarzających mikotoksyny",
+   "takeaway": "Bylica zawiera tuion, który może być szkodliwy, dlatego bezpieczeństwo trzeba oceniać razem ze skutecznością. Wyniki pochodzą głównie z badań laboratoryjnych i nie są wystarczająco potwierdzone, więc nie należy na ich podstawie polecać klientom olejków z bylicy."
+  },
+  {
+   "id": "pm:42929295",
+   "source": "pubmed",
+   "title": "Acorus calamus L. for Cognitive Enhancement: A Systematic Review of Its Ethnobotanical Practices and Scientific Evidence",
+   "journal": "Chem Biodivers",
+   "date": "2026-10",
+   "authors": "Tamang R, Gogoi A, Begum T i in.",
+   "types": [
+    "przegląd systematyczny",
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42929295/",
+   "topic": "eo",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Przegląd omawia tatarak zwyczajny (Acorus calamus L.), roślinę aromatyczną o znaczeniu leczniczym, pod kątem jego właściwości wpływających na układ nerwowy i funkcje poznawcze. Opisano także morfologię, skład chemiczny i aktywność biologiczną rośliny. Autorzy przeszukali kilka baz danych według wytycznych PRISMA 2020. Wskazano, że olejek zawiera m.in. β-asaron, kamforę i kamfen, a opisane badania in vitro, in vivo i in silico wykazały znaczącą skuteczność w zakresie funkcji neurologicznych i pamięci.",
+   "titlePl": "Acorus calamus L. w poprawie funkcji poznawczych: systematyczny przegląd praktyk etnobotanicznych i dowodów naukowych",
+   "takeaway": "Wyniki pochodzą głównie z badań laboratoryjnych, na zwierzętach i z modeli komputerowych, a streszczenie nie podaje badań na ludziach, dlatego nie należy obiecywać poprawy pamięci ani funkcji poznawczych. Streszczenie nie omawia też bezpieczeństwa stosowania, więc tej rośliny nie należy polecać bez dodatkowej, rzetelnej weryfikacji."
+  },
+  {
+   "id": "pm:42933138",
+   "source": "pubmed",
+   "title": "Screening of terpenes and phenylpropanoids against Amblyomma sculptum nymphs: Non-spatial and spatial repellency",
+   "journal": "Vet Parasitol",
+   "date": "2026-09-29",
+   "authors": "de Lima KR, Chagas HDF, Barrozo MM i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42933138/",
+   "topic": "eo",
+   "addedAt": "2026-10-27",
+   "summaryPl": "Badanie sprawdzało, czy związki z olejków eterycznych, takie jak terpeny i fenylopropanoidy, mogą odstraszać nimfy kleszcza Amblyomma sculptum, i porównywało je z DEET. Najpierw testowano odstraszanie przez kontakt w płytkach Petriego, a związki o najlepszym wyniku sprawdzano w olfaktometrze Y, czyli pod kątem działania zapachowego. Najwyższą skuteczność kontaktową wykazały α-bisabolol (92,5%) i nerolidol (89,2%) przy stężeniu 5%, a tylko α-bisabolol przewyższył DEET (81%). Żaden z fenylopropanoidów nie osiągnął progu 85%, przy czym najlepszy był cynamylan (81,5%) w stężeniu 5%.",
+   "titlePl": "Przesiewowe badanie terpenów i fenylopropanoidów wobec nimf Amblyomma sculptum: odstraszanie przez kontakt i zapach",
+   "takeaway": "To badanie laboratoryjne na nimfach kleszczy, a nie na ludziach, więc wyniki nie dowodzą skuteczności na skórze człowieka i nie mogą zastąpić sprawdzonych repelentów. Streszczenie jest urwane przy opisie fenylopropanoidów, więc przed przekazaniem klientom warto przeczytać pełny artykuł."
+  },
   {
    "id": "pm:42927623",
    "source": "pubmed",
