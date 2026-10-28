@@ -1,6 +1,91 @@
 {
- "updatedAt": "2026-10-27T05:26:53.653Z",
+ "updatedAt": "2026-10-28T05:33:49.604Z",
  "items": [
+  {
+   "id": "pm:42945644",
+   "source": "pubmed",
+   "title": "Isolation, structural characteristics and biological activities of main functional components from Citrus reticulata Blanco peels",
+   "journal": "Carbohydr Res",
+   "date": "2026-10-23",
+   "authors": "Cui M, Zhang L, Tian W i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42945644/",
+   "topic": "eo",
+   "addedAt": "2026-10-28"
+  },
+  {
+   "id": "pm:42942679",
+   "source": "pubmed",
+   "title": "Fabrication and Characterization of Chitosan-Integrated Polyvinyl Alcohol-Polycaprolactone/Tea Tree Oil Nanofibrous Scaffolds via Dual-Nozzle Electrospinning for Wound Dressing Applications",
+   "journal": "Polymers (Basel)",
+   "date": "2026-10-17",
+   "authors": "Ismayilova N, Avci T, Akdag Z i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42942679/",
+   "topic": "tea",
+   "addedAt": "2026-10-28"
+  },
+  {
+   "id": "pm:42942847",
+   "source": "pubmed",
+   "title": "Gelled Oil-in-Water Microemulsions Stabilized with Natural Surfactant Decyl Glucoside as Cutaneous Nanocarriers for Cinnamon Bark Essential Oil: Formulation and Comprehensive Pharmacotechnical Characterization",
+   "journal": "Pharmaceutics",
+   "date": "2026-10-17",
+   "authors": "Živković M, Coneac GH, Barjaktarević A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42942847/",
+   "topic": "skin",
+   "addedAt": "2026-10-28",
+   "summaryPl": "Badanie dotyczyło opracowania żelowych mikroemulsji, które miałyby ułatwić miejscowe podawanie olejku eterycznego z kory cynamonu, słabo rozpuszczalnego w wodzie, lotnego i mało stabilnego chemicznie. Autorzy stworzyli formulacje z dekyloglukozydem, badali ich właściwości fizykochemiczne i reologiczne, a także uwalnianie oleju oraz przenikanie przez skórę w badaniach in vitro. Najlepszy kompromis między właściwościami mechanicznymi, uwalnianiem i przenikaniem zapewniła formulacja MEG-CEO-2, a obie postacie zachowały główne cechy przez 45 dni.",
+   "titlePl": "Żelowe mikroemulsje typu olej w wodzie stabilizowane naturalnym środkiem powierzchniowo czynnym (dekyloglukozyd) jako nanonośniki na skórę dla olejku eterycznego z kory cynamonu: formulacja i kompleksowa charakterystyka farmaceutyczno-technologiczna",
+   "takeaway": "To badanie technologiczne prowadzone w warunkach laboratoryjnych i in vitro, bez testów na ludziach, dlatego nie pokazuje bezpieczeństwa ani skuteczności takiego preparatu w praktyce. Nie należy na jego podstawie przygotowywać ani rekomendować żeli z olejkiem z cynamonu na skórę."
+  },
+  {
+   "id": "pm:42940510",
+   "source": "pubmed",
+   "title": "Academic Discipline, Self-Medication, and Medication-Related Behaviors in Premenstrual Symptom Management Among Female University Students: A Cross-Sectional Study",
+   "journal": "Healthcare (Basel)",
+   "date": "2026-10-15",
+   "authors": "Kıroğlu O, Güllü H, Aydın R i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42940510/",
+   "topic": "aroma",
+   "addedAt": "2026-10-28"
+  },
+  {
+   "id": "pm:42943672",
+   "source": "pubmed",
+   "title": "Dracocephalum moldavica and Nepeta racemosa Essential Oils: A Review of Chemical Composition, Biological Activities, and Anti- Helicobacter pylori Potential",
+   "journal": "Molecules",
+   "date": "2026-10-10",
+   "authors": "Grigor OM, Pop CR, Nistor AL i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42943672/",
+   "topic": "eo",
+   "addedAt": "2026-10-28",
+   "summaryPl": "Przegląd narracyjny dotyczył dwóch słabo zbadanych olejków eterycznych z rodziny jasnotowatych: Dracocephalum moldavica (DMEO) i Nepeta racemosa (NREO). Autorzy zestawili 78 publikacji z lat 2016–2026 dotyczących składu, aktywności przeciwutleniającej i przeciwbakteryjnej, mechanizmów działania oraz bezpieczeństwa. Stwierdzono, że DMEO ma znacznie lepiej udokumentowaną aktywność niż NREO, którego skład silnie zależy od chemotypu, a bezpośrednich danych dotyczących Helicobacter pylori brakuje.",
+   "titlePl": "Olejki eteryczne Dracocephalum moldavica i Nepeta racemosa: przegląd składu chemicznego, aktywności biologicznej i potencjału wobec Helicobacter pylori",
+   "takeaway": "Źródłem wniosków są głównie badania laboratoryjne oraz dane o składnikach głównych, a nie o całych olejkach, więc ich wnioski dotyczące bezpieczeństwa są ograniczone. Nie należy na tej podstawie zalecać tych olejków w kontekście problemów żołądkowych ani zakażeń H. pylori."
+  },
+  {
+   "id": "pm:42939552",
+   "source": "pubmed",
+   "title": "Effects of Tea Tree Oil on B16F10 Melanoma Cells and Their Syngeneic Tumors in Mice",
+   "journal": "Curr Issues Mol Biol",
+   "date": "2026-10-01",
+   "authors": "Lei W, Zhang M, Xie J i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42939552/",
+   "topic": "tea",
+   "addedAt": "2026-10-28",
+   "summaryPl": "Badanie sprawdzało działanie sześciu preparatów olejku z drzewa herbacianego na komórki czerniaka mysiego B16F10 w hodowli, a następnie dwóch najbardziej aktywnych na modelu guza u myszy C57BL/6. Preparat E wstrzykiwano bezpośrednio do guza przez 7 dni, w grupach po pięć myszy, i porównywano z kontrolą PBS. Wynikiem było istotne zahamowanie wzrostu guza (spadek objętości o 69,1% i masy o 61,2% w 14. dniu) oraz indukcja apoptozy, czyli zaprogramowanej śmierci komórek.",
+   "titlePl": "Wpływ olejku z drzewa herbacianego na komórki czerniaka B16F10 i ich guzy syngeniczne u myszy",
+   "takeaway": "Badanie zostało przeprowadzone na komórkach w hodowli i na małej grupie myszy, z podaniem bezpośrednio do guza, więc nie przekłada się bezpośrednio na stosowanie u ludzi. Autorzy sami wskazują, że wyniki wymagają dalszych badań przedklinicznych; nie należy traktować tego olejku jako metody leczenia nowotworu."
+  },
   {
    "id": "pm:42931528",
    "source": "pubmed",
