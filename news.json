@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-10-29T05:36:59.831Z",
+ "updatedAt": "2026-10-30T05:36:44.307Z",
  "items": [
+  {
+   "id": "pm:42954864",
+   "source": "pubmed",
+   "title": "Pine needles as a sustainable bioresource for agro-food industry",
+   "journal": "Crit Rev Food Sci Nutr",
+   "date": "2026-10-29",
+   "authors": "Sharma S, Thakur P, Kumar Verma A",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42954864/",
+   "topic": "eo",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Przegląd opisuje igliwie sosny jako odnawialny surowiec, który powstaje w dużych ilościach i jest dotąd słabo wykorzystany. Autorzy analizowali jego skład chemiczny, w tym związki fenolowe, flawonoidy i olejki eteryczne, których zawartość w niektórych gatunkach sięga do 0,8%, a w części z nich zidentyfikowano 71 związków. Główny wniosek jest taki, że igliwie ma potencjał w przemyśle spożywczym, ale brakuje przepisów i badań nad zastosowaniami w żywności, a lignocelulozy trudno przetworzyć.",
+   "titlePl": "Igliwie sosny jako zrównoważony surowiec bioprzemysłowy dla przemysłu rolno-spożywczego",
+   "takeaway": "Dane o zawartości olejków w igliwiu dotyczą surowca i jego potencjału przemysłowego, a nie gotowego produktu ani dowodu na działanie zdrowotne. Nie należy przenosić tych informacji na zalecenia dla klientów."
+  },
+  {
+   "id": "pm:42943190",
+   "source": "pubmed",
+   "title": "Multi-Target Anti-Aging and Wound-Healing Potential of Libyan Thymus vulgaris and Thymus capitatus Essential Oils: Integrated GC-MS, Network Pharmacology, Molecular Docking, and In Vitro Evaluation",
+   "journal": "Plants (Basel)",
+   "date": "2026-10-21",
+   "authors": "Suliman SN, Al-Masawri A, Hassan MA i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42943190/",
+   "topic": "skin",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Badano olejki eteryczne z dwóch gatunków tymianku zebrane we wschodniej Libii, łącząc analizę składu chemicznego (GC-MS), analizę sieciową, dopasowanie molekularne oraz testy laboratoryjne, w tym model gojenia rany na hodowli fibroblastów ludzkich. W olejku tymianku pospolitego dominował karwakrol, a w olejku tymianku kulistego tymol. Olejek tymianku kulistego silniej hamował wybrane enzymy i w niskim stężeniu (1,99 µg/ml) wiązał się z szybszym zamykaniem rany w hodowli oraz zmianami ekspresji genów związanych z kolagenem i MMP1. Autorzy wskazują, że oba olejki wykazują uzupełniające się działanie przeciwzapalne i antyoksydacyjne, ale wyniki pochodzą z warunków laboratoryjnych i obliczeń komputerowych.",
+   "titlePl": "Wielokierunkowy potencjał przeciwstarzeniowy i gojący olejków z libijskiego tymianku pospolitego (Thymus vulgaris) i tymianku kulistego (Thymus capitatus): GC-MS, farmakologia sieciowa, dokowanie molekularne i ocena in vitro",
+   "takeaway": "Wyniki mają charakter wstępny i pochodzą z hodowli komórkowych oraz symulacji komputerowych, więc nie potwierdzają skuteczności ani bezpieczeństwa u ludzi. Stężenie użyte w badaniu nie jest wskazówką do stosowania olejku w domu ani do jakiegokolwiek celu leczniczego."
+  },
+  {
+   "id": "pm:42952639",
+   "source": "pubmed",
+   "title": "Sensory-based non-pharmacological interventions for reducing dental anxiety and improving behavioural cooperation in paediatric patients: a systematic review with GRADE assessment",
+   "journal": "Front Dent Med",
+   "date": "2026-10-14",
+   "authors": "Mukherjee D, Saha S, Baksi A i in.",
+   "types": [
+    "przegląd systematyczny"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42952639/",
+   "topic": "aroma",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Przegląd oceniał skuteczność interwencji opartych na bodźcach zmysłowych (dźwięk, obraz, dotyk, zapach, czucie głębokie) w zmniejszaniu lęku dentystycznego u pacjentów do 18. roku życia oraz pewność dowodów metodą GRADE. Autorzy przeszukali kilka baz danych i wybrali 47 badań, w tym 25 badań randomizowanych lub kontrolowanych z podziałem na grupy. Streszczenie urywa się w części o wynikach, więc nie podaje wniosków dotyczących aromaterapii, która była jednym z dziewięciu analizowanych rodzajów interwencji.",
+   "titlePl": "Interwencje niefarmakologiczne oparte na bodźcach zmysłowych w redukcji lęku przed leczeniem dentystycznym i poprawie współpracy u dzieci: przegląd systematyczny z oceną GRADE",
+   "takeaway": "Z tego streszczenia nie da się wyciągnąć wniosków o skuteczności olejków eterycznych w łagodzeniu lęku dentystycznego u dzieci; należy sięgnąć do pełnego tekstu. Nawet pełny przegląd nie zastąpi indywidualnej rozmowy z dentystą lub psychologiem dziecięcym."
+  },
+  {
+   "id": "pm:42952720",
+   "source": "pubmed",
+   "title": "Systematic literature review and meta-analysis of lotilaner 0.25% and tea tree oil for Demodex blepharitis",
+   "journal": "Front Ophthalmol (Lausanne)",
+   "date": "2026-10-14",
+   "authors": "Gaddie IB, Nanavaty MA, Page T i in.",
+   "types": [
+    "przegląd systematyczny"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42952720/",
+   "topic": "tea",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Przegląd i metaanaliza porównały lotilaner 0,25% (lek zatwierdzony przez FDA) oraz preparaty z olejkiem z drzewa herbacianego (TTO) u pacjentów z zapaleniem brzegów powiek wywołanym przez roztocza Demodex. Objęto dziewięć badań randomizowanych, łącznie 1513 pacjentów: cztery porównywały lotilaner z placebo, a pięć – TTO z atrapą zabiegu. Lotilaner istotnie zmniejszał liczbę roztoczy i częściej je eliminował, natomiast TTO nie wykazał istotnej statystycznie różnicy w liczbie roztoczy ani w ich eliminacji w porównaniu z atrapą.",
+   "titlePl": "Systematyczny przegląd literatury i metaanaliza lotilanera 0,25% i olejku z drzewa herbacianego w zapaleniu brzegów powiek wywołanym przez Demodex",
+   "takeaway": "W tym przeglądzie olejek z drzewa herbacianego nie wykazał istotnej skuteczności, a badania nad nim różniły się stężeniem i dawkowaniem, co ogranicza pewność wniosków. Nie należy polecać olejku jako sposobu leczenia zmian na powiekach; w takich dolegliwościach klientka lub klient powinni skonsultować się z lekarzem okulistą."
+  },
+  {
+   "id": "pm:42952893",
+   "source": "pubmed",
+   "title": "Phytochemistry, pharmacology, safety, and applications of Buddleja globosa Hope [Scrophulariaceae]: a systematic review from bioactive metabolites and mechanisms to translational perspectives",
+   "journal": "Front Pharmacol",
+   "date": "2026-10-14",
+   "authors": "Fuentes-Barros G, Castro-Saavedra S, Montalva N i in.",
+   "types": [
+    "przegląd systematyczny"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42952893/",
+   "topic": "eo",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Przegląd systematyczny zebrał 50 badań dotyczących Buddleja globosa, krzewu z Ameryki Południowej, znanego w Chile jako matico, którego liście stosuje się tradycyjnie, najczęściej jako wyciągi wodne. Autorzy przeanalizowali dane o tradycyjnym użyciu, składzie chemicznym, aktywności biologicznej i bezpieczeństwie, zgodnie z wytycznymi PRISMA 2020. Najlepiej opisane są zastosowania w gojeniu ran i wrzodach żołądka, a zidentyfikowano 119 metabolitów, natomiast olejek eteryczny jest słabo scharakteryzowany. Główny wniosek to potencjał rośliny jako surowca, przy jednoczesnych lukach w standaryzacji, bezpieczeństwie i badaniach klinicznych.",
+   "titlePl": "Fitochemia, farmakologia, bezpieczeństwo i zastosowania Buddleja globosa Hope [Scrophulariaceae]: przegląd systematyczny od metabolitów bioaktywnych i mechanizmów po perspektywy translacyjne",
+   "takeaway": "Przegląd opiera się głównie na tradycyjnym użyciu i badaniach o zróżnicowanej sile dowodów, a olejek eteryczny tej rośliny jest słabo zbadany. Nie należy na tej podstawie rekomendować tego surowca jako olejku ani jako środka leczniczego, zwłaszcza że autorzy wskazują braki w ocenie bezpieczeństwa."
+  },
+  {
+   "id": "pm:42943273",
+   "source": "pubmed",
+   "title": "Indirect Skin Homeostasis Modulation by an Essential Oil Blend in Mice with Insomnia Comorbid Anxiety: Sensitivity of Dermal Fibroblasts to Exogenously Applied Circulating Molecules",
+   "journal": "Pharmaceuticals (Basel)",
+   "date": "2026-10-04",
+   "authors": "Liu F, Xu J, Chen Z i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42943273/",
+   "topic": "sleep",
+   "addedAt": "2026-10-30",
+   "summaryPl": "Badanie sprawdzało, czy mieszanka olejków eterycznych (lawendy, róży Kushui, pomarańczy słodkiej, rumianku rzymskiego, sandałowca i szałwii muszkatołowej) wpływa pośrednio na skórę u myszy z bezsennością i lękiem, wywołanymi podaniem para-chlorofenyloalaniny. Zwierzętom podawano mieszankę dootrzewnowo (dwie iniekcje po 300 mg/kg), oceniano zachowanie, neuroprzekaźniki i hormony, a wybrane cząsteczki z surowicy nanoszono na hodowane fibroblasty skórne. Mieszanka złagodziła objawy podobne do lękowych i zaburzeń snu, a zmiany w skórze były niewielkie, choć wykryto zmiany kortyzolu, melatoniny, serotoniny, IL-10 i kolagenu typu I, które w różny sposób wpływały na fibroblasty. Autorzy zaznaczają, że badania na hodowlach pokazują jedynie działanie komórkowe.",
+   "titlePl": "Pośrednia modulacja homeostazy skóry przez mieszankę olejków eterycznych u myszy z bezsennością i lękiem: wrażliwość fibroblastów skórnych na cząsteczki krążące we krwi",
+   "takeaway": "To badanie na myszach z podaniem dootrzewnowym, a nie na skórę u ludzi, dlatego nie przenosi się bezpośrednio na praktykę doradczą. Nie należy z niego wyciągać wniosków o efektach dla skóry, nastroju ani snu u ludzi."
+  },
   {
    "id": "pm:42950926",
    "source": "pubmed",
