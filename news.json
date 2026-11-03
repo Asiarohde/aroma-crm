@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-11-02T05:53:37.376Z",
+ "updatedAt": "2026-11-03T05:45:12.767Z",
  "items": [
+  {
+   "id": "pm:42968664",
+   "source": "pubmed",
+   "title": "Linalool and linalyl acetate aromatherapy for labor pain management: A narrative review of evidence for integration into midwifery practice",
+   "journal": "Afr J Reprod Health",
+   "date": "2026-11-02",
+   "authors": "Kasmara DP, Aswan Y",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42968664/",
+   "topic": "aroma",
+   "addedAt": "2026-11-03",
+   "summaryPl": "Artykuł dotyczy wykorzystania olejków bogatych w linalol i octan linalilu, występujących m.in. w lawendzie i szałwii muszkatołowej, w łagodzeniu bólu porodowego i lęku matek. Autorzy wykonali przegląd narracyjny: przeszukali sześć baz danych i wskazali 12 kluczowych badań. Według streszczenia w pierwszej fazie porodu obserwowano umiarkowane, ale spójne zmniejszenie bólu i lęku, a autorzy ocenili profil bezpieczeństwa jako bardzo dobry.",
+   "titlePl": "Aromaterapia z linalolem i octanem linalilu w łagodzeniu bólu porodowego: przegląd narracyjny dowodów do wdrożenia w praktyce położniczej",
+   "takeaway": "To przegląd literatury, a nie nowe badanie, a poprawa była opisana jako umiarkowana, więc nie należy traktować jej jako zamiennika standardowej opieki okołoporodowej. Każde zastosowanie warto uzgodnić z położną lub lekarzem prowadzącym ciążę."
+  },
+  {
+   "id": "pm:42970029",
+   "source": "pubmed",
+   "title": "Cinnamon supplementation in broiler and laying hen diets: benefits, mechanisms, supplementation doses, and limitations - a review",
+   "journal": "Trop Anim Health Prod",
+   "date": "2026-11-02",
+   "authors": "Ogbuewu IP, Mbajiorgu CA",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970029/",
+   "topic": "eo",
+   "addedAt": "2026-11-03",
+   "summaryPl": "Artykuł dotyczy dodatku cynamonu (kory, olejku, ekstraktu i nanocząstek) do pasz dla kurczaków rzeźnych i kur nieśnych. Autorzy zebrali i omówili wyniki wcześniejszych badań dotyczących wzrostu, jakości mięsa, produkcji jaj i wylęgowości. Według streszczenia cynamon mógł poprawiać niektóre wyniki, ale rezultaty były niespójne, a bardzo wysokie dawki mogły zmniejszać pobieranie paszy i zaburzać mikroflorę jelita ślepego.",
+   "titlePl": "Suplementacja cynamonem w dietach brojlerów i kur nieśnych: korzyści, mechanizmy, dawki i ograniczenia – przegląd",
+   "takeaway": "Dotyczy to żywienia zwierząt gospodarskich, a nie stosowania olejków u ludzi, więc wyników nie można przenosić na praktykę aromaterapeutyczną. Streszczenie pokazuje też, że nawet w paszy wysokie dawki mogły szkodzić, co jest przypomnieniem, że „naturalny” nie oznacza obojętny."
+  },
+  {
+   "id": "pm:42969381",
+   "source": "pubmed",
+   "title": "Effect of Aromatherapy on Sleep Quality among Hospitalized Patients",
+   "journal": "Ann Afr Med",
+   "date": "2026-11-02",
+   "authors": "Bejoy C, Jagtap A, Adhyapak S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42969381/",
+   "topic": "aroma",
+   "addedAt": "2026-11-03",
+   "summaryPl": "Badanie sprawdzało, czy aromaterapia z olejkiem lawendowym poprawia jakość snu u pacjentów szpitalnych. Zastosowano projekt quasi-eksperymentalny z grupą kontrolną: 60 dorosłych pacjentów podzielono na grupę badaną (30 osób), która przez trzy kolejne noce wdychała olejek lawendowy z dyfuzora, oraz grupę kontrolną (30 osób) otrzymującą standardową opiekę. W grupie badanej średni wynik jakości snu wzrósł z 1,9 do 3,0, podczas gdy w grupie kontrolnej nie zaobserwowano istotnej poprawy.",
+   "titlePl": "Wpływ aromaterapii na jakość snu u hospitalizowanych pacjentów",
+   "takeaway": "Badanie objęło małą grupę w jednym regionie i krótki okres, a jego projekt nie jest w pełni eksperymentalny, więc wynik jest wstępny. Problemy ze snem wymagają oceny lekarza, a aromaterapię można co najwyżej traktować jako uzupełnienie komfortu, nie jako leczenie."
+  },
+  {
+   "id": "pm:42968026",
+   "source": "pubmed",
+   "title": "Insights into floral biology, breeding behavior and chemical composition of Ferula assa-foetida L. cultivated under Indian Himalayan conditions",
+   "journal": "BMC Plant Biol",
+   "date": "2026-07-27",
+   "authors": "Rana A, Kumar R, Kumar A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42968026/",
+   "topic": "eo",
+   "addedAt": "2026-11-03",
+   "summaryPl": "Badanie opisało biologię kwitnienia, rozmnażania i skład chemiczny Ferula assa-foetida uprawianej w Himachal Pradesh w Indiach w latach 2019–2025. Autorzy obserwowali rozwój kwiatostanów, badali żywotność pyłku, prowadzili kontrolowane zapylanie oraz analizowali żywicę i związki lotne metodami GC-MS i UPLC-PDA. Najlepszym momentem zbioru żywicy okazała się faza przed kwitnieniem, gdy zawiera ona więcej związków siarkowych i fenolowych, natomiast w korzeniach po kwitnieniu dominowały terpenoidy i pochodne kwasów tłuszczowych. Nasiona miały wysoką żywotność, powyżej 83 %.",
+   "titlePl": "Wgląd w biologię kwiatów, zachowania rozrodcze i skład chemiczny Ferula assa-foetida L. uprawianej w warunkach Himalajów Indyjskich",
+   "takeaway": "Wyniki dotyczą jednej uprawy w określonych warunkach klimatycznych i nie zawierają danych o działaniu żywicy ani olejków na zdrowie. Badanie dotyczy przede wszystkim uprawy i pozyskiwania surowca, więc nie powinno być podstawą do stosowania tego surowca w celach leczniczych."
+  },
+  {
+   "id": "pm:42968326",
+   "source": "pubmed",
+   "title": "Hydrothermal-Assisted Extraction of Cinnamomum camphora Essential Oil Optimized by Machine Learning",
+   "journal": "J Oleo Sci",
+   "date": "2026",
+   "authors": "Qi Y, Li X, Zhou J i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42968326/",
+   "topic": "eo",
+   "addedAt": "2026-11-03",
+   "summaryPl": "Badanie dotyczyło sposobu zwiększenia wydajności pozyskiwania olejku eterycznego z liści Cinnamomum camphora. Autorzy połączyli wstępną obróbkę hydrotermalną z destylacją parową, a parametry procesu optymalizowali dwiema metodami: modelem RSM oraz siecią neuronową zoptymalizowaną algorytmem genetycznym (GA-ANN). Najlepszy wynik dał model GA-ANN: wydajność olejku wyniosła 4,59 %, czyli o 52 % więcej niż w zwykłej destylacji parowej. Analizy SEM i FTIR wykazały zmiany strukturalne w ścianach komórkowych, które mogły ułatwić uwalnianie olejku.",
+   "titlePl": "Ekstrakcja hydrotermalnie wspomagana olejku eterycznego z Cinnamomum camphora zoptymalizowana metodami uczenia maszynowego",
+   "takeaway": "To badanie procesowe, prowadzone w warunkach laboratoryjnych, dotyczy wydajności produkcji olejku, a nie jego działania na organizm, dlatego nie pozwala ocenić skuteczności olejku w praktyce. Przy doborze olejków warto kierować się jakością, pochodzeniem i składem podanym przez producenta."
+  },
   {
    "id": "pm:42954634",
    "source": "pubmed",
