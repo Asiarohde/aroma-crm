@@ -1,6 +1,51 @@
 {
- "updatedAt": "2026-11-03T05:45:12.767Z",
+ "updatedAt": "2026-11-04T05:50:37.669Z",
  "items": [
+  {
+   "id": "pm:42977106",
+   "source": "pubmed",
+   "title": "Toxicity Profile of Three Essential Oils and Biochemical Alterations in Apis mellifera intermissa: Implications for Biopesticide Safety",
+   "journal": "Environ Toxicol Pharmacol",
+   "date": "2026-11-03",
+   "authors": "Feloussi I, Alkassab AT, Chahbar N i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42977106/",
+   "topic": "eo",
+   "addedAt": "2026-11-04",
+   "summaryPl": "Badanie sprawdzało, jak trzy algierskie olejki eteryczne z roślin leczniczych (Lavandula stoechas, Artemisia absinthium i Mentha rotundifolia) działają na robotnice pszczoły miodnej Apis mellifera intermissa. Oceniano toksyczność po podaniu doustnym i przez kontakt, a także wskaźniki biochemiczne (AChE, CAT, GST i MDA), a skład chemiczny olejków określono metodą GC-MS. Najbardziej toksyczny był olejek z Mentha rotundifolia, który po 24 godzinach powodował 85% śmiertelności, natomiast olejki z Lavandula stoechas i Artemisia absinthium nie wywoływały istotnej śmiertelności. Autorzy podkreślają, że same wskaźniki toksyczności nie wystarczą do oceny ryzyka dla zapylaczy i potrzebne są dodatkowe biomarkery.",
+   "titlePl": "Profil toksyczności trzech olejków eterycznych i zmiany biochemiczne u Apis mellifera intermissa: znaczenie dla bezpieczeństwa biopestycydów",
+   "takeaway": "Olejki eteryczne określane jako przyjazne środowisku nie są automatycznie bezpieczne dla pszczół, dlatego nie należy zakładać ich nieszkodliwości dla zapylaczy. Ograniczeniem jest to, że badanie wykonano w warunkach laboratoryjnych na pszczołach robotnicach, więc nie opisuje bezpośrednio sytuacji w ulu lub w przyrodzie."
+  },
+  {
+   "id": "pm:42977050",
+   "source": "pubmed",
+   "title": "Electrospinning of zein/cress seed gum-based Pickering emulsion to produce a bilayer active packaging system to increase the shelf life of chicken fillet",
+   "journal": "Int J Biol Macromol",
+   "date": "2026-11-03",
+   "authors": "Gholizadeh S, Naji S, Falah F i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42977050/",
+   "topic": "eo",
+   "addedAt": "2026-11-04",
+   "summaryPl": "Badanie dotyczyło opakowania aktywnego do żywności, w którym jako składnik aktywny użyto olejku eterycznego Artemisia annua zamkniętego w emulsji Pickering. Emulsję połączono z roztworem PVA, a następnie przez elektroformowanie wytworzono nanowłókna, które naniesiono na folię żelatynową, tworząc dwuwarstwową folię. Najlepszą formulację (stosunek PE do PVA 70:30) cechowała jednorodna budowa i średnia średnica włókien 357,34 nm, a folia wykazała aktywność przeciwutleniającą i przeciwbakteryjną. Podczas 12-dniowego przechowywania filetów z kurczaka folia ograniczała zmiany pH, utlenianie i rozwój drobnoustrojów.",
+   "titlePl": "Elektroformowanie emulsji Pickering na bazie zeiny i gumy z nasion rzeżuchy w celu uzyskania dwuwarstwowego aktywnego opakowania wydłużającego trwałość filetów z kurczaka",
+   "takeaway": "Wyniki dotyczą specjalistycznych materiałów opakowaniowych w badaniach technologicznych, a nie zastosowań dla konsumentów, dlatego nie przenosi się ich na bezpośrednie stosowanie olejków w kontakcie z żywnością. Ograniczeniem jest to, że opisane efekty uzyskano w warunkach badawczych dla jednego rodzaju produktu i jednego okresu przechowywania."
+  },
+  {
+   "id": "pm:42975044",
+   "source": "pubmed",
+   "title": "Microbial biodeterioration of 18 th -century oil paintings in Orosi, Costa Rica, and in vitro evaluation of volatile essential oil components as antimicrobials",
+   "journal": "Microbiol Spectr",
+   "date": "2026-11-03",
+   "authors": "Madrigal-Rodríguez FM, Castro-Vargas P, Jaikel-Víquez D i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42975044/",
+   "topic": "eo",
+   "addedAt": "2026-11-04",
+   "summaryPl": "Badanie dotyczyło uszkodzeń mikrobiologicznych dwóch XVIII-wiecznych obrazów olejnych z Orosi w Kostaryce, a także działania przeciwdrobnoustrojowego sześciu składników lotnych olejków eterycznych. Drobnoustroje wyizolowano i zidentyfikowano metodami VITEK 2, MALDI-TOF oraz mikroskopowo, a ich zdolność do tworzenia biofilmu oceniono w badaniach laboratoryjnych. Najsilniejszą aktywność hamującą wykazał linalol, który w testach bez bezpośredniego kontaktu całkowicie hamował wzrost bakterii. Autorzy wskazują te składniki jako kandydatów do dalszych badań w konserwacji zapobiegawczej.",
+   "titlePl": "Biodegradacja mikrobiologiczna XVIII-wiecznych obrazów olejnych w Orosi (Kostaryka) oraz ocena in vitro lotnych składników olejków eterycznych jako środków przeciwdrobnoustrojowych",
+   "takeaway": "Wynik pochodzi z badań in vitro na hodowlach drobnoustrojów i nie dowodzi działania olejków na skórę, błony śluzowe ani w organizmie człowieka, dlatego nie należy na tej podstawie zalecać ich do stosowania przeciwbakteryjnego. Ograniczeniem jest też to, że badano wybrane składniki w warunkach laboratoryjnych, a nie gotowe olejki w realnych zastosowaniach."
+  },
   {
    "id": "pm:42968664",
    "source": "pubmed",
