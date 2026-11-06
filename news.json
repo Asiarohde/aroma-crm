@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-05T05:52:52.163Z",
+ "updatedAt": "2026-11-06T05:51:39.623Z",
  "items": [
+  {
+   "id": "pm:42986529",
+   "source": "pubmed",
+   "title": "Integrative assessment of behavioral and cardiorespiratory modulation induced by basil (Ocimum basilicum L.) essential oil in tambaqui (Colossoma macropomum)",
+   "journal": "Fish Physiol Biochem",
+   "date": "2026-11-05",
+   "authors": "Lins A, Eiró-Quirino L, Farias RAF i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986529/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Badanie sprawdzało, czy olejek eteryczny bazylii, w którego składzie dominował estragol, może działać jako środek uspokajający i unieruchamiający u młodych ryb tambaqui, które kąpano w wodzie o czterech różnych stężeniach. Obserwowano zachowanie ryb, oddech i zapis pracy serca (EKG). Wraz ze wzrostem stężenia ryby szybciej traciły odruch postawy i stawały się nieruchome, a tętno spadało, przy czym po przepłukaniu w czystej wodzie większość parametrów wracała do wartości wyjściowych. Autorzy podkreślają, że nie badano reakcji na bodźce bolesne, więc nie potwierdzono głębokiego znieczulenia chirurgicznego.",
+   "titlePl": "Zintegrowana ocena modulacji zachowania oraz funkcji sercowo-oddechowych wywołanej olejkiem eterycznym bazylii (Ocimum basilicum L.) u tambaqui (Colossoma macropomum)",
+   "takeaway": "Wyniki dotyczą krótkotrwałych warunków doświadczalnych na młodych rybach i nie są zaleceniem stosowania olejku bazylii w praktyce. Autorzy zaznaczają, że przed praktycznym użyciem potrzebne są badania farmakokinetyczne, dotyczące pozostałości w tkankach, toksyczności i okresu karencji, zwłaszcza gdy chodzi o ryby przeznaczone do spożycia."
+  },
+  {
+   "id": "pm:42982311",
+   "source": "pubmed",
+   "title": "Sub-Inhibitory Plant-Derived GRAS Compounds and the Salmonella Type III Secretion System: A Critical Review and a Genotype-Informed Path Forward",
+   "journal": "J Food Prot",
+   "date": "2026-11-04",
+   "authors": "Li X",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42982311/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Przegląd dotyczy roślinnych związków uznawanych za ogólnie bezpieczne (GRAS), które w stężeniach niehamujących wzrostu bakterii ograniczają ekspresję genów wirulencji Salmonelli. Autorzy skupili się na systemie wydzielniczym typu III, który bierze udział w inwazji na komórki gospodarza, i opisali wyniki dla eugenolu, tymolu, karwakrolu i cynamaldehydu. Działanie na transkrypty tych genów zaobserwowano w warunkach laboratoryjnych, a w najlepiej zbadanych przypadkach także na poziomie białek. Autorzy wskazali też luki w raportowaniu wyników, które ograniczają ich interpretację, oraz pytania, które wciąż pozostają otwarte, m.in. dotyczące hodowli drobiu.",
+   "titlePl": "Podhamujące stężenia roślinnych związków GRAS a system wydzielniczy typu III Salmonelli: krytyczny przegląd i kierunek dalszych badań uwzględniający genotyp",
+   "takeaway": "Są to badania laboratoryjne na bakteriach, a nie na ludziach, więc nie można z nich wyciągać wniosków o działaniu olejków w ciele człowieka. Przegląd wskazuje też na braki w raportowaniu wyników, dlatego nie należy przenosić ich na zalecenia dotyczące bezpieczeństwa żywności ani na praktykę aromaterapeutyczną."
+  },
+  {
+   "id": "pm:42979914",
+   "source": "pubmed",
+   "title": "[A PhD completed. Mouthwashes in preventive oral health care, from composition to clinical outcomes]",
+   "journal": "Ned Tijdschr Tandheelkd",
+   "date": "2026-11-03",
+   "authors": "van Swaaij BWM, van der Weijden GA, Timmerman MF i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42979914/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Rozprawa doktorska oceniała skuteczność, odczucia użytkowników i bezpieczeństwo płynów do płukania jamy ustnej, które różnią się składem. Analizy laboratoryjne wykazały różnice w pH, zdolności buforowania i zawartości fluoru, przy czym większość produktów zgadzała się z deklarowaną zawartością fluoru. Płyny z alkoholem oraz z chlorheksydyną lub olejkami eterycznymi hamowały płytkę nazębną skuteczniej niż wersje bez alkoholu, a według autora wpływ na ciśnienie krwi był klinicznie pomijalny. Chlorheksydyna może powodować przebarwienia zębów, które można ograniczyć systemem zapobiegającym przebarwieniom, bez utraty skuteczności.",
+   "titlePl": "[Zakończony doktorat. Płyny do płukania jamy ustnej w profilaktyce zdrowia jamy ustnej: od składu do wyników klinicznych]",
+   "takeaway": "Wyniki dotyczą wybranych produktów i badanych osób, więc nie wszystkie można uogólniać na inne płyny. Obecność olejków eterycznych w płynie do płukania nie oznacza, że działa on leczniczo, a w sprawach higieny i zdrowia jamy ustnej warto odsyłać klientów do stomatologa."
+  },
+  {
+   "id": "pm:42987768",
+   "source": "pubmed",
+   "title": "Impact of a microencapsulated Enterococcus faecium-phytogenic complex as an antibiotic alternative on growth performance, intestinal morphology, nutrient digestibility, antioxidant status and immune response in broilers",
+   "journal": "Poult Sci",
+   "date": "2026-10-30",
+   "authors": "Sahraei M, Mahdavi R, Moradi S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987768/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Badanie oceniało mikrokapsułkowany dodatek paszowy zawierający bakterie Enterococcus faecium oraz składniki roślinne (tymianek, oregano, ajwain) u 360 brojlerów Ross 308. Porównano dietę bez dodatku, dietę z bacitracyną oraz dwie dawki dodatku (0,75 i 1,5 g/kg paszy). Masa ciała się nie zmieniła, natomiast dodatek zmniejszył pobranie paszy i poprawił współczynnik konwersji paszy, najlepiej przy dawce 0,75 g/kg. Część wskaźników jelitowych i trawienności białka wykazała istotne zmiany, a inne, np. aktywność przeciwutleniająca i miano przeciwciał, się nie różniły.",
+   "titlePl": "Wpływ mikrokapsułkowanego kompleksu Enterococcus faecium i składników roślinnych jako alternatywy dla antybiotyku na wzrost, morfologię jelit, trawienność składników odżywczych, status antyoksydacyjny i odpowiedź immunologiczną u brojlerów",
+   "takeaway": "To badanie na kurczętach hodowlanych dotyczy dodatku paszowego, a nie olejków eterycznych stosowanych u ludzi, więc nie przekłada się bezpośrednio na praktykę aromaterapeutyczną. Streszczenie jest też niepełne (urwane w części dotyczącej wyników), co ogranicza pewność wniosków."
+  },
+  {
+   "id": "pm:42985303",
+   "source": "pubmed",
+   "title": "Protective effect of Damask rose (Rosa damascena) essential oil against testicular injury and alterations in epididymal sperm parameters in rats exposed to high-dose glucocorticoid",
+   "journal": "Iran J Vet Res",
+   "date": "2026-08-22",
+   "authors": "Pirhadi F, Shomali T, Namazi F i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42985303/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Badanie na szczurach sprawdzało, czy olejek z róży damasceńskiej chroni jądra i plemniki przed uszkodzeniem wywołanym deksametazonem, czyli glikokortykosteroidem podawanym w dużej dawce przez 7 dni. Zwierzęta otrzymywały olejek w czterech dawkach, a grupy kontrolne dostawały sam deksametazon lub sam olej roślinny. Deksametazon obniżał poziom testosteronu, nasilał obumieranie komórek w jądrach i pogarszał liczbę oraz jakość plemników, a olejek, szczególnie w wyższych dawkach, łagodził te zmiany. Autorzy wskazują na działanie przeciwapoptotyczne (hamujące obumieranie komórek) jako możliwy mechanizm.",
+   "titlePl": "Ochronne działanie olejku eterycznego z róży damasceńskiej (Rosa damascena) przed uszkodzeniem jąder i zmianami parametrów plemników w najądrzu u szczurów narażonych na wysokie dawki glikokortykosteroidu",
+   "takeaway": "To badanie na szczurach z sztucznie wywołanym uszkodzeniem, a nie na ludziach, więc nie daje podstaw do stosowania olejku w celu poprawy płodności. Dawki użyte w badaniu były duże i podawane doustnie, a wnioski autorzy sami określają jako punkt wyjścia do dalszych badań."
+  },
+  {
+   "id": "pm:42985163",
+   "source": "pubmed",
+   "title": "Therapeutic potential of plant-based essential oils for dental disorders: A comprehensive review",
+   "journal": "Food Sci Biotechnol",
+   "date": "2026-07-14",
+   "authors": "SheibaniNia A, Ghasemi Pirbalouti A, Rajabzadeh F i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42985163/",
+   "topic": "eo",
+   "addedAt": "2026-11-06",
+   "summaryPl": "Autorzy przeglądu zebrali badania kliniczne, in vivo i in vitro dotyczące 18 olejków eterycznych w próchnicy i chorobach przyzębia. Według nich najwięcej działań profilaktycznych i leczniczych wykazały olejki z goździka, tymianku, czarnuszki i cynamonu. Olejki (terpenoidy) mogą zaburzać działanie błon komórkowych drobnoustrojów, a niektóre z nich wykazywały też silne działanie antyoksydacyjne i przeciwzapalne. Autorzy uznali, że olejki mogą być przydatne w utrzymaniu zdrowia, ale wyniki pochodzą głównie z badań wstępnych.",
+   "titlePl": "Potencjał terapeutyczny olejków eterycznych pochodzenia roślinnego w schorzeniach zębów: kompleksowy przegląd",
+   "takeaway": "Przegląd opiera się w dużej mierze na badaniach in vitro i in vivo, dlatego wyniki nie dowodzą skuteczności olejków w praktyce klinicznej. Nie zastępują one zaleceń stomatologa, a w sprawach zdrowia jamy ustnej warto kierować klientkę do lekarza dentysty."
+  },
   {
    "id": "pm:42977106",
    "source": "pubmed",
