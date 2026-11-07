@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-11-06T05:51:39.623Z",
+ "updatedAt": "2026-11-07T05:40:35.610Z",
  "items": [
+  {
+   "id": "pm:42992432",
+   "source": "pubmed",
+   "title": "Comfort and Adverse Reactions in Immediate Mouthwash Use: A Comparative Study",
+   "journal": "Oral Health Prev Dent",
+   "date": "2026-11-06",
+   "authors": "Casado PL, Ghiraldini B, Bezerra FJB i in.",
+   "types": [
+    "badanie RCT"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42992432/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Badanie oceniało natychmiastowe działanie trzech płynów do płukania jamy ustnej: z olejkami eterycznymi, z chlorheksydyną oraz z zieloną herbatą i kwasem hialuronowym. Badano pH śliny przed i po płukaniu oraz odczucia użytkowników, takie jak smak i podrażnienie, w ankietach. Wszystkie płyny podniosły pH śliny, a płyn z zieloną herbatą i kwasem hialuronowym został lepiej oceniony pod względem komfortu i chęci codziennego stosowania.",
+   "titlePl": "Komfort i reakcje niepożądane przy natychmiastowym stosowaniu płynów do płukania jamy ustnej: badanie porównawcze",
+   "takeaway": "Badanie randomizowane, ale na niewielkiej grupie studentów i tylko w krótkiej perspektywie, więc wyniki nie pozwalają na ogólne wnioski. Warto pamiętać, że olejki eteryczne w płynach do płukania część osób odczuwała jako pieczenie, co może być dla klientki istotną informacją o komforcie stosowania."
+  },
+  {
+   "id": "pm:42994576",
+   "source": "pubmed",
+   "title": "Inhibitory action of Origanum onites essential oil on scorpion venom induced smooth muscle contractions",
+   "journal": "J Ethnopharmacol",
+   "date": "2026-11-06",
+   "authors": "Aydin A, Caliskan F, Aydin S",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42994576/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Badanie dotyczyło wpływu jadów dwóch gatunków skorpionów, Androctonus crassicauda i Mesobuthus gibbosus, na skurcze izolowanych fragmentów nasieniowodu szczura. Sprawdzano też, czy olejek eteryczny Origanum onites ogranicza te skurcze. Jady wpływały na skurcze zależnie od rodzaju bodźca: hamowały skurcze wywołane fenylefryną, a nasilały skurcze wywołane KCl. Olejek hamował skurcze wywołane jadem jednego z nich w sposób zależny od dawki.",
+   "titlePl": "Hamujący wpływ olejku eterycznego Origanum onites na skurcze mięśni gładkich wywołane jadem skorpiona",
+   "takeaway": "To badanie laboratoryjne na izolowanej tkance szczura, a nie na ludziach, więc nie przekłada się bezpośrednio na praktykę ani zastosowanie u osób. Ukąszenie skorpiona wymaga pilnej pomocy medycznej, a olejki eteryczne nie mogą być traktowane jako sposób postępowania w takiej sytuacji."
+  },
+  {
+   "id": "pm:42990870",
+   "source": "pubmed",
+   "title": "Chitosan-encapsulated lemongrass ( Cymbopogon citratus P. ) and spearmint ( Mentha spicata L. ) essential oils as growth modulators: Correlating in-vitro activity with broiler performance",
+   "journal": "Vet Anim Sci",
+   "date": "2026-10-23",
+   "authors": "Abdullah M, Saima, Qaisrani SN i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42990870/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Badanie oceniało olejki z trawy cytrynowej i mięty jako alternatywę dla antybiotyków dodawanych do paszy drobiu, które mogą sprzyjać rozprzestrzenianiu się oporności na antybiotyki. Olejki zamknięto w otoczce z chitozanu, a następnie badano ich działanie przeciwbakteryjne i antyoksydacyjne w warunkach laboratoryjnych oraz w krótkim doświadczeniu na 56 kurczętach brojlerach. Zamknięte olejki dawały lepsze wyniki przeciwbakteryjne niż same olejki, a w doświadczeniu na kurczętach wzrost był porównywalny z grupą otrzymującą antybiotyk (współczynnik konwersji paszy 1,62 i 1,67, przyrost masy 2110 g i 2105 g).",
+   "titlePl": "Olejki eteryczne z trawy cytrynowej (Cymbopogon citratus P.) i mięty kędzierzawej (Mentha spicata L.) zamknięte w chitozanie jako modulatory wzrostu: związek aktywności in vitro z wynikami tuczu brojlerów",
+   "takeaway": "Dotyczy to paszy dla kurcząt brojlerów, a nie stosowania u ludzi. Wyniki pochodzą z badań laboratoryjnych i pilotażowego doświadczenia na małej grupie zwierząt, więc nie można ich uogólniać ani przenosić na inne gatunki."
+  },
+  {
+   "id": "pm:42991917",
+   "source": "pubmed",
+   "title": "Natural Products against Human and Veterinary Trichomonads: From In Vitro Activity to Future Therapeutic Perspectives",
+   "journal": "ACS Omega",
+   "date": "2026-10-19",
+   "authors": "Soares BBR, Menezes SA, Tasca T",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42991917/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Przegląd dotyczy pasożytów z rodzaju Trichomonas, które wywołują choroby u ludzi, ptaków i bydła, oraz możliwości zastosowania produktów naturalnych, w tym wyciągów roślinnych i olejków eterycznych. Autorzy omówili 84 badania z lat 2016–2026. Większość dowodów pochodzi z badań laboratoryjnych, a niewiele z badań na zwierzętach, a żaden produkt naturalny nie został potwierdzony w badaniach klinicznych u ludzi.",
+   "titlePl": "Produkty naturalne wobec trichomonad ludzkich i weterynaryjnych: od aktywności in vitro do perspektyw terapeutycznych",
+   "takeaway": "Wyniki mają charakter wstępny i laboratoryjny, dlatego nie potwierdzają skuteczności produktów naturalnych w leczeniu trichomoniazy. Infekcje tego typu wymagają diagnozy i leczenia lekarskiego, a aromaterapeutka nie powinna sugerować olejków jako alternatywy dla terapii."
+  },
+  {
+   "id": "pm:42989209",
+   "source": "pubmed",
+   "title": "Antileishmanial effects of extract, fractions and essential oil from aerial parts of Zataria multiflora Boiss",
+   "journal": "BMC Complement Med Ther",
+   "date": "2026-08-10",
+   "authors": "Ghorbani Hesari N, Khadear D, Pirali Hamedani M i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42989209/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Leiszmanioza to choroba pasożytnicza, a dostępne leki bywają drogie i mają działania niepożądane, dlatego szukano nowych możliwości. Badano ekstrakt, frakcje i olejek eteryczny z Zataria multiflora na formach promastigotów Leishmania major w hodowli oraz toksyczność wobec fibroblastów, a skład olejku oznaczono metodą GC/MS. Olejek wykazał najsilniejsze działanie wobec pasożyta, ale był toksyczny dla fibroblastów; frakcja chloroformowa była najbardziej aktywna, lecz także toksyczna. Streszczenie kończy się w połowie opisu frakcji octanu etylu, więc jej wynik jest niepełny.",
+   "titlePl": "Działanie przeciwleiszmaniozowe ekstraktu, frakcji i olejku eterycznego z części nadziemnych Zataria multiflora Boiss",
+   "takeaway": "To badanie wykonane w hodowli komórkowej, bez potwierdzenia u ludzi lub zwierząt, a substancje działały też toksycznie na zdrowe komórki. Leiszmanioza wymaga leczenia lekarskiego, a olejek nie może być traktowany jako jego zamiennik."
+  },
+  {
+   "id": "pm:42990873",
+   "source": "pubmed",
+   "title": "Anti-oral Squamous Cell Carcinoma Activity, DNA Damage, and Apoptosis Induced by Nectaroscordum tripedale Essential Oil",
+   "journal": "Arch Razi Inst",
+   "date": "2026-01-01",
+   "authors": "Shakib P, Abbasi R, Tavakol F i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42990873/",
+   "topic": "eo",
+   "addedAt": "2026-11-07",
+   "summaryPl": "Badanie sprawdzało, czy olejek eteryczny z Nectaroscordum tripedale działa przeciwnowotworowo na linie komórek raka płaskonabłonkowego jamy ustnej. Skład olejku oznaczono metodą chromatografii gazowej ze spektrometrią mas, a dominującym składnikiem był germakren D (32,3%). Żywotność komórek badano testem MTT, zarówno na komórkach nowotworowych (KB), jak i na zdrowych fibroblastach dziąseł (HGF1). Wyniki pokazały wzrost aktywności kaspazy-3 i białka Bax, spadek Bcl-2 oraz hamowanie syntezy DNA zależne od dawki, zarówno w komórkach nowotworowych, jak i zdrowych.",
+   "titlePl": "Aktywność przeciwko rakowi płaskonabłonkowemu jamy ustnej, uszkodzenie DNA i apoptoza wywołane olejkiem eterycznym z Nectaroscordum tripedale",
+   "takeaway": "To badanie laboratoryjne na hodowlach komórkowych, więc nie pokazuje działania u ludzi. Hamowanie syntezy DNA dotyczyło także zdrowych komórek, co wskazuje na ryzyko, a olejek nie może być traktowany jako sposób leczenia nowotworu."
+  },
   {
    "id": "pm:42986529",
    "source": "pubmed",
