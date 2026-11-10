@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-11-09T05:57:21.447Z",
+ "updatedAt": "2026-11-10T05:46:21.998Z",
  "items": [
+  {
+   "id": "pm:43003145",
+   "source": "pubmed",
+   "title": "Plant-derived compounds targeting growth, virulence, and biofilm formation in Streptococcus agalactiae",
+   "journal": "Fitoterapia",
+   "date": "2026-11-09",
+   "authors": "Qamsari MM, Ghaderi L",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003145/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Przegląd dotyczy związków roślinnych, które w ciągu ostatniej dekady hamowały wzrost, czynniki chorobotwórczości i tworzenie biofilmu u paciorkowca Streptococcus agalactiae (GBS). Ten drobnoustrój jest ważną przyczyną zakażeń noworodków, a jego oporność na antybiotyki rośnie, a skutecznej szczepionki brak. Wśród badanych substancji były m.in. olejki eteryczne, a autorzy wskazali eugenol jako szczególnie obiecujący, ponieważ działał przeciwbakteryjnie, na biofilm i wzmacniał działanie antybiotyków.",
+   "titlePl": "Związki roślinne działające na wzrost, czynniki chorobotwórczości i tworzenie biofilmu u Streptococcus agalactiae",
+   "takeaway": "Streszczenie opisuje potencjał tych substancji, a nie gotowe zastosowanie. Wyniki pochodzą z przeglądu badań, więc nie wolno z nich wyciągać wniosku, że olejki eteryczne mogą zastąpić leczenie zakażeń."
+  },
+  {
+   "id": "pm:43000496",
+   "source": "pubmed",
+   "title": "Phytobiotics from the Lamiaceae, Asteraceae, and Fabaceae families: Mechanisms, efficacy, and emerging nanotechnological applications in sustainable aquaculture",
+   "journal": "Vet Res Commun",
+   "date": "2026-11-09",
+   "authors": "Ashouri G, Imperatore R, Paolucci M i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43000496/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Przegląd dotyczy ziół z rodzin jasnotowatych (Lamiaceae), astrowatych (Asteraceae) i bobowatych (Fabaceae) stosowanych w akwakulturze, czyli hodowli zwierząt wodnych. Autorzy analizowali wpływ tych roślin na wzrost, odporność i odporność na stres zwierząt wodnych oraz ich mechanizmy działania. Opisali także, że systemy nanocząsteczkowe mogą poprawiać rozpuszczalność, stabilność i kontrolowane uwalnianie składników roślinnych, w tym olejków eterycznych, tymolu i kurkuminy. Streszczenie jest urwane, więc nie wszystkie wnioski są w nim podane.",
+   "titlePl": "Fitobiotyki z rodzin Lamiaceae, Asteraceae i Fabaceae: mechanizmy działania, skuteczność i nanotechnologiczne zastosowania w zrównoważonej akwakulturze",
+   "takeaway": "Przegląd dotyczy zwierząt wodnych, a nie ludzi, i nie odnosi się do stosowania olejków eterycznych w aromaterapii. Doniesienia o nanotechnologii opisują zastosowania w hodowli, a nie gotowe rozwiązania dla klientów."
+  },
+  {
+   "id": "pm:43003150",
+   "source": "pubmed",
+   "title": "Terpinen-4-ol: A DEET-comparable repellent from tea tree oil with added bacteriostatic and anti-pruritic benefits",
+   "journal": "Fitoterapia",
+   "date": "2026-11-09",
+   "authors": "Bai J, Xu X, Liu L i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003150/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Badanie oceniało działanie odstraszające komary oraz działanie przeciwbakteryjne i przeciwswędzeniowe dwóch składników olejku z drzewa herbacianego: terpinen-4-olu i γ-terpinenu. Zastosowano testy z komarami Aedes aegypti, test na ludzkim przedramieniu zgodny z wytycznymi WHO, pomiary reakcji węchowych oraz testy na bakteriach i na myszach z wywołanym swędzeniem. Stężenie 20% terpinen-4-olu zapewniało średnio 4,75 godziny całkowitej ochrony, co było porównywalne z 20% DEET-em, a związek hamował w testach laboratoryjnych od 96,39 do 99,66% wybranych drobnoustrojów i łagodził swędzenie u myszy.",
+   "titlePl": "Terpinen-4-ol: repelent porównywalny z DEET-em, pochodzący z olejku z drzewa herbacianego, o dodatkowym działaniu przeciwbakteryjnym i przeciwswędzeniowym",
+   "takeaway": "Wyniki pochodzą głównie z testów laboratoryjnych i badań na myszach, a test na ludziach dotyczył ograniczonej liczby osób i jednego sposobu oceny. Nie wynika z nich, że olejek z drzewa herbacianego może zastąpić sprawdzone repelenty lub leczenie zakażeń skóry."
+  },
+  {
+   "id": "pm:43002640",
+   "source": "pubmed",
+   "title": "Temporal Dynamics of the Faecal Microbiota and Physiological Responses to Phytobiotics and Organic Acids in Broiler Chickens",
+   "journal": "J Anim Physiol Anim Nutr (Berl)",
+   "date": "2026-11-09",
+   "authors": "da Silva Santos A, Teixeira JP, Boiago MM i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002640/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Badanie porównywało trzy alternatywne dodatki paszowe z kontrolą z antybiotykiem u kurczaków brojlerów. Oceniano wzrost, reakcje fizjologiczne oraz zmiany mikroflory jelitowej w różnym wieku, metodą sekwencjonowania genu 16S rRNA, przy czym analiza mikrobioty miała charakter eksploracyjny. Mieszanka roślinnych ekstraktów z olejkami eterycznymi poprawiła wskaźnik wykorzystania paszy względem kontroli w pierwszych tygodniach, a zmiany mikrobioty wiązały się głównie z wiekiem zwierząt, nie z rodzajem dodatku.",
+   "titlePl": "Dynamika czasowa mikrobioty kałowej oraz reakcje fizjologiczne na fitobiotyki i kwasy organiczne u kurczaków brojlerów",
+   "takeaway": "To badanie na zwierzętach hodowlanych, a nie na ludziach, i ma ograniczenia: dla każdej kombinacji dodatku i wieku dostępna była tylko jedna próbka zbiorcza. Nie należy przenosić jego wyników na stosowanie olejków u ludzi, a autorzy sami zaznaczają, że nie wykazano, iż zmiany mikrobioty wywołały obserwowane reakcje organizmu."
+  },
+  {
+   "id": "pm:43003037",
+   "source": "pubmed",
+   "title": "Precursor-dependent effects of bio-assisted iron nanocomplexes on physiological and phytochemical traits of Zataria multiflora Boiss",
+   "journal": "Plant Physiol Biochem",
+   "date": "2026-11-07",
+   "authors": "Tavallali V, Rahmati S, Darvishzadeh MD",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003037/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Badanie dotyczyło nanokompleksów żelaza przygotowanych z dwóch biologicznych substancji wyjściowych: ekstraktu z zielonej herbaty oraz ekstraktu z ryby kilka. Autorzy opisali ich właściwości fizykochemiczne, a następnie sprawdzili, jak działają po zastosowaniu dolistnie na roślinę Zataria multiflora. Najlepszy wynik dał preparat z zielonej herbaty w stężeniu 0,4%, który poprawił wzrost, zawartość chlorofilu i stan antyoksydacyjny rośliny oraz zwiększył produkcję olejku eterycznego, przy wyraźnym wzroście tymolu.",
+   "titlePl": "Zależne od prekursora efekty biologicznie wspomaganych nanokompleksów żelaza na cechy fizjologiczne i fitochemiczne Zataria multiflora Boiss",
+   "takeaway": "To badanie na roślinie uprawnej, a nie na człowieku, więc nie pokazuje, jak olejek z tej rośliny działa w praktyce. Wzrost zawartości tymolu w roślinie nie jest dowodem na korzyści zdrowotne ani na bezpieczeństwo stosowania olejku."
+  },
+  {
+   "id": "pm:43001264",
+   "source": "pubmed",
+   "title": "Genome-wide screening reveals opposing roles for central metabolism in planktonic and biofilm survival of Salmonella under combined limonene and heat treatment",
+   "journal": "Biofilm",
+   "date": "2026-10-29",
+   "authors": "Holden ER, Guillén S, Yasir M i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001264/",
+   "topic": "eo",
+   "addedAt": "2026-11-10",
+   "summaryPl": "Badanie sprawdzało, które geny bakterii Salmonella Typhimurium decydują o jej przeżywalności przy działaniu limonenu, składnika olejków cytrusowych, oraz podwyższonej temperatury. Porównano postać swobodną i nanoemulsję, a także bakterie w zawiesinie i w ustalonym biofilmie, z użyciem metody przesiewowej obejmującej cały genom. Wyłączenie genów związanych z metabolizmem centralnym i stresem oksydacyjnym zwiększało przeżywalność bakterii w zawiesinie podczas ogrzewania, ale efekt ten zanikał przy nanoemulsji w 54 °C. W biofilmach te same geny były natomiast potrzebne do przeżycia, co pokazuje, że bakterie w obu stanach mają przeciwstawne słabe punkty.",
+   "titlePl": "Badania całogenomowe ujawniają przeciwstawne role metabolizmu centralnego w przeżywalności Salmonelli w formie planktonowej i w biofilmie przy łącznym działaniu limonenu i ciepła",
+   "takeaway": "To badanie laboratoryjne na bakteriach, a nie dowód skuteczności w żywności, na powierzchniach czy u ludzi. Olejki eteryczne nie powinny zastępować sprawdzonych procedur higienicznych i obróbki termicznej, a wnioski z badania dotyczą raczej projektowania strategii dekontaminacji niż domowego stosowania."
+  },
   {
    "id": "pm:42998827",
    "source": "pubmed",
