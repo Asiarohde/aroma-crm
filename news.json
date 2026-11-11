@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-10T05:46:21.998Z",
+ "updatedAt": "2026-11-11T05:50:58.020Z",
  "items": [
+  {
+   "id": "pm:43007878",
+   "source": "pubmed",
+   "title": "Characterization of monoterpene and sesquiterpene synthases from Nardostachys jatamansi ",
+   "journal": "J Asian Nat Prod Res",
+   "date": "2026-11-10",
+   "authors": "Ji QG, Lin PC, Gao K i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007878/",
+   "topic": "eo",
+   "addedAt": "2026-11-11",
+   "summaryPl": "Olejek eteryczny z Nardostachys jatamansi ma różne zastosowania farmaceutyczne i jest szeroko używany w kosmetyce oraz perfumerii; składa się głównie z monoterpenoidów i seskwiterpenoidów. Za pomocą analizy transkryptomu zidentyfikowano 21 kandydatów na syntazy tych związków, a pięć z nich scharakteryzowano w reakcjach in vitro i doświadczeniach in vivo. Produkty enzymatyczne określono metodami NMR oraz przez porównanie z wzorcami i widmami z biblioteki NIST, a wszystkie występują w tej roślinie. Praca stanowi podstawę do przyszłej biotechnologicznej produkcji olejku.",
+   "titlePl": "Charakterystyka syntaz monoterpenów i seskwiterpenów z Nardostachys jatamansi",
+   "takeaway": "Badanie dotyczy enzymów i ich produktów w warunkach laboratoryjnych, więc nie mówi nic o działaniu olejku na organizm ani o jego jakości w gotowych produktach. Traktuj je jako wiedzę o składzie i biosyntezie olejku, a nie jako dowód jego skuteczności."
+  },
+  {
+   "id": "pm:43008570",
+   "source": "pubmed",
+   "title": "Facile synthesis, antibacterial activity, in silico molecular docking analysis, and pharmacokinetic properties of N-methyl anthranilate-based compounds",
+   "journal": "Bioorg Chem",
+   "date": "2026-10-30",
+   "authors": "Mohamed FS, Abu-Zaied MA, Strub DJ i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008570/",
+   "topic": "eo",
+   "addedAt": "2026-11-11",
+   "summaryPl": "Badanie dotyczyło syntezy serii związków heterocyklicznych z naturalnego N-metyloantranilanu metylu (DMA), wyizolowanego z olejku eterycznego z petitgrain mandarynki. Otrzymano różne typy związków, m.in. zasady Schiffa oraz pochodne oksadiazolu i triazolu, a ich budowę potwierdzono analizami spektroskopowymi. Aktywność przeciwdrobnoustrojową oceniano in vitro wobec bakterii Gram-dodatnich, Gram-ujemnych i grzybów chorobotwórczych, porównując wyniki z lekami wzorcowymi. Najsilniejsze działanie wykazała pochodna triazolu 18b (MIC 1,57 μg/mL), a autorzy zauważyli, że budowa związków wpływała na ich aktywność przeciwbakteryjną i przeciwgrzybiczą.",
+   "titlePl": "Łatwa synteza, aktywność przeciwbakteryjna, analiza dokowania molekularnego in silico i właściwości farmakokinetyczne związków opartych na N-metyloantranilanie",
+   "takeaway": "To badanie laboratoryjne in vitro, a dodatkowo część wyników pochodzi z dokowania komputerowego, więc nie przenosi się bezpośrednio na działanie olejku eterycznego ani gotowych produktów. Należy traktować je jako wstępne informacje o chemii związków, a nie dowód skuteczności w praktyce."
+  },
   {
    "id": "pm:43003145",
    "source": "pubmed",
