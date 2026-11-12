@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-11T05:50:58.020Z",
+ "updatedAt": "2026-11-12T05:53:19.470Z",
  "items": [
+  {
+   "id": "pm:43012696",
+   "source": "pubmed",
+   "title": "Thyme Beyond Its Traditional Culinary Use: Bioactive Constituents as Potential Modulators of the Gut Microbiome",
+   "journal": "J Agric Food Chem",
+   "date": "2026-11-11",
+   "authors": "Dong KH, Zheng ZQ, Shen L i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43012696/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Przegląd dotyczy tymianku, zwłaszcza Thymus vulgaris L., i jego wpływu na mikrobiom jelitowy. Autorzy analizowali wyciągi, olejki eteryczne i główne związki z tymianku, takie jak monoterpeny, seskwiterpeny, triterpeny, kwasy fenolowe i flawonoidy, na podstawie zależności między budową związków a ich działaniem. Według streszczenia związki te mogą zmieniać skład i funkcje mikroflory jelitowej oraz wpływać na barierę jelitową, a wspólne działanie kilku składników może być addytywne lub synergistyczne. Autorzy podkreślają jednak, że brakuje badań przyczynowych, standaryzacji preparatów i dowodów z udziałem ludzi.",
+   "titlePl": "Tymianek poza tradycyjnym zastosowaniem kulinarnym: aktywne składniki jako potencjalne modulatory mikrobiomu jelit",
+   "takeaway": "To przegląd, a według autorów brakuje dowodów z udziałem ludzi, dlatego nie należy przedstawiać olejków z tymianku jako środka wpływającego na mikrobiom jelit. Wyniki dotyczą głównie mechanizmów opisanych w badaniach wstępnych, w tym laboratoryjnych, co stanowi ograniczenie ich przeniesienia do praktyki."
+  },
+  {
+   "id": "pm:43012687",
+   "source": "pubmed",
+   "title": "Green Nanonization Strategies for Plant-Derived Small-Molecule Pesticides: Supramolecular Self-Assembly and Natural Polymer Carriers",
+   "journal": "J Agric Food Chem",
+   "date": "2026-11-11",
+   "authors": "Wang Z, Chen L, Wang J i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43012687/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Pestycydy roślinne są odnawialne i szybko ulegają rozkładowi, ale słabo rozpuszczają się w wodzie, łatwo ulegają fotodegradacji i parowaniu, co utrudnia ich stosowanie w polu. Przegląd opisuje strategie nanonizacji i samoorganizacji dla grup związków, m.in. fenoli, flawonoidów, terpenoidów i olejków eterycznych, alkaloidów czy kumaryn, oraz rolę biodegradowalnych nośników z polimerów naturalnych. Autorzy proponują podejście oparte na strukturze, które łączy zielone substancje czynne z zielonym systemem dostarczania.",
+   "titlePl": "Zielone metody nanonizacji pestycydów roślinnych z małych cząsteczek: samoorganizacja supramolekularna i nośniki z polimerów naturalnych",
+   "takeaway": "Praca dotyczy formulacji pestycydów rolniczych, a nie stosowania olejków eterycznych w aromaterapii, dlatego jej wniosków nie należy przenosić na kosmetyki ani preparaty do stosowania u ludzi. Streszczenie opisuje strategie projektowania, a nie potwierdzone korzyści zdrowotne, więc traktuj je jako źródło wiedzy technologicznej."
+  },
+  {
+   "id": "pm:43012963",
+   "source": "pubmed",
+   "title": "Comprehensive evaluation of Crambe orientalis subsp. orientalis var. orientalis: phytochemistry, anatomy, and biological activities",
+   "journal": "Protoplasma",
+   "date": "2026-11-11",
+   "authors": "Aydın B, Yuca H, Özbek H i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43012963/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Badanie opisywało skład chemiczny, cechy morfologiczne i anatomiczne oraz aktywność biologiczną rośliny Crambe orientalis subsp. orientalis var. orientalis. Wydajność olejku eterycznego była bardzo niska, a jego głównymi składnikami były lotne związki pochodzące z glukozynolanów. Ekstrakty wykazały umiarkowane lub słabe działanie hamujące enzymy oraz różną aktywność przeciwutleniającą. W teście Ames/Salmonella bez aktywacji metabolicznej olejek z części nadziemnych zwiększał liczbę kolonii rewertantów w zależności od dawki, co wskazuje na potencjalną mutagenność w badanych warunkach.",
+   "titlePl": "Kompleksowa ocena Crambe orientalis subsp. orientalis var. orientalis: fitochemia, anatomia i aktywność biologiczna",
+   "takeaway": "Wynik in vitro sugeruje potencjalną mutagenność olejku z tej rośliny, co jest istotnym ostrzeżeniem, a nie podstawą do jego stosowania. Badanie nie pozwala ocenić bezpieczeństwa olejku u ludzi, a dodatkowo wyniki zależały od warunków testu."
+  },
+  {
+   "id": "pm:43012699",
+   "source": "pubmed",
+   "title": "Reconsidering the Encapsulation Mechanism: The Influence of Substitution Degree and Substitution Position of HP-β-CD on Inclusion Behavior",
+   "journal": "J Agric Food Chem",
+   "date": "2026-11-11",
+   "authors": "Xiao Z, Wu H, Xiao N i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43012699/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Badano hydroksypropylo-β-cyklodekstrynę (HP-β-CD), powszechnie używany nośnik do zamykania hydrofobowych składników, i to, jak stopień oraz położenie podstawienia wpływają na jej zdolność do enkapsulacji olejku eterycznego z Mosla chinensis. Osiem próbek HP-β-CD scharakteryzowano metodą NMR, a następnie użyto ich do enkapsulacji olejku. Umiarkowane podstawienie (DS 5-6), przede wszystkim w pozycjach C2/C3, dało najlepszą skuteczność enkapsulacji (83,49%), obciążenie (7,42%) i rozpuszczalność oraz lepsze zatrzymywanie składników podczas 90 dni przechowywania. Nadmierne podstawienie, zwłaszcza w pozycji C6, pogarszało wyniki.",
+   "titlePl": "Ponowne rozważenie mechanizmu enkapsulacji: wpływ stopnia i położenia podstawienia HP-β-CD na zachowanie inkluzyjne",
+   "takeaway": "To badanie materiałowe i laboratoryjne dotyczące nośnika, z jednym olejkiem i ograniczoną liczbą próbek, więc wyniki nie są uniwersalne. Nie dostarcza informacji o efektach zdrowotnych ani o bezpieczeństwie stosowania olejku, a jedynie o tym, jak lepiej zamykać olejki w nośniku."
+  },
+  {
+   "id": "pm:43014251",
+   "source": "pubmed",
+   "title": "Preparation of emulsion for encapsulating compound cinnamon essential oils and their application in plant-based meat analogs preservation",
+   "journal": "Food Chem",
+   "date": "2026-10-28",
+   "authors": "Yan D, Sun Z, Zheng H",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014251/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Badanie dotyczyło emulsji olejku eterycznego z cynamonu (CEO) stabilizowanej kompleksem białka sojowego i saponin herbaty, stosowanej do konserwowania analogów mięsa roślinnego. Autorzy zmieniali stężenie olejku od 0% do 4% i mierzyli wielkość kropelek, ich jednorodność, potencjał zeta, zachowanie białek metodą spektroskopii fluorescencyjnej oraz tempo uwalniania olejku. Przy 4% CEO przydatność do spożycia produktu wydłużyła się do 63 dni, a liczba drobnoustrojów pozostała poniżej określonych progów. Stabilność emulsji wyraźnie rosła wraz ze wzrostem stężenia olejku.",
+   "titlePl": "Przygotowanie emulsji do enkapsulacji olejku eterycznego z cynamonu i jej zastosowanie w konserwowaniu analogów mięsa roślinnego",
+   "takeaway": "To badanie laboratoryjne na produkcie spożywczym, a nie na człowieku, więc nie przekłada się bezpośrednio na praktykę aromaterapeutyczną. Wyniki dotyczą konserwacji żywności, a nie działania olejku w zastosowaniach dla ciała czy zdrowia."
+  },
+  {
+   "id": "pm:43011450",
+   "source": "pubmed",
+   "title": "Control and prevention strategies of porcine respiratory disease complex: current evidence and future directions",
+   "journal": "Front Vet Sci",
+   "date": "2026-10-27",
+   "authors": "Pastor-Calonge AI, Mencía-Ares Ó, Manzanares-Vigo L i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011450/",
+   "topic": "eo",
+   "addedAt": "2026-11-12",
+   "summaryPl": "Kompleks chorób układu oddechowego świń (PRDC) jest chorobą wieloczynnikową o dużym znaczeniu ekonomicznym, na którą wpływają czynniki zakaźne, środowisko i sposób prowadzenia hodowli. Przegląd omawia główne strategie profilaktyki, w tym biobezpieczeństwo zewnętrzne i wewnętrzne, diagnostykę łączącą kilka rodzajów danych oraz szczepienia. Wśród alternatyw dla antybiotyków wymienia probiotyki, olejki eteryczne i bakteriofagi, które według streszczenia wykazują obiecujący potencjał, ale wymagają weryfikacji w warunkach fermowych.",
+   "titlePl": "Strategie kontroli i zapobiegania kompleksowi chorób układu oddechowego świń: obecny stan wiedzy i kierunki przyszłych badań",
+   "takeaway": "Olejki eteryczne są w tym przeglądzie wymienione jedynie jako obiecująca alternatywa w hodowli świń, wymagająca dalszych badań w warunkach terenowych, dlatego nie należy traktować tej pracy jako wskazówki dla aromaterapii ani dla zwierząt domowych. Brak tu dowodów skuteczności olejków dla ludzi, a wniosek dotyczy wyłącznie kontekstu fermowego."
+  },
   {
    "id": "pm:43007878",
    "source": "pubmed",
