@@ -1,6 +1,91 @@
 {
- "updatedAt": "2026-11-12T05:53:19.470Z",
+ "updatedAt": "2026-11-13T05:52:45.018Z",
  "items": [
+  {
+   "id": "pm:43017795",
+   "source": "pubmed",
+   "title": "Insecticidal activity of selected plant essential oils against four major urban tree insect pests",
+   "journal": "J Econ Entomol",
+   "date": "2026-11-12",
+   "authors": "Jang YS",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43017795/",
+   "topic": "eo",
+   "addedAt": "2026-11-13"
+  },
+  {
+   "id": "pm:43019738",
+   "source": "pubmed",
+   "title": "Essential oils as sustainable systems for postharvest quality preservation of fresh fruits and vegetables: Emerging role, advances, challenges, and future directions",
+   "journal": "Food Chem",
+   "date": "2026-11-11",
+   "authors": "Batool S, Iqbal N, Ali A i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019738/",
+   "topic": "eo",
+   "addedAt": "2026-11-13",
+   "summaryPl": "Przegląd dotyczy wykorzystania olejków eterycznych do przechowywania świeżych owoców i warzyw po zbiorze, aby ograniczyć straty spowodowane psuciem, utratą jędrności i rozwojem drobnoustrojów. Autorzy przeanalizowali badania z lat 2021-2026 oraz technologie, takie jak opakowania aktywne i systemy nanotechnologiczne, poprawiające stabilność i kontrolowane uwalnianie olejków. Według streszczenia zastosowanie olejków ograniczało straty po zbiorze dzięki utrzymaniu jakości produktów.",
+   "titlePl": "Olejki eteryczne jako zrównoważone systemy zachowania jakości świeżych owoców i warzyw po zbiorze: rola, postępy, wyzwania i kierunki rozwoju",
+   "takeaway": "Artykuł dotyczy konserwacji żywności, a nie zastosowań zdrowotnych ani kosmetycznych, dlatego jego wyników nie należy przenosić na ludzi, skórę ani spożycie. W praktyce doradczej warto podkreślać tę granicę, bo streszczenie nie opisuje bezpieczeństwa stosowania olejków u ludzi."
+  },
+  {
+   "id": "pm:43019732",
+   "source": "pubmed",
+   "title": "Integrated microwave-moist heat-hot-air processing induces selected aged-like quality and bioactivity signatures in Citri Reticulatae Pericarpium (Chenpi)",
+   "journal": "Food Chem",
+   "date": "2026-11-11",
+   "authors": "Wu M, Yang H, Shen X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019732/",
+   "topic": "eo",
+   "addedAt": "2026-11-13"
+  },
+  {
+   "id": "pm:43019715",
+   "source": "pubmed",
+   "title": "Physiological and metabolomic insights into tea tree essential oil-induced suppression of browning in fresh-cut pineapple",
+   "journal": "Food Chem",
+   "date": "2026-11-07",
+   "authors": "Li Y, Zhang X, Chang X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019715/",
+   "topic": "eo",
+   "addedAt": "2026-11-13"
+  },
+  {
+   "id": "pm:43016214",
+   "source": "pubmed",
+   "title": "Integrative therapies for symptom management in dementia from a palliative perspective: narrative review of systematic reviews and meta-analyses",
+   "journal": "Ann Palliat Med",
+   "date": "2026-11-06",
+   "authors": "Nixdorff N, Montagnini M, Lee PG",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43016214/",
+   "topic": "aroma",
+   "addedAt": "2026-11-13",
+   "summaryPl": "Przegląd narracyjny zestawia wyniki przeglądów systematycznych i metaanaliz dotyczących terapii zintegrowanych w łagodzeniu objawów demencji, w tym objawów behawioralnych i psychologicznych. Autorzy przeszukali kilka baz danych pod kątem prac opublikowanych w latach 2015-czerwiec 2026, pomijając pojedyncze badania RCT. Według dostępnej części streszczenia masaż i aromaterapia dawały spójne, krótkotrwałe korzyści w zakresie pobudzenia i depresji, a najmocniejsze dowody dotyczyły stymulacji poznawczej.",
+   "titlePl": "Terapie zintegrowane w łagodzeniu objawów demencji w perspektywie paliatywnej: przegląd narracyjny przeglądów systematycznych i metaanaliz",
+   "takeaway": "Korzyści były zwykle ograniczone do okresu leczenia, a pewność dowodów dla aromaterapii jest według streszczenia niska do umiarkowanej. Ponieważ streszczenie w materiale jest urwane, wnioski należy traktować jako wstępne i nie zastępujące decyzji zespołu opiekującego się chorym."
+  },
+  {
+   "id": "pm:43017551",
+   "source": "pubmed",
+   "title": "Plant essential oils as a novel therapeutic strategy for depression and anxiety: emerging evidence and mechanisms",
+   "journal": "Front Psychiatry",
+   "date": "2026-10-08",
+   "authors": "Hong J, He L, Chen J i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43017551/",
+   "topic": "aroma",
+   "addedAt": "2026-11-13",
+   "summaryPl": "Przegląd dotyczy wykorzystania olejków eterycznych w aromaterapii jako wsparcia przy depresji i lęku. Autorzy zebrali dane z badań na zwierzętach, na komórkach i z wstępnych badań klinicznych, a za kluczowy szlak biologiczny uznali cAMP-PKA-CREB. Według streszczenia olejki mogą łagodzić objawy depresyjne i lękowe, wpływając m.in. na neuroprzekaźniki, oś HPA, stan zapalny i plastyczność mózgu, ale dowody są w większości przedkliniczne.",
+   "titlePl": "Olejki eteryczne roślinne jako nowa strategia terapeutyczna w depresji i lęku: nowe dowody i mechanizmy",
+   "takeaway": "Wyniki pochodzą głównie z badań na zwierzętach i komórkach, więc nie można ich bezpośrednio przenosić na ludzi. Aromaterapii nie należy traktować jako zamiennika leczenia, a przy objawach depresji lub lęku warto zalecić konsultację z lekarzem."
+  },
   {
    "id": "pm:43012696",
    "source": "pubmed",
