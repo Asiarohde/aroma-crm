@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-14T05:42:16.277Z",
+ "updatedAt": "2026-11-15T05:45:53.302Z",
  "items": [
+  {
+   "id": "pm:43029338",
+   "source": "pubmed",
+   "title": "Integrated Analytical Assessment of Edible and Essential Oils: Thermal, Oxidative, Chromatographic and Spectroscopic Characterization",
+   "journal": "Molecules",
+   "date": "2026-11-09",
+   "authors": "Lescano FA, Michels FS, Cabanha RSDCF i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43029338/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Badanie dotyczyło właściwości fizykochemicznych, termicznych, utleniających i spektroskopowych olejów roślinnych oraz eterycznych. Analizowano handlowe próbki oleju awokado, pestek winogron, sucupira, eukaliptusowego i eterycznego z pomarańczy słodkiej, a dla dwóch z nich po dwie próbki z różnych produktów, metodami DSC, GC-FID, Rancimat, UV-Vis i fluorescencji. Najwyższy czas indukcji utleniania (12,38 h) miał olej awokado, bogaty w kwas oleinowy, natomiast oleje eukaliptusowy, pomarańczowy i sucupira wykazywały bardzo niską stabilność oksydacyjną. Autorzy stwierdzili dużą zgodność wyników różnych metod.",
+   "titlePl": "Zintegrowana analityczna ocena olejów jadalnych i eterycznych: charakterystyka termiczna, utleniająca, chromatograficzna i spektroskopowa",
+   "takeaway": "Wyniki dotyczą wybranych próbek handlowych w warunkach laboratoryjnych, a nie skuteczności ani bezpieczeństwa stosowania olejów. Ponieważ badanie pokazuje różną podatność olejów na utlenianie, warto zwracać uwagę na świeżość, sposób przechowywania i dokumentację produktu."
+  },
+  {
+   "id": "pm:43030051",
+   "source": "pubmed",
+   "title": "Phytochemical-Functionalized Smart Polymer Films: Antioxidant and Antimicrobial Strategies for Next-Generation Active Packaging",
+   "journal": "Polymers (Basel)",
+   "date": "2026-11-06",
+   "authors": "Nagappan A, Ramasamy M, Arulkumar R i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030051/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Przegląd opisywał folie opakowaniowe, do których dodano związki roślinne, takie jak polifenole, olejki eteryczne, kurkuminoidy czy tokoferole, aby chroniły żywność przed utlenianiem i drobnoustrojami. Autorzy omówili mechanizmy działania, sposoby wytwarzania oraz zależności między składem, uwalnianiem substancji i właściwościami folii. Wskazali, że inteligentne systemy mogą uwalniać substancje w odpowiedzi na pH, wilgotność, temperaturę lub lotne związki psucia żywności. Zastosowania w mięsie, rybach, nabiałe i owocach pokazują możliwość opóźnienia utleniania i hamowania wzrostu drobnoustrojów, a praca ma charakter jakościowy.",
+   "titlePl": "Inteligentne folie polimerowe z fitochemikaliami: strategie przeciwutleniające i przeciwdrobnoustrojowe dla aktywnych opakowań nowej generacji",
+   "takeaway": "Przegląd dotyczy opakowań do żywności, a nie bezpośredniego stosowania olejków u ludzi, więc nie przekłada się na praktykę doradczą dotyczącą olejków. Ponieważ jest to analiza jakościowa, a skuteczność należy potwierdzać w docelowym środowisku przechowywania żywności, wyniki traktuj jako wskazówki do dalszych badań."
+  },
+  {
+   "id": "pm:43030759",
+   "source": "pubmed",
+   "title": "Essential Oils and Plant-Derived Volatile Compounds in the Treatment of Oral Candidiasis: A Systematic Review of Randomized Controlled Trials in Denture Stomatitis",
+   "journal": "J Clin Med",
+   "date": "2026-11-05",
+   "authors": "Lipka B, Kępa M, Łopaciński M i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030759/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Przegląd dotyczył skuteczności i bezpieczeństwa olejków eterycznych oraz lotnych związków roślinnych stosowanych miejscowo w kandydozie jamy ustnej, a dokładniej w zapaleniu błony śluzowej pod protezą. Autorzy uwzględnili wyłącznie randomizowane badania kontrolowane (RCT), w których porównywano te preparaty z lekami przeciwgrzybiczymi lub z placebo. Włączono osiem badań obejmujących łącznie 347 osób. W badaniach z lekiem porównawczym nie wykryto istotnych statystycznie różnic w wynikach klinicznych, jednak były one małe, a w badaniach z placebo żele z olejkami dawały lepsze wyniki kliniczne i mykologiczne. Dane o działaniach niepożądanych były zgłaszane niesystematycznie, a w jednym badaniu pojawiły się zawroty głowy, nudności i wymioty.",
+   "titlePl": "Olejki eteryczne i lotne związki roślinne w leczeniu kandydozy jamy ustnej: systematyczny przegląd badań RCT w zapaleniu błony śluzowej pod protezą",
+   "takeaway": "Autorzy określają dowody jako wstępne i niewystarczające, by zastąpić konwencjonalne leczenie przeciwgrzybicze, a wyniki nie dotyczą innych postaci kandydozy jamy ustnej. Ograniczeniem są małe badania i słabo udokumentowane bezpieczeństwo, dlatego olejki nie powinny być traktowane jako zamiennik leczenia zleconego przez lekarza."
+  },
+  {
+   "id": "pm:43029301",
+   "source": "pubmed",
+   "title": "Piper fuligineum (Piperaceae) Essential Oil on Euschistus heros : Lethal and Sublethal Toxicities and Selectivity to an Egg Parasitoid Used in Applied Biological Control",
+   "journal": "Molecules",
+   "date": "2026-11-05",
+   "authors": "Nunes VC, Pereira J, Krinski D i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43029301/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Badanie dotyczyło składu olejku eterycznego z Piper fuligineum oraz jego działania na różne stadia rozwojowe Euschistus heros, szkodnika soi, a także na parazytoida jaj Telenomus podisi. Skład olejku oznaczono analizą chemiczną, a aktywność testowano w warunkach laboratoryjnych przy różnych stężeniach i czasie ekspozycji. Olejek wykazywał działanie owobójcze i zwiększał śmiertelność młodszych oraz dorosłych stadiów szkodnika, a jego wpływ na parazytoida silnie zależał od momentu ekspozycji. Przy najwyższym stężeniu obserwowano również wyraźne działanie odstraszające.",
+   "titlePl": "Olejek eteryczny Piper fuligineum (Piperaceae) a Euschistus heros: toksyczność letalna i subletalna oraz selektywność wobec parazytoida jaj stosowanego w biologicznej ochronie roślin",
+   "takeaway": "Wyniki dotyczą owadów i ich naturalnych wrogów w warunkach laboratoryjnych, a nie ludzi, więc nie należy przenosić ich na zastosowania poza tym kontekstem. Badanie pokazuje też, że ten sam olejek może szkodzić pożytecznym organizmom, dlatego działanie zawsze zależy od warunków i stężenia."
+  },
+  {
+   "id": "pm:43029268",
+   "source": "pubmed",
+   "title": "Harnessing Mediterranean Halophytes as Sustainable Bio-Factories: Tackling Microbial Challenges Across the Agrifood Chain",
+   "journal": "Molecules",
+   "date": "2026-11-02",
+   "authors": "Piri P, Christou A, Ioannou GD i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43029268/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Przegląd oceniał potencjał przeciwdrobnoustrojowy dziewięciu roślin halofitowych z regionu śródziemnomorskiego, m.in. Cakile maritima, Crithmum maritimum i Salicornia europaea. Autorzy zestawili dane o składzie fitochemicznym tych roślin oraz ich działaniu wobec patogenów żywnościowych, klinicznych i rolniczych. Wyniki wskazują, że niektóre ekstrakty i olejki eteryczne hamowały drobnoustroje, a wartości MIC bywały porównywalne lub niższe niż w przypadku wybranych antybiotyków, zwłaszcza wobec Staphylococcus, Salmonella i gatunków Candida. Ekstrakty stosowano też do ograniczania zanieczyszczeń w produkcji żywności roślinnej i zwierzęcej.",
+   "titlePl": "Śródziemnomorskie halofity jako zrównoważone biofabryki: zwalczanie drobnoustrojów w łańcuchu agrospożywczym",
+   "takeaway": "Wyniki dotyczą aktywności wobec drobnoustrojów, a nie udowodnionego działania u ludzi, dlatego nie należy ich przenosić na zalecenia dla klientów. Ograniczeniem jest brak pełnych danych o skuteczności w warunkach terenowych, stabilności preparatów i bezpieczeństwie toksykologicznym."
+  },
+  {
+   "id": "pm:43029271",
+   "source": "pubmed",
+   "title": "From Field to Extract: Controlling Post-Harvest and Extraction Variables for Reproducible Recovery of Cannabinoids and Terpenes from Cannabis sativa L. by Sequential Hydrodistillation and Pressurized Liquid Extraction",
+   "journal": "Molecules",
+   "date": "2026-11-02",
+   "authors": "Hamann C, Jansen O, Teilliez L i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43029271/",
+   "topic": "eo",
+   "addedAt": "2026-11-15",
+   "summaryPl": "Konopie zawierają kannabinoidy i terpeny, ale wysoka temperatura suszenia, potrzebna do dekarboksylacji kannabinoidów, powoduje znaczną utratę terpenów. Autorzy najpierw badali wpływ warunków poporzbiorczych na zawartość kannabinoidów, a następnie opracowali proces obejmujący zamrażanie i hydrodestylację bez etapu suszenia, dla dwóch chemotypów konopi. Zamrażanie zachowało monoterpeny i zwiększyło wydajność olejku, a ciepło hydrodestylacji doprowadziło do dekarboksylacji, po czym ekstrakcja cieczą pod ciśnieniem odzyskała niemal wszystkie kannabinoidy. Proces dawał powtarzalne wyniki w niezależnych partiach produkcyjnych.",
+   "titlePl": "Od pola do ekstraktu: kontrola zmiennych poporzbiorczych i ekstrakcyjnych dla powtarzalnego odzysku kannabinoidów i terpenów z Cannabis sativa L. metodą sekwencyjnej hydrodestylacji i ekstrakcji cieczą pod ciśnieniem",
+   "takeaway": "Badanie dotyczy procesu wytwarzania ekstraktów w kontrolowanych warunkach, a nie gotowego produktu, i nie daje podstaw do wniosków o działaniu zdrowotnym. W doradztwie warto pamiętać, że skład surowca i ekstraktów zależy od odmiany i sposobu przetwarzania, dlatego dobrze pytać producenta o metodę produkcji."
+  },
   {
    "id": "pm:43023439",
    "source": "pubmed",
