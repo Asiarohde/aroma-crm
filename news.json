@@ -1,6 +1,87 @@
 {
- "updatedAt": "2026-11-17T05:54:00.478Z",
+ "updatedAt": "2026-11-18T13:40:58.673Z",
  "items": [
+  {
+   "id": "pm:43044207",
+   "source": "pubmed",
+   "title": "Cavitation-governed antimicrobial synergy of ultrasound and essential oil nanoemulsions: A mechanistic review",
+   "journal": "Ultrason Sonochem",
+   "date": "2026-11-14",
+   "authors": "Kumari A, Rahaman A, Farooq MA i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044207/",
+   "topic": "eo",
+   "addedAt": "2026-11-18",
+   "summaryPl": "Artykuł dotyczy nanoemulsji olejków eterycznych aktywowanych ultradźwiękami jako sposobu ograniczania drobnoustrojów, głównie w konserwowaniu żywności. Autorzy przeanalizowali prace z lat 2020–2025 i zaproponowali model, w którym kawitacja (powstawanie i zapadanie się pęcherzyków) łączy działanie mechaniczne i chemiczne. Główny wynik to model „miecza i konia trojańskiego”: kawitacja uszkadza błony mikroorganizmów, a nanoemulsje dostarczają składniki olejków do wnętrza komórek. Autorzy wskazują jednak braki, m.in. mało danych z rzeczywistych produktów, brak standaryzacji dawkowania i ograniczoną liczbę walidacji na skali pilotażowej.",
+   "titlePl": "Kawitacyjna synergia przeciwdrobnoustrojowa ultradźwięków i nanoemulsji olejków eterycznych: przegląd mechanistyczny",
+   "takeaway": "To przegląd dotyczący przechowywania żywności, a nie stosowania olejków na skórze czy w domu, więc jego wnioski mają ograniczone przełożenie na praktykę aromaterapeutyczną. Opisane mechanizmy mają charakter teoretyczny i wymagają dalszych badań."
+  },
+  {
+   "id": "pm:43032468",
+   "source": "pubmed",
+   "title": "Processing methods shape the volatile organic compounds and flavor profile of Litsea cubeba essential oil: evidence from E-nose, E-tongue, and GC-IMS analyses",
+   "journal": "Food Chem X",
+   "date": "2026-11-03",
+   "authors": "Huang J, Liu Y, Dai Y i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032468/",
+   "topic": "eo",
+   "addedAt": "2026-11-18",
+   "summaryPl": "Artykuł porównywał wpływ czterech sposobów pozyskiwania olejku z Litsea cubeba: tłoczenia na zimno, tłoczenia na zimno wspomaganego mikrofalami, tłoczenia na zimno wspomaganego prażeniem oraz destylacji parowej. Do oceny użyto elektronicznego nosa, elektronicznego języka, chromatografii gazowej ze spektrometrią ruchliwości jonów oraz analizy wielowymiarowej. Zidentyfikowano 82 lotne związki organiczne, z czego 31 było kluczowych w różnicowaniu olejków, a analiza ROAV wskazała cztery główne związki aktywne zapachowo i trzy modyfikujące aromat. Wynik pokazuje, że sposób przetwarzania wyraźnie zmienia skład i cechy sensoryczne olejku.",
+   "titlePl": "Metody przetwarzania kształtują lotne związki organiczne i profil smakowo-zapachowy olejku eterycznego Litsea cubeba: wyniki analiz E-nosem, E-językiem i GC-IMS",
+   "takeaway": "To analityczne badanie laboratoryjne dotyczy składu i profilu zapachowo-smakowego olejku jako aromatu, a nie jego działania na organizm. W praktyce doradczej warto zwracać uwagę na sposób pozyskania olejku, ale nie należy przypisywać mu korzyści zdrowotnych na podstawie tego badania."
+  },
+  {
+   "id": "pm:43040807",
+   "source": "pubmed",
+   "title": "A review of the complementary and alternative oils available for androgenetic alopecia and alopecia areata",
+   "journal": "Dermatol Online J",
+   "date": "2026-10-31",
+   "authors": "Gomez-Lara AR, Venegas MG, Goh C i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040807/",
+   "topic": "aroma",
+   "addedAt": "2026-11-18",
+   "summaryPl": "Artykuł dotyczy olejów stosowanych w uzupełniających i alternatywnych metodach wspomagania leczenia niebliznowaciejących łysień, takich jak łysienie androgenowe, plackowate i telogenowe. Autorzy przeszukali PubMed za lata 1975–2025 i wybrali prace oceniające skuteczność lub mechanizmy działania takich olejów. Główny wynik to potencjał wspierania wzrostu włosów u oleju sojowego w oleju kokosowym, oleju z mikroalg, olejków eterycznych (rozmarynowego, lawendowego, Chamaecyparis obtusa) oraz olejów z nasion, jednak dowody są ograniczone małymi próbami i różnorodnymi metodami badawczymi.",
+   "titlePl": "Przegląd uzupełniających i alternatywnych olejów stosowanych w łysieniu androgenowym i łysieniu plackowatym",
+   "takeaway": "Dane są wstępne i oparte na małych grupach, dlatego nie można na ich podstawie obiecywać efektów w zakresie wzrostu włosów. Przy problemie z wypadaniem włosów warto kierować klientów do lekarza dermatologa."
+  },
+  {
+   "id": "pm:43042364",
+   "source": "pubmed",
+   "title": "Fragrance Safety in Atopic Dermatitis: A Clinical Review",
+   "journal": "J Clin Aesthet Dermatol",
+   "date": "2026-10",
+   "authors": "Doan V, Kanakarajan-McKinney M, Lio P",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43042364/",
+   "topic": "eo",
+   "addedAt": "2026-11-18",
+   "summaryPl": "Artykuł dotyczy bezpieczeństwa zapachów, zarówno syntetycznych, jak i naturalnych (w tym olejków eterycznych), u osób z atopowym zapaleniem skóry. Autorzy przeszukali PubMed i Google Scholar oraz przejrzeli wytyczne FDA, INCI i National Eczema Association. Główny wynik to stwierdzenie, że zapachy są częstą przyczyną alergicznego kontaktowego zapalenia skóry u dorosłych i dzieci, a określenia typu „bez zapachu” są słabo ujednolicone i mogą wprowadzać w błąd. Naturalne składniki nie są z definicji bezpieczne, a ograniczeniem pozostają niespójne etykiety i wąskie panele testów płatkowych.",
+   "titlePl": "Bezpieczeństwo zapachów w atopowym zapaleniu skóry: przegląd kliniczny",
+   "takeaway": "Nie należy zakładać, że naturalny olejek eteryczny jest bezpieczny dla skóry osób z atopowym zapaleniem skóry. Przed doborem produktu warto sprawdzić skład, a w razie reakcji skórnej zasugerować konsultację z lekarzem."
+  },
+  {
+   "id": "pm:43045997",
+   "source": "pubmed",
+   "title": "Ion homeostasis and redox stability are associated with cultivar-dependent preservation of essential oil quality in salt-stressed Pelargonium graveolens",
+   "journal": "BMC Plant Biol",
+   "date": "2026-08-21",
+   "authors": "Pandey E, Kumari R, Faizan S",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045997/",
+   "topic": "eo",
+   "addedAt": "2026-11-18",
+   "summaryPl": "Badanie dotyczyło tego, jak zasolenie gleby wpływa na plon i jakość olejku eterycznego pelargonii wonnej (Pelargonium graveolens) oraz które cechy decydują o tolerancji na sól u różnych odmian. Autorzy testowali trzy odmiany przy stężeniach NaCl od 0 do 200 mM, w warunkach szklarniowych, mierząc m.in. biomasę, gospodarkę jonową, procesy fizjologiczne i biochemiczne oraz zawartość olejku. Najbardziej odporna była odmiana CIM Pawan, która lepiej utrzymała stosunek K⁺/Na⁺ i wyższą aktywność enzymów antyoksydacyjnych, a najbardziej wrażliwa była CIM Bharat, u której plon olejku spadł o 73,2%. Łagodne zasolenie (50 mM NaCl) zwiększyło procent olejku w odpornych odmianach o 4,7%.",
+   "titlePl": "Homeostaza jonów i stabilność redoks a zachowanie jakości olejku eterycznego zależne od odmiany u Pelargonium graveolens w warunkach zasolenia",
+   "takeaway": "Wyniki dotyczą trzech odmian uprawianych w szklarni, więc nie należy ich automatycznie przenosić na rośliny z innych upraw czy warunków. To informacja o surowcu roślinnym, a nie o działaniu olejku na organizm."
+  },
   {
    "id": "pm:43039271",
    "source": "pubmed",
