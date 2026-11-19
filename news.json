@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-18T13:40:58.673Z",
+ "updatedAt": "2026-11-19T14:08:51.242Z",
  "items": [
+  {
+   "id": "pm:43051256",
+   "source": "pubmed",
+   "title": "Curcuma longa (turmeric) or its active ingredients for osteoarthritis",
+   "journal": "Cochrane Database Syst Rev",
+   "date": "2026-11-19",
+   "authors": "Shirinsky I, Shirinsky V, Filatova K i in.",
+   "types": [
+    "przegląd systematyczny",
+    "metaanaliza",
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051256/",
+   "topic": "eo",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Przegląd Cochrane oceniał korzyści i szkodliwość ekstraktów Curcuma longa (kurkumy) oraz kurkuminoidów u osób z chorobą zwyrodnieniową stawów. Autorzy przeszukali bazy danych i uwzględnili randomizowane badania z grupą porównawczą; w metaanalizie znalazło się dziewięć badań z 1245 uczestnikami z chorobą kolan, zwykle krótkich (do 90 dni). Otrzymany fragment streszczenia nie zawiera wyników dotyczących skuteczności ani bezpieczeństwa, dlatego nie można na jego podstawie podać wniosków.",
+   "titlePl": "Curcuma longa (kurkuma) lub jej składniki czynne w chorobie zwyrodnieniowej stawów",
+   "takeaway": "Dotyczy kurkumy (ekstraktów i kurkuminoidów podawanych doustnie), a nie olejku eterycznego, więc nie przenoś tych wniosków na olejki. Wyniki opierają się na krótkich badaniach, a w doradztwie nie formułuj zaleceń dla osób z bólem stawów i kieruj je do lekarza."
+  },
+  {
+   "id": "pm:43049831",
+   "source": "pubmed",
+   "title": "Multistage Insecticidal Activity of Juniperus phoenicea Essential Oil Against Culex pipiens, a Major West Nile Virus Vector: Biochemical and Histopathological Effects, Molecular Docking, and Non-target Selectivity",
+   "journal": "Acta Parasitol",
+   "date": "2026-11-18",
+   "authors": "Madani F, Haleche I, Metrah HA i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049831/",
+   "topic": "eo",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Badanie oceniało działanie olejku eterycznego z Juniperus phoenicea na jaja, larwy i poczwarki komarów Culex pipiens, które mogą przenosić wirusa Nilu Zachodniego. Wykonano testy hamowania wylęgu oraz zabijania larw i poczwarek, analizę składu olejku metodą GC-MS, ocenę zmian w jelicie środkowym oraz symulację wiązania składników z acetylocholinesterazą. Olejek hamował wylęg jaj i działał na larwy oraz poczwarki, przy czym larwy były najbardziej wrażliwe. W testach na organizmach niebędących celem śmiertelność Daphnia magna pozostawała poniżej 30%, a u Cloeon dipterum nie zanotowano jej wcale.",
+   "titlePl": "Wieloetapowe działanie owadobójcze olejku eterycznego z Juniperus phoenicea wobec Culex pipiens, głównego wektora wirusa Nilu Zachodniego: efekty biochemiczne i histopatologiczne, docking molekularny oraz selektywność wobec organizmów niebędących celem",
+   "takeaway": "To badanie laboratoryjne na owadach i wodnych organizmach testowych; nie potwierdza skuteczności olejku w odstraszaniu komarów u ludzi ani jego bezpieczeństwa na skórze. Nie należy na tej podstawie stosować tego olejku w domu jako środka na komary bez dalszych badań i konsultacji."
+  },
+  {
+   "id": "pm:43049768",
+   "source": "pubmed",
+   "title": "M2-like-microglia membrane-modified Chuanxiong essential oil liposomes regulate microglial polarization to improve neuroinflammation",
+   "journal": "J Mater Chem B",
+   "date": "2026-11-18",
+   "authors": "Long Y, Wu Y, Li X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049768/",
+   "topic": "eo",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Badanie dotyczyło liposomów z olejkiem Chuanxiong, pokrytych błonami komórkowymi podobnymi do mikrogleju M2, aby lepiej docierały do mózgu i ograniczały stan zapalny. Testy prowadzono na komórkach BV2 oraz na myszach z modelem udaru niedokrwiennego, mierząc m.in. poziomy cytokin zapalnych i markery stresu oksydacyjnego. Preparat obniżał poziom TNF-α, IL-1β i IL-6 w komórkach, a u myszy łagodził deficyty neurologiczne, obrzęk oraz zmiany w tkankach. Autorzy opisują go jako potencjalną strategię wczesnej interwencji, lecz są to wyniki wstępne.",
+   "titlePl": "Liposomy z olejkiem eterycznym Chuanxiong modyfikowane błonami mikrogleju M2 regulują polaryzację mikrogleju i łagodzą neurozapalenie",
+   "takeaway": "To badanie na komórkach i myszach, bez danych klinicznych u ludzi, więc nie można z niego wnioskować o działaniu olejku w udarze. Udar wymaga natychmiastowej pomocy medycznej, a olejek eteryczny nie może być traktowany jako sposób leczenia ani zapobiegania tej chorobie."
+  },
+  {
+   "id": "pm:43051842",
+   "source": "pubmed",
+   "title": "Antibacterial paper incorporating oregano essential oil pickering emulsions stabilized by cellulose nanofibers and ethyl lauroyl arginate for fruit preservation",
+   "journal": "Food Res Int",
+   "date": "2026-11-02",
+   "authors": "Liao J, Xie Y, Chen X i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051842/",
+   "topic": "eo",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Badanie dotyczyło aktywnego opakowania papierowego, które zawiera emulsje olejku z oregano stabilizowane nanowłóknami celulozy oraz etylowym laurylo-argininianem (LAE). Emulsje wprowadzono do powłoki z alkoholu poliwinylowego i żelatyny, a papier testowano w warunkach laboratoryjnych, w tym na truskawkach przechowywanych w temperaturze 23°C. Papier działał przeciwko bakteriom i grzybom, a po 8 dniach truskawki traciły mniej masy i rzadziej się psuły (zepsucia 19% wobec 44% w grupie kontrolnej). Analiza cyklu życia wskazała mniejszy wpływ na środowisko niż porównywalne opakowanie na bazie ropy naftowej.",
+   "titlePl": "Antybakteryjny papier z olejkiem eterycznym z oregano: emulsje Pickeringa stabilizowane nanowłóknami celulozy i etylowym laurylo-argininianem do konserwacji owoców",
+   "takeaway": "Wyniki dotyczą opakowań do żywności i testów na truskawkach w kontrolowanych warunkach, a nie stosowania olejków na ciele, więc nie pozwalają wnioskować o działaniu olejku u ludzi. Jest to praca laboratoryjna, a jej przeniesienie do praktyki wymagałoby dalszych badań."
+  },
+  {
+   "id": "pm:43051784",
+   "source": "pubmed",
+   "title": "Gelatin-agar functional films in active packaging: A critical review of preparation, functionality, and application in food preservation",
+   "journal": "Food Res Int",
+   "date": "2026-10-30",
+   "authors": "Kalita P, Jahan KTR, Chatterjee N i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051784/",
+   "topic": "eo",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Przegląd omawia rozwój funkcjonalnych folii z żelatyny i agaru do aktywnych opakowań żywności, ze szczególnym uwzględnieniem metod wytwarzania, właściwości i zastosowań w przedłużaniu trwałości produktów. Autorzy opisują, że dodatki takie jak nanomateriały, olejki eteryczne i ekstrakty roślinne mogą poprawiać właściwości mechaniczne, barierowe i antybakteryjne folii. Jako główne wyzwania wskazano wrażliwość na wilgoć, skalowalność produkcji, opłacalność i kwestie regulacyjne.",
+   "titlePl": "Funkcjonalne folie z żelatyny i agaru w aktywnych opakowaniach: krytyczny przegląd przygotowania, funkcjonalności i zastosowania w konserwowaniu żywności",
+   "takeaway": "Przegląd dotyczy opakowań do żywności, a olejki eteryczne występują w nim tylko jako dodatek do folii. Nie przenoś tych wniosków na zastosowania aromaterapeutyczne ani na zalecenia dla klientów."
+  },
+  {
+   "id": "pm:43052717",
+   "source": "pubmed",
+   "title": "GC-MS-based metabolomics for the profiling of bioactive compounds in four Lamiaceae plants with multiple bioactive potentials",
+   "journal": "BMC Plant Biol",
+   "date": "2026-08-24",
+   "authors": "Yang W, Sheng T, Zheng Y i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43052717/",
+   "topic": "aroma",
+   "addedAt": "2026-11-19",
+   "summaryPl": "Badanie porównywało związki lotne w olejkach eterycznych (EO) i hydrolatach (HD) czterech roślin z rodziny jasnotowatych (Lamiaceae): Lavandula angustifolia, Origanum vulgare, Mentha spicata i Salvia sclarea. Autorzy zidentyfikowali 205 związków metodą GC-MS oraz oceniali aktywność antyoksydacyjną i hamowanie tyrozynazy w testach laboratoryjnych. Analizy wieloczynnikowe wyraźnie oddzieliły olejki od hydrolatów, a najsilniejsze działanie antyoksydacyjne wykazały OvEO i OvHD (Origanum vulgare). W hamowaniu tyrozynazy lepsze były olejki, a najmocniej działał OvEO (82%).",
+   "titlePl": "Metabolomika oparta na GC-MS do profilowania związków bioaktywnych w czterech roślinach z rodziny jasnotowatych o wielu potencjalnych właściwościach bioaktywnych",
+   "takeaway": "To badanie laboratoryjne (testy in vitro), więc nie pokazuje, jak olejki działają na skórę człowieka. Możliwe zastosowania kosmetyczne są tylko hipotezą do dalszych badań, dlatego nie obiecuj klientom efektów wybielających ani innych korzyści zdrowotnych."
+  },
   {
    "id": "pm:43044207",
    "source": "pubmed",
