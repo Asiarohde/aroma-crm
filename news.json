@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-19T14:08:51.242Z",
+ "updatedAt": "2026-11-20T13:51:15.702Z",
  "items": [
+  {
+   "id": "pm:43057336",
+   "source": "pubmed",
+   "title": "Integrative Approach to Cancer Pain Management in Pregnancy - A Narrative Review",
+   "journal": "Integr Cancer Ther",
+   "date": "2026-11-19",
+   "authors": "Motiwala ZY, Raza S, Silva GDB i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057336/",
+   "topic": "aroma",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Artykuł opisuje różne metody medycyny komplementarnej i alternatywnej stosowane w łagodzeniu bólu nowotworowego u kobiet w ciąży oraz ich wskazania, działania niepożądane i realistyczne oczekiwania. Autorzy przeszukali kilka baz danych i uwzględnili różne typy publikacji, od przeglądów po badania RCT. Wśród tych metod wymieniono m.in. akupunkturę, jogę, hipnozę i aromaterapię, które w badaniach prowadzonych osobno w populacji onkologicznej i ciężarnej wykazywały potencjał w kontroli bólu i zmniejszaniu stresu. Autorzy podkreślają jednak, że skuteczność kliniczna tych metod w leczeniu bólu nowotworowego w ciąży nie została oceniona.",
+   "titlePl": "Zintegrowane podejście do leczenia bólu nowotworowego w ciąży: przegląd narracyjny",
+   "takeaway": "Aromaterapia jest w tym przeglądzie tylko jedną z wielu metod, a jej skuteczności w tej konkretnej sytuacji nie zbadano. Nie należy z tego artykułu wyciągać wniosków o bezpiecznym stosowaniu olejków u kobiet w ciąży z bólem nowotworowym; takie sprawy wymagają konsultacji z zespołem prowadzącym pacjentkę."
+  },
+  {
+   "id": "pm:43058990",
+   "source": "pubmed",
+   "title": "Clinically Meaningful Response on the Rett Syndrome Behavior Questionnaire: A Responder Analysis of Patients Treated with Trofinetide Versus Placebo in the 12-Week LAVENDER Trial",
+   "journal": "J Child Adolesc Psychopharmacol",
+   "date": "2026-11-19",
+   "authors": "Rajagopalan K, Sikirica M, Yakkala V i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058990/",
+   "topic": "sleep",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Badanie dotyczyło ustalenia, jaka zmiana wyniku w Kwestionariuszu Zachowań w Zespole Retta (RSBQ) jest klinicznie istotna, czyli wystarczająco duża, by mieć znaczenie dla pacjenta. Autorzy połączyli dane z dwóch badań z trofinetydem, łącznie ponad 260 uczestników, i zastosowali metody oparte na rozkładzie wyników oraz na ocenie klinicznej. Za progową wartość przyjęto poprawę o co najmniej 6 punktów, a w 12. tygodniu odsetek osób z odpowiedzią wyniósł 42,11% w grupie leczonej wobec 22,35% w grupie placebo (przy progu opartym na poprawie o co najmniej 15%: 39,47% wobec 18,82%). Streszczenie jest urwane, więc nie zawiera pełnych wyników.",
+   "titlePl": "Klinicznie istotna odpowiedź w Kwestionariuszu Zachowań w Zespole Retta: analiza odpowiedzi pacjentów leczonych trofinetydem versus placebo w 12-tygodniowym badaniu LAVENDER",
+   "takeaway": "Badanie dotyczy leku i skali oceny w zespole Retta, a nie olejków eterycznych, dlatego nie należy z niego wyciągać wniosków dotyczących aromaterapii. Streszczenie jest skrócone, więc pełne wyniki warto sprawdzić w oryginalnej publikacji."
+  },
+  {
+   "id": "pm:43058988",
+   "source": "pubmed",
+   "title": "Effects of an essential oil blend in adapted rumen fluid on fermentation, methane production, and microbiota in a reduced-buffer SARA-like acidogenic in vitro model",
+   "journal": "J Anim Sci",
+   "date": "2026-11-19",
+   "authors": "Menni G, Dai X, Rapetti L i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058988/",
+   "topic": "eo",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Badanie sprawdzało, czy płyn żwaczowy pobrany od krów przyzwyczajonych do komercyjnej mieszanki olejków eterycznych zmienia fermentację, produkcję metanu i skład mikroflory w warunkach laboratoryjnych, imitujących kwasicę podostrą żwacza. Płyn inkubowano przez 24 godziny z paszą o wysokiej lub niskiej zawartości skrobi, przy ograniczonym buforowaniu. Mieszanka wykazała tendencje do zmniejszenia produkcji metanu i liczby pierwotniaków oraz do zmian w składzie bakterii, przy czym wiele z tych różnic nie osiągnęło progu istotności statystycznej.",
+   "titlePl": "Wpływ mieszanki olejków eterycznych w dostosowanym płynie żwaczowym na fermentację, produkcję metanu i mikrobiotę w modelu in vitro kwasicy podostrej żwacza typu SARA ze zmniejszonym buforowaniem",
+   "takeaway": "To wstępne badanie laboratoryjne na czterech krowach, z wieloma wynikami na granicy istotności. Wyniki dotyczą fermentacji w żwaczu zwierząt i nie mają przełożenia na zastosowania u ludzi."
+  },
+  {
+   "id": "pm:43057544",
+   "source": "pubmed",
+   "title": "Frankincense-Myrrh Essential Oil Modulates Biofilm Formation and the Expression of Quorum Sensing Associated Genes in Multidrug-Resistant Pseudomonas aeruginosa and MRSA: Integrated Metabolomic, Network Pharmacology, and Wound-Healing Evidence",
+   "journal": "Microb Pathog",
+   "date": "2026-11-19",
+   "authors": "Turkey MS, Nazeam JA, El-Shazly M i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057544/",
+   "topic": "eo",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Badanie analizowało skład i działanie mieszanki olejków z kadzidłowca i mirry wobec klinicznych szczepów bakterii Pseudomonas aeruginosa oraz gronkowca złocistego opornego na metycylinę (MRSA). Olejek hamował tworzenie biofilmu i zmniejszał ekspresję wybranych genów bakteryjnych przy stężeniach podhamujących wzrost. W modelach zakażonych ran przyspieszał zamykanie rany, a w badaniach wskazano także zmiany dotyczące stresu oksydacyjnego i stanu zapalnego.",
+   "titlePl": "Olejek z kadzidłowca i mirry modyfikuje tworzenie biofilmu oraz ekspresję genów związanych z wyczuwaniem quorum w wielolekoopornych Pseudomonas aeruginosa i MRSA: dowody z metabolomiki, farmakologii sieciowej i gojenia ran",
+   "takeaway": "Wyniki pochodzą głównie z badań laboratoryjnych i z modeli ran, więc nie potwierdzają skuteczności u ludzi. Zakażone rany wymagają oceny lekarskiej, a olejek nie zastępuje leczenia."
+  },
+  {
+   "id": "pm:43054562",
+   "source": "pubmed",
+   "title": "Review of oregano essential oils: pharmacological activities and applications",
+   "journal": "Front Pharmacol",
+   "date": "2026-11-04",
+   "authors": "Tao L, Wang X, Wang X i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43054562/",
+   "topic": "eo",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Przegląd dotyczy składu chemicznego i aktywności biologicznych olejku eterycznego z oregano (Origanum vulgare), a także jego zastosowań. Autorzy opisali, że olejek wykazuje istotne właściwości przeciwdrobnoustrojowe i antyoksydacyjne. Najczęściej wskazywane obszary to konserwowanie żywności, gdzie ogranicza patogeny i mikroorganizmy psujące produkt, oraz hodowla zwierząt, gdzie jest stosowany jako naturalny dodatek paszowy.",
+   "titlePl": "Przegląd olejku eterycznego z oregano: działania farmakologiczne i zastosowania",
+   "takeaway": "Przegląd opisuje zastosowania w przemyśle spożywczym i hodowli zwierząt, a nie w zaleceniach dla ludzi. Nie przenoś tych wyników na efekty zdrowotne u człowieka."
+  },
+  {
+   "id": "pm:43058403",
+   "source": "pubmed",
+   "title": "Laurus nobilis Essential Oil as a Natural Additive in Food Industry: A Review of Bioactivity, Encapsulation, and Applications",
+   "journal": "Compr Rev Food Sci Food Saf",
+   "date": "2026-11",
+   "authors": "Simić P, Poklar Ulrih N",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058403/",
+   "topic": "eo",
+   "addedAt": "2026-11-20",
+   "summaryPl": "Przegląd dotyczy olejku eterycznego z Laurus nobilis (laurowiśnia szlachetnego, liścia laurowego), badanego jako naturalny dodatek do żywności. Autorzy zebrali publikacje o składzie olejku, jego działaniu przeciwbakteryjnym, przeciwgrzybiczym i przeciwutleniającym oraz o technologiach enkapsulacji, które mają stabilizować olejek w żywności. Opisano też zastosowania w produktach spożywczych oraz kwestie bezpieczeństwa, przepisów i cech sensorycznych. Autorzy wskazują, że danych o klasyfikacji prawnej i progach wyczuwalności sensorycznej dla tego olejku jest stosunkowo mało.",
+   "titlePl": "Olejek eteryczny z Laurus nobilis jako naturalny dodatek w przemyśle spożywczym: przegląd bioaktywności, enkapsulacji i zastosowań",
+   "takeaway": "Artykuł dotyczy głównie zastosowań w przemyśle spożywczym, a nie aromaterapii czy użycia domowego. Ponieważ dane o bezpieczeństwie i progach sensorycznych są według autorów ograniczone, nie należy przenosić wniosków z tego przeglądu na stosowanie olejku u ludzi."
+  },
   {
    "id": "pm:43051256",
    "source": "pubmed",
