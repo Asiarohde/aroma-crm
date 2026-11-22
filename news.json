@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-11-21T13:15:27.626Z",
+ "updatedAt": "2026-11-22T13:05:58.522Z",
  "items": [
+  {
+   "id": "pm:43067873",
+   "source": "pubmed",
+   "title": "Bioactive Constituents of Cardamom and Their Therapeutic Relevance in Oral Health: A Narrative Review",
+   "journal": "Int J Dent",
+   "date": "2026-11-20",
+   "authors": "Menon N, Ceena Denny E, Santosh ABR",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43067873/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Przegląd dotyczył właściwości bioaktywnych kardamonu, istotnych dla zdrowia jamy ustnej. Autorzy przeszukali kilka baz naukowych (m.in. PubMed, Scopus, Cochrane Library, Google Scholar, ScienceDirect) pod kątem publikacji od początku ich istnienia do 2025 roku. Według przeglądu kardamon wykazuje działanie przeciwzapalne, antybakteryjne i antyoksydacyjne, co wiąże się głównie z zawartością olejków eterycznych, flawonoidów i związków fenolowych. Autorzy piszą ostrożnie, że te związki mogą wpływać na florę drobnoustrojów w jamie ustnej i ograniczać stan zapalny, ale traktują to jako możliwy kierunek, a nie udowodniony efekt.",
+   "titlePl": "Składniki bioaktywne kardamonu i ich znaczenie terapeutyczne dla zdrowia jamy ustnej: przegląd narracyjny",
+   "takeaway": "To przegląd literatury, a nie badanie na ludziach, więc jego wnioski należy traktować jako wstępne. Nie wynika z niego zalecenie stosowania kardamonu ani olejków z niego do pielęgnacji jamy ustnej."
+  },
+  {
+   "id": "pm:43054931",
+   "source": "pubmed",
+   "title": "Temporal variation and chemico-biological profiling of bioactive metabolites from Pinus wallichiana : experimental and computational mechanistic insights",
+   "journal": "RSC Adv",
+   "date": "2026-11-18",
+   "authors": "Rather E, Yousuf U, Yaseen A i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43054931/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Badano olejki eteryczne otrzymane z igieł Pinus wallichiana zebranych latem, jesienią i zimą, pod kątem składu chemicznego, wydajności oraz potencjału biologicznego. Skład określono metodami GC-MS i spektroskopią 13C NMR, a aktywność sprawdzano w testach laboratoryjnych wobec prątka gruźlicy i pasożyta Haemonchus contortus, uzupełniając je symulacjami komputerowymi wiązania związków z wybranymi celami. Najważniejszy wynik: olejki wykazały silną aktywność w warunkach laboratoryjnych, a największy potencjał w modelach komputerowych przypisano d-limonenowi, którego skład i ilość różniły się w zależności od pory roku.",
+   "titlePl": "Zmienność sezonowa i profilowanie chemiczno-biologiczne bioaktywnych metabolitów z Pinus wallichiana: wgląd eksperymentalny i obliczeniowy",
+   "takeaway": "Wyniki pochodzą z badań laboratoryjnych i obliczeniowych, więc mają charakter wstępny i nie potwierdzają działania leczniczego u ludzi. Skład olejku z tej samej rośliny zmienia się w zależności od sezonu, dlatego jakość i powtarzalność produktu warto sprawdzać na podstawie analizy składu."
+  },
+  {
+   "id": "pm:43066363",
+   "source": "pubmed",
+   "title": "Nano-enabled neem biopesticides as next-generation agro-inputs for sustainable plant protection",
+   "journal": "PeerJ",
+   "date": "2026-11-17",
+   "authors": "Muteeb G",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066363/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Przegląd analizował preparaty biopestycydów na bazie neem (Azadirachta indica), które działają na wiele gatunków szkodników i mają korzystny profil ekotoksyczności. Ich wdrożenie w praktyce utrudnia jednak niestabilność składników: szybki rozpad pod wpływem światła, słaba rozpuszczalność w wodzie i krótkie utrzymywanie się na polu. Autorzy omówili nanonośniki (polimerowe, lipidowe, nieorganiczne i hybrydowe), które mogą zwiększać biodostępność i wydłużać działanie preparatu, co według nich pozwala ograniczyć liczbę zabiegów.",
+   "titlePl": "Nanotechnologiczne biopestycydy z neem jako środki nowej generacji w rolnictwie na rzecz zrównoważonej ochrony roślin",
+   "takeaway": "Artykuł dotyczy środków ochrony roślin w rolnictwie, a nie stosowania olejków eterycznych u ludzi, więc jego wniosków nie należy przenosić na aromaterapię. Streszczenie opisuje przegląd koncepcji i badań, bez danych o bezpieczeństwie w kontakcie z ludźmi."
+  },
+  {
+   "id": "pm:43066015",
+   "source": "pubmed",
+   "title": "The Sialo-Microbial-Dental Complex and novel prebiotic approaches for the future of oral care",
+   "journal": "Front Oral Health",
+   "date": "2026-11-06",
+   "authors": "Curatola GP",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066015/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Przegląd opisuje kompleks ślinowo-mikrobiologiczno-zębowy, czyli współdziałanie śliny, mikroflory jamy ustnej i struktur mineralnych zębów, który według autorów ma znaczenie dla remineralizacji szkliwa i odporności przyzębia. Autorzy prześledzili rozwój poglądów na drobnoustroje w jamie ustnej i omówili dowody dotyczące fluoru, nano-hydroksyapatytu, ksylitolu oraz olejków eterycznych. Główny wniosek to propozycja podejścia prebiotycznego, które wspiera równowagę mikroflory zamiast ją zwalczać.",
+   "titlePl": "Kompleks ślinowo-mikrobiologiczno-zębowy i nowe podejścia prebiotyczne dla przyszłości opieki nad jamą ustną",
+   "takeaway": "Olejki eteryczne są w tym przeglądzie tylko jednym z omawianych środków, a streszczenie nie podaje szczegółów ich skuteczności. Na tej podstawie nie należy zalecać olejków do higieny jamy ustnej; wnioski mają charakter koncepcyjny i przeglądowy."
+  },
+  {
+   "id": "pm:43066003",
+   "source": "pubmed",
+   "title": "Arbuscular mycorrhizal fungi enhance growth, mineral nutrition, metabolic traits and essential oil bioactivity in Thymus satureioides Coss",
+   "journal": "Front Fungal Biol",
+   "date": "2026-11-06",
+   "authors": "Akhallaa Youne O, Akhallaa Youne M, Ouahmane K i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066003/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Badanie dotyczyło wpływu grzybów mikoryzy arbuskularnej na skład biochemiczny, profil olejku eterycznego oraz aktywność przeciwutleniającą i przeciwdrobnoustrojową tymianku Thymus satureioides. Sadzonki zaszczepiono tymi grzybami i porównano z roślinami bez szczepienia, analizując zawartość białek, węglowodanów, lipidów, polifenoli i flawonoidów oraz skład olejku metodą GC-MS. Główny wynik: u roślin z mikoryzą zawartość wielu związków była wyższa, a olejek miał silniejszą aktywność przeciwutleniającą i przeciwdrobnoustrojową, przy czym wśród wzbogaconych związków wymieniono tymol, karwakrol i kwas rozmarynowy.",
+   "titlePl": "Grzyby mikoryzy arbuskularnej (AMF) zwiększają wzrost, odżywienie mineralne, profil metaboliczny i aktywność biologiczną olejku eterycznego Thymus satureioides Coss",
+   "takeaway": "To badanie laboratoryjne na młodych roślinach, a nie dowód na działanie olejku u ludzi. Przy wyborze olejku warto zwracać uwagę na podany skład chemiczny i pochodzenie surowca, a nie na deklarowane właściwości lecznicze."
+  },
+  {
+   "id": "pm:43054198",
+   "source": "pubmed",
+   "title": "Multi-omics analysis reveals the anti-hyperlipidemic mechanism of 1,8-cineole from Camphora longepaniculata essential oil via gut microbiota and lipid metabolism modulation",
+   "journal": "Front Microbiol",
+   "date": "2026-11-04",
+   "authors": "Nan G, Yang J, Chen H i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43054198/",
+   "topic": "eo",
+   "addedAt": "2026-11-22",
+   "summaryPl": "Badanie sprawdzało, jak 1,8-cyneol, główny składnik olejku z Camphora longepaniculata, wpływa na parametry lipidowe i mechanizmy działania u myszy karmionych dietą wysokotłuszczową. Zastosowano analizę parametrów fizjologicznych i biochemicznych krwi oraz metody sekwencjonowania metagenomicznego, transkryptomiki i metabolomiki, aby ocenić zmiany mikrobioty jelitowej, ekspresji genów w wątrobie i metabolitów w surowicy. Główny wynik: związek obniżał stężenie trójglicerydów i frakcji LDL-C, zwiększał HDL-C oraz wiązał się ze zmianami mikrobioty jelitowej i metabolizmu lipidów.",
+   "titlePl": "Analiza multi-omiczna ujawnia mechanizm przeciwhiperlipidemiczny 1,8-cyneolu z olejku eterycznego Camphora longepaniculata poprzez modulację mikrobioty jelitowej i metabolizmu lipidów",
+   "takeaway": "Badanie wykonano na myszach, więc wyników nie można bezpośrednio przenosić na ludzi ani traktować jako dowodu skuteczności. Olejek nie zastępuje leczenia zaburzeń lipidowych, a osoby z podwyższonym poziomem lipidów powinny konsultować się z lekarzem."
+  },
   {
    "id": "pm:43064326",
    "source": "pubmed",
