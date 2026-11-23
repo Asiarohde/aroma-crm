@@ -1,6 +1,23 @@
 {
- "updatedAt": "2026-11-22T13:05:58.522Z",
+ "updatedAt": "2026-11-23T15:42:37.582Z",
  "items": [
+  {
+   "id": "pm:43069535",
+   "source": "pubmed",
+   "title": "Beyond Bioassays: Why are Apiaceae-Derived Mosquitocides yet to Reach Vector Control Programs?",
+   "journal": "Vector Borne Zoonotic Dis",
+   "date": "2026-11-22",
+   "authors": "Ojo O, Prinsloo G",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069535/",
+   "topic": "eo",
+   "addedAt": "2026-11-23",
+   "summaryPl": "Przegląd dotyczy potencjału roślin leczniczych z rodziny Apiaceae jako źródła substancji zwalczających komary, głównie w latach 2021–2026. Autorzy zebrali dane o składnikach chemicznych, działaniu na larwy, jaja, dorosłe owady i odstraszanie komarów rodzajów Aedes, Anopheles i Culex, a także o mechanizmach działania i bezpieczeństwie. Główny wniosek jest taki, że mimo dużej liczby badań laboratoryjnych produkty z tych roślin nadal rzadko osiągają skalę przydatną w praktyce kontroli wektorów. Przeszkodami są m.in. zmienność składu, brak standaryzacji, niestabilność olejków, trudności z formulacją, wymogi prawne i brak badań w terenie.",
+   "titlePl": "Poza testami biologicznymi: dlaczego środki owadobójcze pochodzące z roślin Apiaceae nie trafiły jeszcze do programów zwalczania wektorów?",
+   "takeaway": "To przegląd danych głównie laboratoryjnych, więc nie pokazuje skuteczności olejków z roślin Apiaceae w warunkach rzeczywistych; należy tego unikać w obietnicach dotyczących ochrony przed komarami. Warto też pamiętać, że skład i trwałość olejków mogą się istotnie różnić między partiami."
+  },
   {
    "id": "pm:43067873",
    "source": "pubmed",
