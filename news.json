@@ -1,6 +1,89 @@
 {
- "updatedAt": "2026-11-23T15:42:37.582Z",
+ "updatedAt": "2026-11-24T15:34:10.094Z",
  "items": [
+  {
+   "id": "pm:43072975",
+   "source": "pubmed",
+   "title": "Essential oils from medicine and food homology species: a review of constituents, extraction, bioactivities and encapsulation",
+   "journal": "Chin J Nat Med",
+   "date": "2026-12",
+   "authors": "Wu X, Cao Y, Hu Q i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072975/",
+   "topic": "eo",
+   "addedAt": "2026-11-24",
+   "summaryPl": "Przegląd dotyczy olejków eterycznych pozyskiwanych z roślin o zastosowaniu zarówno leczniczym, jak i spożywczym. Autorzy omawiają skład chemiczny, technologie ekstrakcji, działania farmakologiczne, strategie enkapsulacji oraz obecną ocenę bezpieczeństwa tych olejków. Jako kierunki dalszych badań wskazano wyjaśnianie mechanizmów działania, rozwój nowych nośników, zielone metody ekstrakcji i ujednolicenie przepisów. Streszczenie nie podaje konkretnych wyników liczbowych ani szczegółowych wniosków dotyczących bezpieczeństwa.",
+   "titlePl": "Olejki eteryczne z roślin wspólnych dla medycyny i żywności: przegląd składu, ekstrakcji, aktywności biologicznej i enkapsulacji",
+   "takeaway": "To przegląd literatury, a streszczenie nie zawiera konkretnych danych o skuteczności ani bezpieczeństwie, dlatego przed poradą dotyczącą stosowania takich olejków warto sprawdzić pełny tekst. Opisane działania farmakologiczne wymagają dalszych badań i nie należy traktować ich jako potwierdzonych u ludzi."
+  },
+  {
+   "id": "pm:43074177",
+   "source": "pubmed",
+   "title": "Effects of Lavender Essential Oil on People With Sleep Disorders: A Systematic Review and Meta-Analysis",
+   "journal": "Brain Behav",
+   "date": "2026-11",
+   "authors": "Yuan W, Qin F, Wang Z i in.",
+   "types": [
+    "przegląd systematyczny",
+    "metaanaliza",
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074177/",
+   "topic": "aroma",
+   "addedAt": "2026-11-24",
+   "summaryPl": "Przegląd systematyczny i metaanaliza oceniały, czy olejek lawendowy poprawia sen u dorosłych z zaburzeniami snu, a główną analizę ograniczono do aromaterapii wziewnej. Uwzględniono 15 badań RCT ze stosowaniem wziewnym oraz 5 badań z innymi lub mieszanymi drogami podania, a głównym wynikiem był Pittsburgh Sleep Quality Index (PSQI). Aromaterapia wziewna wiązała się z istotną poprawą wyników PSQI w porównaniu z grupą kontrolną, jednak różnorodność badań była bardzo duża, a pewność dowodów oceniono jako niską lub bardzo niską. Wstępnie sugerowano, że korzyści mogą być większe u osób w wieku 40 lat i starszych oraz przy stosowaniu przez 15–30 dni.",
+   "titlePl": "Wpływ olejku lawendowego na osoby z zaburzeniami snu: przegląd systematyczny i metaanaliza",
+   "takeaway": "Wyniki wskazują na możliwą poprawę jakości snu po wdychaniu olejku lawendowego, ale ze względu na dużą różnorodność badań i niską pewność dowodów nie należy przedstawiać tego jako sprawdzonego efektu. Nie zastępuje to konsultacji z lekarzem, zwłaszcza przy przewlekłych zaburzeniach snu."
+  },
+  {
+   "id": "pm:43074435",
+   "source": "pubmed",
+   "title": "Recent Progress on the Use of Natural Wax in Biopolymer-Based Films and Coatings for Food Applications",
+   "journal": "Compr Rev Food Sci Food Saf",
+   "date": "2026-11",
+   "authors": "Reji RE, Jahan KTR, S A i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074435/",
+   "topic": "eo",
+   "addedAt": "2026-11-24",
+   "summaryPl": "Przegląd omawia rolę naturalnych wosków, takich jak wosk carnauba, pszczeli czy kandelilla, w biodegradowalnych filmach i powłokach do opakowań żywności. Opisano metody ich wytwarzania oraz wpływ wosków na wytrzymałość, barierowość wobec pary wodnej, tlenu i tłuszczu, a także właściwości przeciwutleniające, przeciwbakteryjne i kontrolowane uwalnianie, gdy łączy się je z olejkami eterycznymi i innymi substancjami. Powłoki te mogą ograniczać utratę wilgoci i wydłużać trwałość owoców, warzyw, nabiału i mięsa. Autorzy zaznaczają, że zastosowanie przemysłowe utrudniają m.in. kruchość, ograniczenia skali produkcji i kwestie bezpieczeństwa migracji, mimo obiecujących wyników laboratoryjnych.",
+   "titlePl": "Naturalne woski w filmach i powłokach z biopolimerów do zastosowań spożywczych: najnowsze postępy",
+   "takeaway": "Praca dotyczy opakowań żywności, a nie bezpośredniego stosowania olejków na ciele lub w pomieszczeniach. Wyniki opisane w streszczeniu pochodzą głównie z badań w skali laboratoryjnej, co ogranicza ich przełożenie na praktykę."
+  },
+  {
+   "id": "pm:43070844",
+   "source": "pubmed",
+   "title": "Chemical Variability of Pistacia lentiscus Leaf Essential Oil From Algeria Evidencing Sex-Associated Differences",
+   "journal": "Chem Biodivers",
+   "date": "2026-11",
+   "authors": "Bekhechi C, Babali B, Osmani CY i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070844/",
+   "topic": "eo",
+   "addedAt": "2026-11-24",
+   "summaryPl": "Olejki eteryczne wyizolowano z liści 51 dziko rosnących roślin Pistacia lentiscus z północno-zachodniej Algierii, w tym 26 żeńskich i 25 męskich. Siedem wybranych próbek zbadano metodami GC, GC/MS oraz 13C NMR, co pozwoliło zidentyfikować 74 składniki stanowiące 96,2–98,0% składu. Analiza statystyczna wskazała cztery grupy chemiczne, z których najliczniejsza (25 z 51 próbek) zawierała α-pinen, a rozmieszczenie roślin męskich i żeńskich sugerowało różnice w składzie związane z płcią. Autorzy zaznaczyli jednak, że w tym samym miejscu występowały różne grupy chemiczne, więc na skład wpływają też inne czynniki.",
+   "titlePl": "Zmienność chemiczna olejku eterycznego z liści Pistacia lentiscus z Algierii wskazująca na różnice związane z płcią roślin",
+   "takeaway": "Skład olejku z tego samego gatunku może bardzo się różnić w zależności od rośliny, miejsca i innych czynników, dlatego nie należy zakładać stałego składu na podstawie samej nazwy rośliny. Ograniczeniem jest to, że wyniki dotyczą jednego regionu, a szczegółowo analizowano tylko siedem próbek."
+  },
+  {
+   "id": "pm:43073736",
+   "source": "pubmed",
+   "title": "Effects of organic fertilization on fatty acid composition and essential oil profile of Nigella sativa L",
+   "journal": "BMC Plant Biol",
+   "date": "2026-08-31",
+   "authors": "Acar A, Karan YB",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43073736/",
+   "topic": "eo",
+   "addedAt": "2026-11-24",
+   "summaryPl": "Badanie dotyczyło tego, jak rodzaj i dawka nawozów organicznych wpływają na skład oleju z nasion czarnuszki (Nigella sativa L.) oraz na skład jej olejku eterycznego. Doświadczenie polowe prowadzono przez dwa kolejne sezony (2022 i 2023) w Turcji, porównując pięć nawozów w czterech dawkach. Głównym kwasem tłuszczowym był kwas linolowy (56,64–58,23%), a głównym składnikiem olejku eterycznego tymochinon (36,82–41,75%). Najkorzystniejsze wyniki dała obornik owczy w dawce 6000 kg/ha, który zwiększał zawartość kwasu linolowego i oleinowego oraz tymochinonu.",
+   "titlePl": "Wpływ nawożenia organicznego na skład kwasów tłuszczowych i profil olejku eterycznego Nigella sativa L.",
+   "takeaway": "Skład olejku eterycznego i oleju z nasion zależy od sposobu uprawy, więc przy wyborze surowca warto patrzeć na dane z karty analitycznej, a nie tylko na nazwę gatunku. Ograniczeniem jest to, że wyniki pochodzą z jednego miejsca, jednej odmiany i dwóch sezonów, a artykuł nie dotyczy efektów zdrowotnych."
+  },
   {
    "id": "pm:43069535",
    "source": "pubmed",
