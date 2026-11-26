@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-11-25T15:19:25.806Z",
+ "updatedAt": "2026-11-26T14:44:33.432Z",
  "items": [
+  {
+   "id": "pm:43093621",
+   "source": "pubmed",
+   "title": "From Chemical Diversity to Biological Activity in Heracleum : Phytochemical Variability, Bioactive Constituents and Safety",
+   "journal": "Molecules",
+   "date": "2026-11-20",
+   "authors": "Husak V, Zadarko V, Bobrova O i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43093621/",
+   "topic": "eo",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Przegląd opisuje, jak bardzo różnią się składem chemicznym gatunki rodzaju Heracleum, zawierające m.in. olejki eteryczne, kumaryny i furanokumaryny. Autorzy zestawili wyniki badań z lat 2000–2026 pod kątem działania przeciwbakteryjnego, przeciwgrzybiczego, przeciwzapalnego, cytotoksycznego i innych. Najmocniejsze dowody dotyczą związków wyizolowanych w czystej postaci, a wiele badań prowadzono na ekstraktach lub olejkach. Autorzy podkreślają, że furanokumaryny, poza działaniem biologicznym, mogą powodować uczulenie skóry na światło UV (fototoksyczność).",
+   "titlePl": "Od różnorodności chemicznej do aktywności biologicznej u rodzaju Heracleum: zmienność fitochemiczna, składniki bioaktywne i bezpieczeństwo",
+   "takeaway": "Skład i działanie preparatów z Heracleum zależą od rośliny i sposobu jej przygotowania, więc wyników nie należy uogólniać na każdy produkt. Ze względu na ryzyko fototoksyczności zachowaj ostrożność przy kontakcie takich preparatów ze skórą i ekspozycji na słońce; przegląd opiera się w dużej mierze na badaniach laboratoryjnych, a dane dla ludzi są ograniczone."
+  },
+  {
+   "id": "pm:43093193",
+   "source": "pubmed",
+   "title": "Electrospun Nanofibers Loaded with Tea Tree and Cinnamon Oils for Wound Dressing Applications",
+   "journal": "Polymers (Basel)",
+   "date": "2026-11-16",
+   "authors": "Morsümbül S, Özgüney I, Uyanıkgil Y i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43093193/",
+   "topic": "tea",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Badanie dotyczyło opatrunków z nanowłókien poliuretanu (TPU) zawierających olejek z drzewa herbacianego (TTO) lub olejek cynamonowy (CO), testowanych pod kątem działania przeciwbakteryjnego, zgodności z komórkami i gojenia ran. Oceniono także uwalnianie olejków oraz gojenie ran u zwierząt, zdrowych i z cukrzycą. U zwierząt z cukrzycą po 14 dniach gojenie wyniosło 70,98% dla TTO i 68,93% dla CO, wobec około 57% dla gazy i czystego TPU. Wynik sugeruje, że rodzaj i stężenie olejku wpływają na działanie opatrunku.",
+   "titlePl": "Nanowłókna elektroprzędzone z olejkami z drzewa herbacianego i cynamonu do opatrunków na rany",
+   "takeaway": "To badanie laboratoryjne i na zwierzętach, więc nie przenosi się wprost na ludzi ani na praktykę domową. Nie należy traktować olejków jako zamiennika opatrunków medycznych, a rany, zwłaszcza u osób z cukrzycą, wymagają oceny lekarskiej."
+  },
+  {
+   "id": "pm:43089218",
+   "source": "pubmed",
+   "title": "Comparative Evaluation of the Effects of Aromatherapy and Music Listening on Anxiety in Children Undergoing Panoramic Radiography for the First Time",
+   "journal": "Healthcare (Basel)",
+   "date": "2026-11-14",
+   "authors": "Dal Dönertaş A, Temur KT, Akın Y i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43089218/",
+   "topic": "aroma",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Badanie porównywało wpływ aromaterapii olejkiem lawendowym, słuchania muzyki (Kanon D-dur Pachelbela) oraz obu tych metod razem na lęk i tętno u 108 dzieci przed zdjęciem panoramicznym. Dzieci losowo przydzielono do czterech grup po 27 osób, w tym grupy kontrolnej. Poziom lęku oceniano skalą FIS, a tętno mierzono przed i po badaniu. Lęk i tętno zmniejszyły się we wszystkich grupach z interwencją, a spadek FIS był istotnie większy w grupie aromaterapii i grupie łączonej niż w kontrolnej.",
+   "titlePl": "Porównawcza ocena wpływu aromaterapii i słuchania muzyki na lęk u dzieci, które po raz pierwszy wykonują zdjęcie panoramiczne",
+   "takeaway": "Badanie objęło niewielkie grupy (po 27 dzieci), a wyniki wymagają potwierdzenia w większych badaniach. Olejków u dzieci nie należy stosować bez wcześniejszej konsultacji z lekarzem lub pediatrą, a zastosowanie w tej sytuacji nie zastępuje przygotowania przez personel medyczny."
+  },
+  {
+   "id": "pm:43082724",
+   "source": "pubmed",
+   "title": "Plant-Derived Bioactive Compounds in Skin Cell Biology: Mechanisms of Barrier Repair, Photoaging Protection, and Microbiome Modulation",
+   "journal": "Cells",
+   "date": "2026-11-12",
+   "authors": "Ming H, Ding Z, Jin C i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43082724/",
+   "topic": "skin",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Przegląd dotyczył składników roślinnych stosowanych w kosmetykach, takich jak polifenole, flawonoidy, karotenoidy czy składniki olejków eterycznych. Omówiono ich możliwe działanie przeciwutleniające, przeciwzapalne i wspierające barierę skóry, a także wpływ na mikrobiom. Autorzy opisali badania prowadzone na komórkach skóry oraz wskazali główne ograniczenia: słabą stabilność, niską penetrację do skóry, zmienność ekstraktów i mało badań klinicznych.",
+   "titlePl": "Związki bioaktywne pochodzenia roślinnego w biologii komórek skóry: mechanizmy naprawy bariery, ochrony przed fotostarzeniem i modulacji mikrobiomu",
+   "takeaway": "Artykuł opiera się głównie na badaniach komórkowych i przeglądzie literatury, dlatego należy go traktować jako źródło wiedzy o mechanizmach, a nie dowód skuteczności konkretnych produktów. Nie należy obiecywać klientom efektów przeciwstarzeniowych ani regeneracyjnych."
+  },
+  {
+   "id": "pm:43093293",
+   "source": "pubmed",
+   "title": "Therapeutic Efficacy of Cinnamomum sintoc Aromatherapy Massage Formulation for Myofascial Pain Syndrome",
+   "journal": "Pharmaceuticals (Basel)",
+   "date": "2026-10-29",
+   "authors": "Inthanuchit KS, Jarukitsakul S, Subhadhirasakul S i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43093293/",
+   "topic": "aroma",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Badanie sprawdzało, jak masaż z dodatkiem olejku eterycznego Cinnamomum sintoc wpływa na ból, sprawność szyi i ramion oraz samopoczucie pacjentów z zespołem bólowym mięśniowo-powięziowym mięśnia czworobocznego. Był to randomizowany, jednostronnie zaślepiony badany klinicznie, w którym 70 osób podzielono na grupę z olejkiem i grupę kontrolną, bez olejku. Oceniano stan przed interwencją, zaraz po niej i po siedmiu dniach. Największa poprawa dotyczyła bólu i nastroju (zrelaksowania, stresu, zadowolenia) w grupie z olejkiem, a nie zgłoszono działań niepożądanych.",
+   "titlePl": "Skuteczność mieszanki olejku z Cinnamomum sintoc do masażu aromaterapeutycznego w zespole bólowym mięśniowo-powięziowym",
+   "takeaway": "Wynik dotyczy konkretnej mieszanki stosowanej razem z masażem, w grupie 70 osób z bólem mięśnia czworobocznego, i nie przenosi się automatycznie na inne dolegliwości czy inne olejki. W praktyce warto zachęcić klienta z przewlekłym bólem do konsultacji z lekarzem lub fizjoterapeutą."
+  },
+  {
+   "id": "pm:43081168",
+   "source": "pubmed",
+   "title": "Investigating the Effects of Lavender Oil Pretreatment on Histopathological Alterations, Inflammation, Oxidative Stress, and Calcium Homeostasis Genes in a Rat Cardiac Model of Ischemia/Reperfusion Injury",
+   "journal": "Adv Biomed Res",
+   "date": "2026-10-27",
+   "authors": "Khaksarian M, Nazari A, Fathollahi Shoorabeh F i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43081168/",
+   "topic": "sleep",
+   "addedAt": "2026-11-26",
+   "summaryPl": "Artykuł dotyczył tego, czy olejek lawendowy podany przed niedokrwieniem może ograniczać uszkodzenie mięśnia sercowego. Badanie wykonano na szczurach, u których wywołano model zawału przez 30-minutowe zamknięcie tętnicy wieńcowej, a następnie 24 godziny reperfuzji. Zwierzętom podawano olejek dootrzewnowo w trzech dawkach i oceniano stan zapalny, stres oksydacyjny, enzymy sercowe, wielkość zawału oraz ekspresję genów. Najsilniejsze działanie ochronne zaobserwowano przy dawce 200 mg/kg, gdzie zmniejszyły się markery stanu zapalnego, uszkodzenia i wielkość zawału.",
+   "titlePl": "Badanie wpływu wstępnego podania olejku lawendowego na zmiany histopatologiczne, stan zapalny, stres oksydacyjny i geny homeostazy wapnia w szczurzym modelu uszkodzenia serca typu niedokrwienie/reperfuzja",
+   "takeaway": "To badanie na zwierzętach, więc wyników nie można bezpośrednio przenosić na ludzi ani traktować jako dowodu na działanie w chorobach serca. Nie należy na tej podstawie zalecać olejków zamiast leczenia kardiologicznego."
+  },
   {
    "id": "pm:43077169",
    "source": "pubmed",
