@@ -1,6 +1,100 @@
 {
- "updatedAt": "2026-11-27T14:43:54.177Z",
+ "updatedAt": "2026-11-28T13:55:29.935Z",
  "items": [
+  {
+   "id": "pm:43104243",
+   "source": "pubmed",
+   "title": "Terpinen-4-ol-rich Essential Oil From Alpinia zerumbet Leaves: Chemical Characterization, Antifungal Activities Against Rhizopus stolonifer and Malassezia furfur, and Cytotoxic Effects",
+   "journal": "Chem Biodivers",
+   "date": "2026-12",
+   "authors": "Hercos GFL, Fernandes CC, Ribeiro AB i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104243/",
+   "topic": "eo",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Badano skład chemiczny olejku z liści Alpinia zerumbet, w którym dominował terpinen-4-ol (34,6%), oraz jego działanie przeciwgrzybicze wobec Rhizopus stolonifer i Malassezia furfur w warunkach laboratoryjnych. Olejek wykazał działanie grzybobójcze przy stężeniu 125 µg/mL wobec R. stolonifer i 62,5 µg/mL wobec M. furfur. W teście na ludzkich fibroblastach połowiczne zmniejszenie żywotności komórek wystąpiło dopiero przy 564,70 µg/mL, czyli znacznie powyżej stężeń działających na grzyby.",
+   "titlePl": "Olejek eteryczny z liści Alpinia zerumbet bogaty w terpinen-4-ol: skład chemiczny, działanie przeciwgrzybicze wobec Rhizopus stolonifer i Malassezia furfur oraz efekty cytotoksyczne",
+   "takeaway": "To badanie in vitro, bez testów na ludziach, więc nie potwierdza bezpieczeństwa ani skuteczności olejku w stosowaniu na skórze lub w leczeniu. Wynik dotyczący cytotoksyczności pokazuje, że stężenie ma znaczenie, dlatego przy jakimkolwiek zastosowaniu należy zachować ostrożność i nie wyciągać wniosków z danych laboratoryjnych do praktyki u ludzi."
+  },
+  {
+   "id": "pm:43104042",
+   "source": "pubmed",
+   "title": "Halitosis: aetiology, diagnosis and management strategies",
+   "journal": "Br Dent J",
+   "date": "2026-11-27",
+   "authors": "Madden L, Hodman D, Harrison P",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104042/",
+   "topic": "eo",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Jest to narracyjny przegląd piśmiennictwa o przyczynach, klasyfikacji, rozpoznawaniu i postępowaniu w halitozie, czyli nieprzyjemnym zapachu z jamy ustnej. Autorzy przeszukali bazy PubMed i Scopus, obejmując badania na ludziach w języku angielskim z lat 2010-2025, a wyniki zebrali w formie opisowej. Najczęstszą przyczyną są czynniki wewnątrzustne, takie jak налет na języku, zapalenie dziąseł lub przyzębia, a zalecenia opierają się przede wszystkim na higienie jamy ustnej, czyszczeniu języka i leczeniu przyzębia. Środki takie jak płukanki, olejki eteryczne czy probiotyki mogą wspierać leczenie, a utrzymujące się przypadki wymagają skierowania do specjalisty.",
+   "titlePl": "Nieświeży oddech (halitoza): etiologia, diagnostyka i strategie postępowania",
+   "takeaway": "Olejki eteryczne są wymienione jedynie jako możliwe wsparcie obok higieny i leczenia stomatologicznego, a streszczenie nie podaje szczegółów ich skuteczności. Jeśli klient ma uporczywy nieprzyjemny zapach z ust, warto zasugerować konsultację stomatologiczną lub lekarską, zamiast polegać na olejkach."
+  },
+  {
+   "id": "pm:43103297",
+   "source": "pubmed",
+   "title": "Elegant engineering of chitosan-derived hydrogels: advanced functionalization pathways for next-generation food preservation",
+   "journal": "Food Chem",
+   "date": "2026-11-25",
+   "authors": "Xie H, Zhang Z, Yang L i in.",
+   "types": [
+    "przegląd"
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43103297/",
+   "topic": "eo",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Przegląd dotyczy hydrożeli z chitozanu stosowanych w aktywnych i inteligentnych opakowaniach do żywności o dużej wilgotności. Autorzy zestawiają sposoby ulepszania tych materiałów, m.in. przy użyciu fenoli, czynników sieciujących, olejków eterycznych, naturalnych barwników i nanonapełniaczy, oraz opisują ich wpływ na stabilność, działanie przeciwdrobnoustrojowe i uwalnianie substancji czynnych. Wskazują też główne bariery wdrożeniowe, takie jak ocena ryzyka migracji, powtarzalność produkcji i zgodność z istniejącą infrastrukturą opakowań. Głównym wnioskiem jest potrzeba zintegrowanego projektowania zamiast optymalizacji pojedynczych cech.",
+   "titlePl": "Zaawansowane projektowanie hydrożeli z chitozanu: ścieżki funkcjonalizacji dla konserwacji żywności nowej generacji",
+   "takeaway": "Artykuł dotyczy opakowań do żywności, a nie stosowania olejków eterycznych u ludzi, dlatego jego wniosków nie należy przenosić na praktykę aromaterapeutyczną. Jako przegląd opisuje propozycje i kierunki badań, a nie potwierdzone wyniki każdej formulacji."
+  },
+  {
+   "id": "pm:43100966",
+   "source": "pubmed",
+   "title": "Lavender aromatherapy for rapid eye movement sleep behavior disorder: a retrospective case series",
+   "journal": "Front Sleep",
+   "date": "2026-11-12",
+   "authors": "Tabata H, Kuriyama A, Taniguchi M",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100966/",
+   "topic": "aroma",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Artykuł dotyczy tego, czy aromaterapia lawendowa może wspierać leczenie zaburzenia zachowania w czasie snu REM (RBD), gdy leki nie przynoszą dostatecznej poprawy. Autorzy retrospektywnie przeanalizowali dane dziewięciu pacjentów, u których rozpoznanie potwierdzono badaniem polisomnograficznym, a oceny dokonano skalą PGI-C oraz wywiadami kontrolnymi. Poprawę (wynik PGI-C 1-3) zgłosiło siedmiu z dziewięciu pacjentów, czyli 78%, a często wskazywano na mniej zachowań związanych ze snem ruchowym i lepszą jakość snu.",
+   "titlePl": "Aromaterapia lawendowa w zaburzeniu zachowania w czasie snu REM: retrospektywna seria przypadków",
+   "takeaway": "To ograniczone wyniki małej, retrospektywnej grupy bez opisanej grupy porównawczej, więc nie dają podstaw do obiecywania poprawy. Z klientem z problemami ze snem warto omówić, że o leczeniu RBD decyduje lekarz, a aromaterapia może być co najwyżej dodatkiem do konsultacji medycznej."
+  },
+  {
+   "id": "pm:43093472",
+   "source": "pubmed",
+   "title": "Cinnamaldehyde-Containing Combinations Demonstrate Favourable Cytotoxicity and Nitric Oxide Inhibitory Profiles In Vitro ",
+   "journal": "Molecules",
+   "date": "2026-11-12",
+   "authors": "Orchard A, Venables L, Hattingh AC i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43093472/",
+   "topic": "skin",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Badanie dotyczyło zapalenia skóry związanego z zakażeniami oraz tego, czy połączenia sześciu związków olejków eterycznych z ośmioma klasycznymi lekami przeciwdrobnoustrojowymi mogą ograniczać toksyczność dla komórek i produkcję tlenku azotu. Autorzy testowali te połączenia w warunkach laboratoryjnych, na linii keratynocytów (HaCaT) oraz makrofagach (RAW 264.7) pobudzanych LPS. Najkorzystniejszy ogólny profil wykazało połączenie ciprofloksacyna-cynamaldehyd, które hamowało produkcję tlenku azotu o 77,66% i miało najniższy wskaźnik interakcji cytotoksycznej (CI = 0,12). Autorzy podkreślają, że wyniki są wstępne i nie wystarczają, by potwierdzić skuteczność w leczeniu zakażeń skóry.",
+   "titlePl": "Połączenia zawierające cynamaldehyd wykazują korzystną cytotoksyczność i działanie hamujące tlenek azotu in vitro",
+   "takeaway": "To badanie in vitro na komórkach hodowlanych, więc nie przenosi się ono automatycznie na skórę człowieka ani na praktykę z olejkami. W tym samym badaniu sam cynamaldehyd wykazał najwyższą cytotoksyczność wobec komórek, co jest powodem do szczególnej ostrożności, a łączenia olejków z lekami nie należy traktować jako bezpiecznej rekomendacji."
+  },
+  {
+   "id": "pm:43090095",
+   "source": "pubmed",
+   "title": "Targeting Fungal Skin Infections with Lippia alba Essential Oil",
+   "journal": "Antibiotics (Basel)",
+   "date": "2026-10-23",
+   "authors": "Soares IL, Redondo JF, Liberal J i in.",
+   "types": [],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43090095/",
+   "topic": "skin",
+   "addedAt": "2026-11-28",
+   "summaryPl": "Badanie sprawdzało, czy olejki eteryczne dwóch chemotypów Lippia alba z Brazylii działają na grzyby skóry powodujące grzybicę (dermatofity). Najpierw oceniono aktywność przeciwgrzybiczą in vitro, a następnie najskuteczniejszy olejek (chemotyp bogaty w cytral i limonen) przebadano pod kątem tworzenia biofilmu, cytotoksyczności, zamykania ran na modelu fibroblastów oraz w modelu ludzkiej skóry ex vivo zakażonej Trichophyton rubrum. Olejek najlepiej działał, gdy stosowano go zapobiegawczo, czyli na wczesnym etapie tworzenia biofilmu, wykazywał niską cytotoksyczność i ograniczał kolonizację grzybów w modelu skórnym.",
+   "titlePl": "Olejek eteryczny z Lippia alba w zwalczaniu grzybiczych zakażeń skóry",
+   "takeaway": "To badanie laboratoryjne i na modelu skóry ex vivo, a nie na osobach z grzybicą, więc jego wyniki nie pozwalają wnioskować o skuteczności u ludzi. Nie należy traktować tego olejku jako sposobu leczenia zakażeń skóry; w razie zmian skórnych warto skonsultować się z lekarzem."
+  },
   {
    "id": "pm:43098934",
    "source": "pubmed",
